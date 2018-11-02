@@ -2,4 +2,4 @@
 	- split the work
 	- confirm the important variable to scrape
 	- begin to work
-
+2. Nov.9th finish the web scraping process and have a complete dataset 
