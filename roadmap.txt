@@ -4,3 +4,6 @@
 	- begin to work
 2. Nov.9th finish the web scraping process and have a complete dataset 
 3. Nov 12nd Data cleaning
+
+5. Nov.18th UI design
+	- come out with a visual interface to better realize our function.
