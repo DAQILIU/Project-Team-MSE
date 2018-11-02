@@ -2,4 +2,4 @@
 	- split the work
 	- confirm the important variable to scrape
 	- begin to work
-
+3. Nov 12nd Data cleaning
