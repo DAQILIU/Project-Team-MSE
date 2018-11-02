@@ -4,3 +4,5 @@
 	- begin to work
 2. Nov.9th finish the web scraping process and have a complete dataset 
 3. Nov 12nd Data cleaning
+4. Nov. 14th data analysis and regression model building & data visualization
+
