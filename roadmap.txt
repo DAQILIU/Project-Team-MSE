@@ -1,0 +1,5 @@
+1. Nov.5th confirm the sraping code of each one and split the scraping work between all of us.
+	- split the work
+	- confirm the important variable to scrape
+	- begin to work
+
