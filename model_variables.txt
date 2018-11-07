@@ -1,0 +1,1 @@
+We chose 22 variables for our model as following:
