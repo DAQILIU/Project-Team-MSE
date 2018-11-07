@@ -1,7 +1,6 @@
 We chose 22 variables for our model as following:
+
 dependent variable: price
-
-
 
 independent variables:
 host_response_rate
