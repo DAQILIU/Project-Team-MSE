@@ -1,0 +1,1585 @@
+,price,accommodates,bedrooms,beds,bathrooms,room_type,number_of_reviews,rating,lat,lon,superhost,response_rate
+0,"Price
+$135 per night",2,studio,1,1.0,Entire apartment,274 Reviews,Rating 4.5 out of 5,40.75128209311869,-73.97658015923106,false,
+1,"Price
+$125 per night",3,2,2,1.0,Entire apartment,241 Reviews,Rating 4.5 out of 5,40.72623680927863,-73.99327328551881,"true,",
+2,"Price
+$120",3,1,1,1.0,Entire apartment,162 Reviews,Rating 5 out of 5,40.73174521428503,-73.98755508025063,"true,",
+3,"Price
+$119",3,1,2,1.0,Entire apartment,143 Reviews,Rating 4.5 out of 5,40.75462449096644,-73.96869005604292,false,
+4,"Price
+$140",4,1,2,1.0,Entire apartment,298 Reviews,Rating 4.5 out of 5,40.764713408282454,-73.98781870529163,false,
+5,"Price
+$133",4,1,1,1.0,Entire condominium,319 Reviews,Rating 4.5 out of 5,40.7213458312412,-73.9965038891371,false,
+6,"Price
+$119",6,2,5,1.5,Entire apartment,75 Reviews,Rating 5 out of 5,40.77008505989637,-74.02479480636863,"true,",
+7,"Price
+$120",4,studio,2,1.0,Entire apartment,166 Reviews,Rating 4.5 out of 5,40.771177648895566,-73.95744303617367,false,
+8,"Price
+$130",2,studio,1,1.0,Entire apartment,86 Reviews,Rating 5 out of 5,40.7280393921221,-73.98212737278199,"true,",
+9,"Price
+$125",5,studio,3,1.0,Entire apartment,116 Reviews,Rating 4.5 out of 5,40.761228904509736,-73.99022091633975,false,
+10,"Price
+$135",4,2,2,1.0,Entire apartment,196 Reviews,Rating 4.5 out of 5,40.71444168806777,-73.98347631411652,false,
+11,"Price
+$139",6,1,3,1.0,Entire apartment,135 Reviews,Rating 4.5 out of 5,40.75015872126999,-73.98678960769328,false,
+12,"Price
+$125",3,1,2,1.0,Entire condominium,70 Reviews,Rating 5 out of 5,40.748393525207575,-73.98936204887809,"true,",
+13,"Price
+$119",5,studio,3,1.0,Entire apartment,150 Reviews,Rating 4.5 out of 5,40.746555791192094,-73.98740930282732,false,
+14,"Price
+$134",5,2,2,1.0,Entire apartment,320 Reviews,Rating 4.5 out of 5,40.71949668422157,-73.9597598686485,"true,",
+15,"Price
+$125",2,1,0,1.0,Private room in apartment,160 Reviews,Rating 5 out of 5,40.75510986913629,-73.99246948370542,"true,",
+16,"Price
+$115",3,1,1,1.0,Entire apartment,173 Reviews,Rating 4.5 out of 5,40.77634987514943,-73.93426094888281,false,
+17,"Price
+$120",5,2,3,1.0,NoneType,NoneType,no rating,40.7232814841168,-73.98926037536515,false,no info
+18,"Price
+$129 per night",5,studio,3,1.0,Entire apartment,126 Reviews,Rating 4.5 out of 5,40.74658578300404,-73.9874707100498,false,
+19,"Price
+$130 per night",2,1,1,1.0,Private room in apartment,52 Reviews,Rating 5 out of 5,40.729146019892,-74.00106080595802,"true,",
+20,"Price
+$125 per night",3,1,2,1.0,Entire apartment,166 Reviews,Rating 4.5 out of 5,40.73164307212315,-74.00327452723498,"true,",
+21,"Price
+$115 per night",2,1,1,2.0,Private room in apartment,232 Reviews,Rating 4.5 out of 5,40.76118386838481,-73.98994938489001,false,
+22,"Price
+$130 per night",2,1,1,1.0,Private room in apartment,141 Reviews,Rating 4.5 out of 5,40.761403918737386,-73.98954322983141,false,
+23,"Price
+$127 per night",4,1,2,1.0,Entire apartment,77 Reviews,Rating 4.5 out of 5,40.75510217561346,-73.99577103652105,false,
+24,"Price
+$115 per night",6,studio,3,1.0,Entire apartment,77 Reviews,Rating 4.5 out of 5,40.7510328097845,-73.97109830473731,false,
+25,"Price
+$117 per night",2,1,1,1.0,Entire apartment,339 Reviews,Rating 4.5 out of 5,40.728430633651115,-73.98895256971507,false,
+26,"Price
+$130 per night",3,1,1,1.0,Entire apartment,132 Reviews,Rating 4.5 out of 5,40.7540583809237,-73.99375745905145,"true,",
+27,"Price
+$129 per night",6,1,3,1.0,Entire apartment,77 Reviews,Rating 5 out of 5,40.7639159382266,-73.99523876971088,"true,",
+28,"Price
+$140 per night",2,1,1,1.0,Entire apartment,113 Reviews,Rating 4.5 out of 5,40.712308199831966,-73.99256849500979,false,
+29,"Price
+$130 per night",2,1,1,1.0,Private room in apartment,167 Reviews,Rating 4.5 out of 5,40.761461218391865,-73.99109212197659,false,
+30,"Price
+$115 per night",2,1,1,1.0,Entire apartment,152 Reviews,Rating 4.5 out of 5,40.74770777805104,-73.98727178099335,false,
+31,"Price
+$130 per night",3,studio,1,1.0,Entire apartment,115 Reviews,Rating 5 out of 5,40.743149964149396,-73.98399810889676,false,
+32,"Price
+$120 per night",2,1,1,1.0,Private room in apartment,142 Reviews,Rating 4.5 out of 5,40.75862590112267,-73.98471680399297,false,
+33,"Price
+$125 per night",4,1,2,1.0,Entire apartment,97 Reviews,Rating 4.5 out of 5,40.76517029415996,-73.9666497241668,false,
+34,"Price
+$120 per night",4,1,2,1.0,Entire serviced apartment,43 Reviews,Rating 5 out of 5,40.72521272066565,-74.03474977470863,false,
+35,"Price
+$130 per night",8,2,4,1.0,Entire apartment,89 Reviews,Rating 4.5 out of 5,40.765511822826014,-73.98730421603537,false,
+36,"Price
+$130 per night",8,2,4,1.0,Entire apartment,89 Reviews,Rating 4.5 out of 5,40.765511822826014,-73.98730421603537,false,
+37,"Price
+$119 per night",1,1,1,1.0,Private room in apartment,330 Reviews,Rating 5 out of 5,40.73883923737541,-73.98588032036821,false,
+38,"Price
+$125 per night",2,studio,1,1.0,Entire apartment,30 Reviews,Rating 5 out of 5,40.72191401324178,-73.9814081399718,"true,",
+39,"Price
+$120 per night",2,studio,1,1.0,Entire apartment,22 Reviews,Rating 4.5 out of 5,40.767691386819,-73.95496435023264,false, 79%
+40,"Price
+$143 per night",6,1,4,1.0,Entire apartment,109 Reviews,Rating 5 out of 5,40.740631901950366,-73.9820503755896,"true,", 100%
+41,"Price
+$125 per night",2,studio,1,1.0,Entire apartment,157 Reviews,Rating 4.5 out of 5,40.74077586092403,-73.99922901765069,"true,", 100%
+42,"Price
+$135 per night",4,2,1,1.0,Entire apartment,213 Reviews,Rating 4 out of 5,40.76744376301503,-73.96117851113553,false, 100%
+43,"Price
+$120 per night",4,1,1,1.0,Entire apartment,23 Reviews,Rating 4.5 out of 5,40.755523590323726,-73.99815887409557,false, 100%
+44,"Price
+$125 per night",4,1,1,1.0,Private room in apartment,109 Reviews,Rating 4.5 out of 5,40.7569946273273,-73.98493327749615,false, 100%
+45,"Price
+$130 per night",5,2,3,1.0,Entire apartment,179 Reviews,Rating 4.5 out of 5,40.72861696951436,-73.98885133706563,false, 100%
+46,"Price
+$120 per night",4,1,2,1.0,Private room in loft,144 Reviews,Rating 5 out of 5,40.707070040426814,-73.91384403544535,"true,", 100%
+47,"Price
+$115 per night",2,1,1,1.0,Entire apartment,50 Reviews,Rating 5 out of 5,40.75005381753592,-73.99897875455638,"true,", 100%
+48,"Price
+$138 per night",4,2,2,1.0,Entire apartment,62 Reviews,Rating 5 out of 5,40.725909940547254,-73.95644592255847,"true,", 100%
+49,"Price
+$129 per night",8,2,5,1.0,Entire apartment,232 Reviews,Rating 4 out of 5,40.767268953353785,-73.9583852813232,false, 100%
+50,"Price
+$115 per night",3,studio,1,1.0,Entire apartment,99 Reviews,Rating 4.5 out of 5,40.73035938946042,-73.98043788745379,false, 100%
+51,"Price
+$119 per night",2,1,1,1.0,Entire apartment,128 Reviews,Rating 5 out of 5,40.76637098442821,-73.98342046108264,"true,", 100%
+52,"Price
+$130 per night",6,2,4,1.0,Entire loft,251 Reviews,Rating 5 out of 5,40.69806923751123,-73.98473499295291,"true,", 100%
+53,"Price
+$125 per night",3,1,1,1.0,Entire apartment,43 Reviews,Rating 4.5 out of 5,40.760088671786825,-73.9847207549191,false, 64%
+54,"Price
+$125 per night",3,1,1,1.0,Entire apartment,43 Reviews,Rating 4.5 out of 5,40.760088671786825,-73.9847207549191,false, 64%
+55,"Price
+$144 per night",3,1,1,1.0,Entire apartment,93 Reviews,Rating 4.5 out of 5,40.71832690256456,-73.98817666235212,false, 100%
+56,"Price
+$115 per night",4,1,2,1.0,Entire apartment,23 Reviews,Rating 5 out of 5,40.76149777981011,-73.99041044652618,"true,", 100%
+57,"Price
+$138 per night",3,1,1,1.0,NoneType,NoneType,no rating,40.72182621090908,-73.98870201456955,false,no info
+58,"Price
+$117 per night",3,1,2,1.0,Entire apartment,68 Reviews,Rating 4.5 out of 5,40.75644972214447,-73.97049175176709,false, 100%
+59,"Price
+$131 per night",6,2,3,2.0,Entire apartment,221 Reviews,Rating 4.5 out of 5,40.765569907376936,-73.98700358100757,false, 100%
+60,"Price
+$118 per night",5,1,1,1.0,Entire apartment,72 Reviews,Rating 4.5 out of 5,40.76028196680069,-73.99013769594319,"true,", 98%
+61,"Price
+$115 per night",4,studio,2,1.0,Entire apartment,209 Reviews,Rating 4.5 out of 5,40.764586911904004,-73.9584088801947,false, 100%
+62,"Price
+$139 per night",4,1,2,1.0,Entire apartment,53 Reviews,Rating 5 out of 5,40.743266260741855,-74.00343312338809,"true,", 94%
+63,"Price
+$131 per night",5,2,2,1.0,Entire apartment,214 Reviews,Rating 4.5 out of 5,40.718759299246,-73.98850503185795,false, 100%
+64,"Price
+$140 per night",3,1,2,1.0,Entire loft,39 Reviews,Rating 4.5 out of 5,40.69970633705947,-73.9372906547774,false, 100%
+65,"Price
+$120 per night",2,studio,1,1.0,Entire apartment,97 Reviews,Rating 4.5 out of 5,40.74683396320898,-73.98760886623178,"true,", 90%
+66,"Price
+$125 per night",4,1,3,1.0,Entire apartment,157 Reviews,Rating 5 out of 5,40.80473053249115,-73.94763167385865,"true,", 100%
+67,"Price
+$140 per night",5,1,2,1.0,Private room in apartment,150 Reviews,Rating 4.5 out of 5,40.761804944487295,-73.99093438508419,false, 99%
+68,"Price
+$135 per night",4,studio,1,1.0,Entire loft,160 Reviews,Rating 4.5 out of 5,40.699371127830155,-73.91463408481556,"true,", 90%
+69,"Price
+$130 per night",3,studio,1,1.0,Entire apartment,123 Reviews,Rating 5 out of 5,40.72175622987953,-73.99424250955525,"true,", 100%
+70,"Price
+$130 per night",5,2,3,1.0,Entire apartment,66 Reviews,Rating 4 out of 5,40.754319053633736,-73.99845839395806,false, 100%
+71,"Price
+$117 per night",2,studio,1,1.0,Entire apartment,128 Reviews,Rating 4.5 out of 5,40.76609603897276,-73.9573045907079,false, 100%
+72,"Price
+$135 per night",2,studio,2,1.0,Entire apartment,22 Reviews,Rating 5 out of 5,40.76923529832789,-73.94864989248953,"true,", 100%
+73,"Price
+$120 per night",4,studio,2,1.0,Entire condominium,127 Reviews,Rating 4 out of 5,40.754518771654276,-73.96767102649656,false, 100%
+74,"Price
+$115 per night",2,1,1,1.0,Entire apartment,138 Reviews,Rating 4.5 out of 5,40.7349563618911,-73.99745713998408,false, 100%
+75,"Price
+$135 per night",2,1,1,1.0,Private room in apartment,159 Reviews,Rating 5 out of 5,40.760150740909204,-73.99085847528333,false, 99%
+76,"Price
+$140 per night",6,3,4,1.0,Entire apartment,15 Reviews,Rating 5 out of 5,40.70467836297969,-74.00771992104507,false, 100%
+77,"Price
+$135 per night",3,1,1,2.0,Private room in apartment,199 Reviews,Rating 4.5 out of 5,40.745534286117895,-73.98942588188858,false, 100%
+78,"Price
+$120 per night",4,1,2,1.0,Entire apartment,208 Reviews,Rating 4.5 out of 5,40.76288256840381,-73.96448500589844,false, 93%
+79,"Price
+$140 per night",2,1,1,1.0,Entire apartment,34 Reviews,Rating 4.5 out of 5,40.80745972506948,-73.93757986166747,false, 100%
+80,"Price
+$130 per night",2,studio,2,1.0,Entire apartment,54 Reviews,Rating 4.5 out of 5,40.72833896975335,-73.98048453813853,false, 100%
+81,"Price
+$130 per night",6,2,3,1.0,Entire apartment,90 Reviews,Rating 4 out of 5,40.788573986028545,-73.9432804751003,false, 100%
+82,"Price
+$120 per night",2,1,1,2.5,Private room in loft,15 Reviews,Rating 4.5 out of 5,40.721958929279616,-74.00005950591951,false,
+83,"Price
+$129 per night",4,1,2,1.5,Private room in apartment,198 Reviews,Rating 4.5 out of 5,40.771482002422815,-73.9822649670337,false, 100%
+84,"Price
+$144 per night",4,1,2,1.0,Entire apartment,134 Reviews,Rating 5 out of 5,40.735060823033706,-73.95392338061228,false, 100%
+85,"Price
+$125 per night",3,1,1,1.0,Entire apartment,85 Reviews,Rating 4.5 out of 5,40.71255034394963,-73.99673079521912,false, 100%
+86,"Price
+$129 per night",4,studio,2,1.0,Entire apartment,103 Reviews,Rating 4.5 out of 5,40.78461253259961,-73.97627390088745,false, 100%
+87,"Price
+$125 per night",4,1,2,1.0,NoneType,118 Reviews,Rating 4.5 out of 5,40.76291951674079,-73.98794814023168,false,no info
+88,"Price
+$143 per night",2,1,1,1.0,Private room in apartment,71 Reviews,Rating 5 out of 5,40.74358885215327,-73.99799857497268,"true,", 100%
+89,"Price
+$117 per night",3,1,3,1.0,Private room in apartment,157 Reviews,Rating 4.5 out of 5,40.79750875743148,-73.96167663871509,false, 100%
+90,"Price
+$119 per night",2,1,1,1.0,Private room in apartment,101 Reviews,Rating 5 out of 5,40.76319883565893,-73.98874555831605,false, 80%
+91,"Price
+$133 per night",3,1,2,1.0,Entire apartment,146 Reviews,Rating 4.5 out of 5,40.72686469400191,-73.9796986894977,false, 100%
+92,"Price
+$120 per night",2,1,1,1.0,Private room in apartment,57 Reviews,Rating 5 out of 5,40.734649088637816,-74.00672350224849,"true,", 100%
+93,"Price
+$125 per night",4,1,2,1.0,Entire apartment,118 Reviews,Rating 4.5 out of 5,40.76291951674079,-73.98794814023168,false, 100%
+94,"Price
+$117 per night",3,1,3,1.0,Private room in apartment,157 Reviews,Rating 4.5 out of 5,40.79750875743148,-73.96167663871509,false, 100%
+95,"Price
+$117 per night",4,studio,4,1.0,Entire apartment,225 Reviews,Rating 4.5 out of 5,40.74257106317407,-73.98207027376533,false, 100%
+96,"Price
+$130 per night",3,1,1,1.0,Entire apartment,128 Reviews,Rating 4.5 out of 5,40.7938217824118,-73.94333899809119,false, 90%
+97,"Price
+$115 per night",2,1,1,1.0,Private room in loft,150 Reviews,Rating 5 out of 5,40.70317838294184,-73.98780122620825,"true,", 100%
+98,"Price
+$130 per night",2,1,1,1.0,Entire apartment,9 Reviews,Rating 4.5 out of 5,40.76094722337545,-73.96380140714501,false, 100%
+99,"Price
+$120 per night",2,1,1,1.0,Private room in apartment,113 Reviews,Rating 5 out of 5,40.73607020817434,-73.95200580560736,false, 100%
+100,"Price
+$120 per night",6,3,3,1.0,Entire apartment,41 Reviews,Rating 5 out of 5,40.70450124007585,-74.00722523265738,"true,", 100%
+101,"Price
+$135 per night",2,1,1,1.0,Entire apartment,114 Reviews,Rating 5 out of 5,40.719079582941475,-73.98632600855635,false, 100%
+102,"Price
+$129 per night",2,1,1,1.0,Entire apartment,47 Reviews,Rating 4.5 out of 5,40.80462980351603,-73.95054693950331,false, 100%
+103,"Price
+$125 per night",6,3,2,1.0,Entire apartment,39 Reviews,Rating 4.5 out of 5,40.76495138293194,-73.98773947881476,false, 100%
+104,"Price
+$129 per night",2,1,1,,Entire apartment,158 Reviews,Rating 5 out of 5,40.77955873580403,-73.98098321702007,"true,", 100%
+105,"Price
+$127 per night",7,1,2,1.0,Entire apartment,144 Reviews,Rating 4.5 out of 5,40.74834814565836,-74.00336031020464,false, 100%
+106,"Price
+$129 per night",4,studio,1,1.0,Entire apartment,86 Reviews,Rating 5 out of 5,40.744099686960986,-73.98833898672504,false, 100%
+107,"Price
+$144 per night",3,1,1,1.0,Entire apartment,50 Reviews,Rating 4.5 out of 5,40.72599927880296,-74.0027446112689,false, 100%
+108,"Price
+$139 per night",4,1,2,1.0,Entire apartment,41 Reviews,Rating 5 out of 5,40.758246403154615,-73.99160540957166,"true,", 100%
+109,"Price
+$125 per night",4,2,1,1.0,Entire apartment,36 Reviews,Rating 4.5 out of 5,40.70982148595633,-74.00627692007555,false, 100%
+110,"Price
+$133 per night",3,1,2,1.0,Entire apartment,146 Reviews,Rating 4.5 out of 5,40.72686469400191,-73.9796986894977,false, 100%
+111,"Price
+$126 per night",5,1,1,1.0,Entire apartment,81 Reviews,Rating 4.5 out of 5,40.72001254609754,-73.9863054229814,false, 100%
+112,"Price
+$140 per night",2,1,1,1.0,Private room in loft,18 Reviews,Rating 5 out of 5,40.721837026152045,-73.9990690997021,false,
+113,"Price
+$140 per night",2,1,1,1.0,Entire apartment,1 Review,no rating,40.76434829452083,-73.98750495819776,false, 100%
+114,"Price
+$137 per night",4,studio,1,1.0,Entire apartment,69 Reviews,Rating 5 out of 5,40.76071587912235,-73.96193906522211,"true,", 96%
+115,"Price
+$130 per night",3,1,2,1.0,Entire apartment,100 Reviews,Rating 4.5 out of 5,40.696253903181685,-73.93695849572782,false, 100%
+116,"Price
+$115 per night",1,1,1,1.0,Private room in apartment,72 Reviews,Rating 5 out of 5,40.760157692263775,-73.99205096547655,"true,", 100%
+117,"Price
+$120 per night",2,studio,1,1.0,Entire serviced apartment,45 Reviews,Rating 4.5 out of 5,40.744942918809365,-73.99701642371299,"true,",
+118,"Price
+$117 per night",3,1,3,1.0,Private room in apartment,157 Reviews,Rating 4.5 out of 5,40.79750875743148,-73.96167663871509,false, 100%
+119,"Price
+$135 per night",8,3,5,1.5,Entire apartment,58 Reviews,Rating 4.5 out of 5,40.7698159632508,-73.95304943614836,false, 88%
+120,"Price
+$127 per night",7,1,2,1.0,Entire apartment,144 Reviews,Rating 4.5 out of 5,40.74834814565836,-74.00336031020464,false, 100%
+121,"Price
+$115 per night",2,1,1,1.0,Private room in apartment,63 Reviews,Rating 5 out of 5,40.79656727811801,-73.96239887030569,"true,", 100%
+122,"Price
+$129 per night",2,1,1,1.0,Private room in apartment,40 Reviews,Rating 5 out of 5,40.77518687774837,-73.95153094987955,"true,", 98%
+123,"Price
+$133 per night",5,studio,3,1.0,Entire apartment,76 Reviews,Rating 4.5 out of 5,40.74100491543483,-73.98201855860411,false, 100%
+124,"Price
+$129 per night",7,2,4,1.0,Entire apartment,174 Reviews,Rating 4 out of 5,40.765180425298134,-73.98745982781719,false, 100%
+125,"Price
+$135 per night",3,1,2,1.0,Entire apartment,72 Reviews,Rating 5 out of 5,40.772895173629976,-73.9573797784503,"true,",
+126,"Price
+$120 per night",3,studio,1,1.0,Entire apartment,26 Reviews,Rating 4.5 out of 5,40.75917219701171,-73.95916437170935,false,
+127,"Price
+$120 per night",4,1,2,1.0,Entire apartment,77 Reviews,Rating 4.5 out of 5,40.739072067369634,-73.99943316550551,false,
+128,"Price
+$125 per night",2,studio,0,1.0,Entire apartment,99 Reviews,Rating 4.5 out of 5,40.747019263387735,-73.98500995891919,false,
+129,"Price
+$142 per night",2,1,2,1.0,Entire apartment,75 Reviews,Rating 5 out of 5,40.764636243777794,-73.9874945980013,"true,",
+130,"Price
+$135 per night",4,studio,2,1.0,Entire apartment,178 Reviews,Rating 4.5 out of 5,40.801392772279094,-73.9543254684269,"true,",
+131,"Price
+$128 per night",3,1,1,1.0,Entire apartment,41 Reviews,Rating 4.5 out of 5,40.71602893374567,-73.96426061303802,false,
+132,"Price
+$128 per night",3,1,1,1.0,Entire apartment,130 Reviews,Rating 4.5 out of 5,40.71116568536848,-73.96593495556806,false,
+133,"Price
+$129 per night",2,1,1,1.0,Entire apartment,244 Reviews,Rating 5 out of 5,40.76077584390155,-73.99075631971156,false,
+134,"Price
+$140 per night",4,2,3,1.0,Entire apartment,79 Reviews,Rating 4.5 out of 5,40.74991911777246,-73.98619084033565,false,
+135,"Price
+$125 per night",2,studio,1,1.0,Entire apartment,99 Reviews,Rating 5 out of 5,40.77617270052102,-73.94677300711605,"true,",
+136,"Price
+$117 per night",3,1,1,1.0,NoneType,NoneType,no rating,40.70734593116853,-74.00657051608046,"true,",no info
+137,"Price
+$127 per night",4,1,1,1.0,Entire apartment,66 Reviews,Rating 5 out of 5,40.719867053033134,-73.99646064643703,"true,",
+138,"Price
+$140 per night",2,1,1,1.0,Entire apartment,46 Reviews,Rating 4.5 out of 5,40.721713490587575,-73.98306737544995,false,
+139,"Price
+$135 per night",4,2,3,1.0,Entire apartment,117 Reviews,Rating 5 out of 5,40.70852570516609,-74.0069560011347,"true,",
+140,"Price
+$134 per night",3,1,2,1.0,Entire apartment,57 Reviews,Rating 4.5 out of 5,40.727847229888695,-73.97975605081423,false,
+141,"Price
+$120 per night",2,1,1,1.0,Entire apartment,148 Reviews,Rating 5 out of 5,40.71082733075138,-73.9640110546138,"true,",
+142,"Price
+$115 per night",5,1,1,1.0,Entire apartment,85 Reviews,Rating 4.5 out of 5,40.76091764885998,-73.96338534447493,false,
+143,"Price
+$120 per night",3,studio,1,1.0,Entire apartment,28 Reviews,Rating 4.5 out of 5,40.71490979322758,-74.01091577790785,false,
+144,"Price
+$119 per night",4,1,2,1.0,Entire apartment,132 Reviews,Rating 4.5 out of 5,40.7463348062873,-73.97456356190106,false,
+145,"Price
+$115 per night",8,2,4,1.0,Entire apartment,138 Reviews,Rating 5 out of 5,40.78959079501215,-74.00703212650043,"true,",
+146,"Price
+$120 per night",3,1,1,1.0,Entire apartment,187 Reviews,Rating 5 out of 5,40.77476976238926,-73.981202099849,"true,",
+147,"Price
+$125 per night",2,studio,1,1.0,Entire apartment,25 Reviews,Rating 4.5 out of 5,40.76683599266779,-73.96202634030936,"true,",
+148,"Price
+$130 per night",3,studio,1,1.0,Entire apartment,140 Reviews,Rating 4.5 out of 5,40.73179836081435,-73.98322103120087,false,
+149,"Price
+$140 per night",2,studio,1,1.0,Entire apartment,67 Reviews,Rating 4.5 out of 5,40.76211796920981,-73.96358031739801,false,
+150,"Price
+$125 per night",4,1,2,1.0,Entire apartment,40 Reviews,Rating 4.5 out of 5,40.74370747603477,-73.98454356427179,"true,",
+151,"Price
+$135 per night",2,studio,2,1.0,Entire apartment,143 Reviews,Rating 5 out of 5,40.71625060017525,-73.96344085168674,"true,",
+152,"Price
+$133 per night",5,1,2,1.0,Entire apartment,52 Reviews,Rating 4.5 out of 5,40.74128336913609,-73.98069355367292,false,
+153,"Price
+$119 per night",2,studio,1,1.0,Entire apartment,52 Reviews,Rating 4 out of 5,40.726461871813825,-73.98685207772266,false,
+154,"Price
+$135 per night",5,2,2,1.0,Entire apartment,73 Reviews,Rating 4.5 out of 5,40.78821988033103,-73.94870949233503,false,
+155,"Price
+$120 per night",2,studio,1,1.0,Entire apartment,49 Reviews,Rating 5 out of 5,40.75037183541947,-73.9985751150708,"true,",
+156,"Price
+$122 per night",5,2,2,1.0,Entire apartment,212 Reviews,Rating 4.5 out of 5,40.78358581900569,-74.00689094325286,false,
+157,"Price
+$128 per night",8,4,4,1.0,Entire house,71 Reviews,Rating 5 out of 5,40.76956597257264,-74.02105541274156,"true,",
+158,"Price
+$143 per night",5,2,3,1.0,Entire apartment,39 Reviews,Rating 4.5 out of 5,40.75845457146519,-73.99043315839864,false,
+159,"Price
+$139 per night",4,1,2,1.0,Entire apartment,106 Reviews,Rating 4.5 out of 5,40.783384731985436,-73.95008256462064,false,
+160,"Price
+$135 per night",2,studio,2,1.0,Entire apartment,30 Reviews,Rating 4.5 out of 5,40.763657110423466,-73.9909637131172,false,
+161,"Price
+$139 per night",2,1,1,1.0,Entire apartment,160 Reviews,Rating 4.5 out of 5,40.788281704600536,-73.96916164334951,false,
+162,"Price
+$116 per night",4,2,2,1.0,Entire apartment,253 Reviews,Rating 4.5 out of 5,40.718118110468396,-73.98618608715992,false,
+163,"Price
+$117 per night",3,1,2,1.0,Entire apartment,182 Reviews,Rating 5 out of 5,40.710234493486745,-73.95688405837036,"true,",
+164,"Price
+$125 per night",4,1,3,1.0,Private room in house,46 Reviews,Rating 4 out of 5,40.75852611882024,-73.98723353238472,false,
+165,"Price
+$130 per night",2,studio,1,1.0,Entire townhouse,161 Reviews,Rating 4.5 out of 5,40.8085584624179,-73.94572880835048,false,
+166,"Price
+$139 per night",5,studio,3,1.0,Entire apartment,21 Reviews,Rating 5 out of 5,40.747207427944076,-73.98558840762756,false,
+167,"Price
+$115 per night",4,studio,1,1.0,Entire apartment,72 Reviews,Rating 4.5 out of 5,40.79846671123561,-73.96791841705577,false,
+168,"Price
+$125 per night",4,1,2,1.0,Entire apartment,69 Reviews,Rating 4.5 out of 5,40.77281431365668,-73.95626910442866,false,
+169,"Price
+$144 per night",2,studio,1,1.0,Entire apartment,13 Reviews,Rating 5 out of 5,40.75128727690115,-73.99560571546479,false,
+170,"Price
+$140 per night",2,1,1,1.0,Entire apartment,155 Reviews,Rating 4.5 out of 5,40.73353921467545,-73.9859286881647,false,
+171,"Price
+$130 per night",4,2,2,2.0,Entire apartment,27 Reviews,Rating 5 out of 5,40.720466151094854,-74.04319805313294,"true,",
+172,"Price
+$125 per night",2,1,2,1.0,Private room in apartment,55 Reviews,Rating 5 out of 5,40.75721159831463,-73.99690023960655,"true,",
+173,"Price
+$135 per night",6,1,3,1.0,Entire loft,148 Reviews,Rating 5 out of 5,40.71426516848243,-73.9467083468043,"true,",
+174,"Price
+$120 per night",3,1,1,1.0,Entire apartment,20 Reviews,Rating 4.5 out of 5,40.754471014144244,-73.9988433478472,"true,",
+175,"Price
+$125 per night",3,1,2,1.0,Entire house,68 Reviews,Rating 5 out of 5,40.762017575008095,-74.03035098658764,"true,",
+176,"Price
+$135 per night",2,1,1,1.0,Entire apartment,76 Reviews,Rating 5 out of 5,40.73317527919204,-73.98436473681704,false,
+177,"Price
+$120 per night",3,1,1,1.0,Private room in apartment,56 Reviews,Rating 4.5 out of 5,40.71920789961057,-73.99238395222304,false,
+178,"Price
+$115 per night",3,2,2,1.0,Entire apartment,119 Reviews,Rating 4.5 out of 5,40.72934484053191,-74.00074996978299,"true,",
+179,"Price
+$129 per night",2,1,2,1.0,Entire apartment,76 Reviews,Rating 5 out of 5,40.74550972069977,-74.02863484185386,"true,",
+180,"Price
+$129 per night",6,1,3,1.0,Entire apartment,77 Reviews,Rating 5 out of 5,40.7639159382266,-73.99523876971088,"true,", 100%
+181,"Price
+$129 per night",5,studio,3,1.0,Entire apartment,126 Reviews,Rating 4.5 out of 5,40.74658578300404,-73.9874707100498,false, 96%
+182,"Price
+$150 per night",4,1,2,1.0,Entire apartment,342 Reviews,Rating 5 out of 5,40.70687875575845,-73.9449324451983,"true,", 100%
+183,"Price
+$150 per night",4,studio,2,1.0,Entire apartment,28 Reviews,Rating 4.5 out of 5,40.715807415557705,-73.95422677878345,false,
+184,"Price
+$130 per night",3,1,1,1.0,Entire apartment,132 Reviews,Rating 4.5 out of 5,40.7540583809237,-73.99375745905145,"true,", 100%
+185,"Price
+$140 per night",5,1,2,1.0,Private room in apartment,150 Reviews,Rating 4.5 out of 5,40.761804944487295,-73.99093438508419,false, 99%
+186,"Price
+$150 per night",4,1,2,1.0,Entire apartment,26 Reviews,Rating 5 out of 5,40.7407329410604,-74.00303880582146,"true,", 100%
+187,"Price
+$149 per night",4,1,2,1.0,Entire condominium,9 Reviews,Rating 5 out of 5,40.714468498273725,-73.99618867188117,false, 100%
+188,"Price
+$149 per night",2,studio,1,1.0,Entire apartment,210 Reviews,Rating 5 out of 5,40.734640577759215,-74.00083977971131,"true,", 100%
+189,"Price
+$149 per night",3,1,1,1.0,Entire apartment,90 Reviews,Rating 4.5 out of 5,40.728659180675784,-73.98047697223366,false, 100%
+190,"Price
+$138 per night",4,2,2,1.0,Entire apartment,62 Reviews,Rating 5 out of 5,40.725909940547254,-73.95644592255847,"true,", 100%
+191,"Price
+$145 per night",3,1,2,1.0,Entire apartment,145 Reviews,Rating 4.5 out of 5,40.75731797291365,-73.98276331442625,false, 100%
+192,"Price
+$140 per night",3,1,2,1.0,Entire loft,39 Reviews,Rating 4.5 out of 5,40.69970633705947,-73.9372906547774,false, 100%
+193,"Price
+$149 per night",3,1,1,1.0,Entire apartment,179 Reviews,Rating 4.5 out of 5,40.7632625319333,-73.98886528789433,false, 100%
+194,"Price
+$144 per night",3,1,1,1.0,Entire apartment,93 Reviews,Rating 4.5 out of 5,40.71832690256456,-73.98817666235212,false, 100%
+195,"Price
+$130 per night",2,1,1,1.0,Private room in apartment,52 Reviews,Rating 5 out of 5,40.729146019892,-74.00106080595802,"true,", 100%
+196,"Price
+$125 per night",2,1,1,1.0,Private room in apartment,149 Reviews,Rating 5 out of 5,40.761848472443454,-73.99126171541799,false, 99%
+197,"Price
+$135 per night",4,2,1,1.0,Entire apartment,213 Reviews,Rating 4 out of 5,40.76744376301503,-73.96117851113553,false, 100%
+198,"Price
+$135 per night",4,2,1,1.0,Entire apartment,213 Reviews,Rating 4 out of 5,40.76744376301503,-73.96117851113553,false, 100%
+199,"Price
+$125 per night",3,1,1,1.0,Entire apartment,43 Reviews,Rating 4.5 out of 5,40.760088671786825,-73.9847207549191,false, 64%
+200,"Price
+$130 per night",3,studio,1,1.0,Entire apartment,115 Reviews,Rating 5 out of 5,40.743149964149396,-73.98399810889676,false, 100%
+201,"Price
+$135 per night",4,studio,1,1.0,Entire loft,160 Reviews,Rating 4.5 out of 5,40.699371127830155,-73.91463408481556,"true,", 90%
+202,"Price
+$130 per night",8,2,4,1.0,Entire apartment,89 Reviews,Rating 4.5 out of 5,40.765511822826014,-73.98730421603537,false, 100%
+203,"Price
+$125 per night",2,studio,1,1.0,NoneType,NoneType,no rating,40.72191401324178,-73.9814081399718,"true,",no info
+204,"Price
+$130 per night",6,2,4,1.0,Entire loft,251 Reviews,Rating 5 out of 5,40.69806923751123,-73.98473499295291,"true,", 100%
+205,"Price
+$125 per night",2,studio,1,1.0,Entire apartment,157 Reviews,Rating 4.5 out of 5,40.74077586092403,-73.99922901765069,"true,", 100%
+206,"Price
+$150 per night",4,1,1,1.0,Entire apartment,135 Reviews,Rating 4.5 out of 5,40.761589999318005,-73.99080973866766,false, 100%
+207,"Price
+$145 per night",2,studio,1,1.0,Entire apartment,53 Reviews,Rating 5 out of 5,40.7644261133169,-73.96603230542912,"true,", 100%
+208,"Price
+$147 per night",4,1,2,1.0,Entire apartment,96 Reviews,Rating 4.5 out of 5,40.738371453335645,-74.00801496705522,false, 97%
+209,"Price
+$138 per night",3,1,1,1.0,Entire apartment,246 Reviews,Rating 4.5 out of 5,40.72182621090908,-73.98870201456955,false, 70%
+210,"Price
+$125 per night",4,1,3,1.0,Entire apartment,157 Reviews,Rating 5 out of 5,40.80473053249115,-73.94763167385865,"true,", 100%
+211,"Price
+$130 per night",3,studio,1,1.0,Entire apartment,123 Reviews,Rating 5 out of 5,40.72175622987953,-73.99424250955525,"true,", 100%
+212,"Price
+$130 per night",5,2,3,1.0,Entire apartment,179 Reviews,Rating 4.5 out of 5,40.72861696951436,-73.98885133706563,false, 100%
+213,"Price
+$150 per night",3,1,2,1.0,Private room in apartment,109 Reviews,Rating 5 out of 5,40.764919505326645,-73.99127979500274,"true,", 79%
+214,"Price
+$150 per night",6,2,2,1.0,Entire apartment,64 Reviews,Rating 4.5 out of 5,40.79901649529778,-73.96117561984862,false, 100%
+215,"Price
+$135 per night",2,studio,1,1.0,Entire apartment,100 Reviews,Rating 5 out of 5,40.71237733873547,-73.96562927395256,"true,", 100%
+216,"Price
+$125 per night",4,1,3,1.0,Entire apartment,157 Reviews,Rating 5 out of 5,40.80473053249115,-73.94763167385865,"true,", 100%
+217,"Price
+$129 per night",8,2,5,1.0,Entire apartment,232 Reviews,Rating 4 out of 5,40.767268953353785,-73.9583852813232,false, 100%
+218,"Price
+$150 per night",3,1,2,1.0,Private room in apartment,109 Reviews,Rating 5 out of 5,40.764919505326645,-73.99127979500274,"true,", 79%
+219,"Price
+$130 per night",5,2,3,1.0,Entire apartment,87 Reviews,Rating 5 out of 5,40.71809050634776,-73.99811169509113,"true,", 94%
+220,"Price
+$150 per night",5,2,4,1.0,Entire apartment,110 Reviews,Rating 4.5 out of 5,40.76139779401947,-73.98796901982764,false, 94%
+221,"Price
+$140 per night",2,1,1,1.0,Entire apartment,34 Reviews,Rating 4.5 out of 5,40.80745972506948,-73.93757986166747,false, 100%
+222,"Price
+$123 per night",2,1,1,1.0,Entire apartment,128 Reviews,Rating 4.5 out of 5,40.72914601461753,-73.98019255054409,"true,", 100%
+223,"Price
+$125 per night",4,1,1,1.0,Private room in apartment,109 Reviews,Rating 4.5 out of 5,40.7569946273273,-73.98493327749615,false, 100%
+224,"Price
+$149 per night",2,1,1,1.0,Entire apartment,13 Reviews,Rating 5 out of 5,40.74653466233017,-74.00129084684936,false, 100%
+225,"Price
+$123 per night",3,1,2,1.0,Entire apartment,34 Reviews,Rating 5 out of 5,40.76989913119493,-73.95691621413287,"true,", 100%
+226,"Price
+$145 per night",4,1,2,1.0,Entire serviced apartment,39 Reviews,Rating 5 out of 5,40.7614389328231,-74.02119269771954,"true,", 100%
+227,"Price
+$150 per night",4,2,2,1.0,Entire apartment,171 Reviews,Rating 4.5 out of 5,40.72002778459139,-73.98692835794937,"true,", 100%
+228,"Price
+$150 per night",3,studio,2,1.0,Entire apartment,88 Reviews,Rating 5 out of 5,40.77769676274491,-73.95265695770502,"true,", 100%
+229,"Price
+$130 per night",5,2,3,1.0,Entire apartment,66 Reviews,Rating 4 out of 5,40.754319053633736,-73.99845839395806,false, 100%
+230,"Price
+$122 per night",2,1,1,1.5,Private room in condominium,2 Reviews,no rating,40.757179241241076,-73.99416811007815,false, 97%
+231,"Price
+$140 per night",3,2,2,1.0,Entire apartment,39 Reviews,Rating 4.5 out of 5,40.72859769359602,-73.99970831610732,false, 82%
+232,"Price
+$131 per night",6,2,3,2.0,Entire apartment,221 Reviews,Rating 4.5 out of 5,40.765569907376936,-73.98700358100757,false, 100%
+233,"Price
+$149 per night",2,1,1,1.0,Entire apartment,29 Reviews,Rating 5 out of 5,40.72469161231419,-73.97892226078189,"true,", 100%
+234,"Price
+$144 per night",3,1,1,1.0,Entire apartment,50 Reviews,Rating 4.5 out of 5,40.72599927880296,-74.0027446112689,false, 100%
+235,"Price
+$127 per night",3,1,2,1.0,Entire apartment,198 Reviews,Rating 4.5 out of 5,40.7234048610494,-73.98240265596097,false, 100%
+236,"Price
+$122 per night",2,1,1,,Entire apartment,95 Reviews,Rating 5 out of 5,40.713194418511,-73.95669180121321,"true,", 90%
+237,"Price
+$142 per night",3,studio,2,1.0,Entire apartment,195 Reviews,Rating 4.5 out of 5,40.74843083960445,-73.97483963409199,"true,", 100%
+238,"Price
+$150 per night",4,2,3,1.0,Entire serviced apartment,32 Reviews,Rating 5 out of 5,40.747723971502744,-73.98220823531602,"true,", 100%
+239,"Price
+$150 per night",4,2,3,1.0,Entire condominium,149 Reviews,Rating 5 out of 5,40.80470029799224,-73.96028662548134,false, 50%
+240,"Price
+$135 per night",4,2,2,1.0,Entire apartment,62 Reviews,Rating 5 out of 5,40.755723150106675,-73.99514508319174,"true,", 100%
+241,"Price
+$139 per night",4,1,2,1.0,Entire apartment,41 Reviews,Rating 5 out of 5,40.758246403154615,-73.99160540957166,"true,", 100%
+242,"Price
+$150 per night",5,2,3,1.0,Entire apartment,126 Reviews,Rating 4.5 out of 5,40.75863656099028,-73.99365869969293,false, 100%
+243,"Price
+$135 per night",5,1,5,1.0,Private room in apartment,40 Reviews,Rating 5 out of 5,40.728565010329405,-73.95688204944948,"true,", 100%
+244,"Price
+$146 per night",2,studio,1,1.0,Entire apartment,73 Reviews,Rating 5 out of 5,40.71790246350334,-73.99587452426293,false, 75%
+245,"Price
+$130 per night",3,1,1,1.0,Entire loft,113 Reviews,Rating 4.5 out of 5,40.7138962646244,-73.93529889658431,false, 100%
+246,"Price
+$137 per night",4,studio,1,1.0,NoneType,NoneType,no rating,40.76071587912235,-73.96193906522211,"true,",no info
+247,"Price
+$129 per night",4,1,2,1.5,Private room in apartment,198 Reviews,Rating 4.5 out of 5,40.771482002422815,-73.9822649670337,false, 100%
+248,"Price
+$150 per night",4,1,1,1.0,Entire apartment,76 Reviews,Rating 5 out of 5,40.72435954323514,-73.98399910655937,"true,", 100%
+249,"Price
+$150 per night",3,studio,1,1.0,Entire apartment,52 Reviews,Rating 5 out of 5,40.744187423968725,-73.99912502336684,"true,", 100%
+250,"Price
+$130 per night",2,1,1,1.0,Entire apartment,9 Reviews,Rating 4.5 out of 5,40.76094722337545,-73.96380140714501,false, 100%
+251,"Price
+$125 per night",3,1,1,1.0,Entire apartment,85 Reviews,Rating 4.5 out of 5,40.71255034394963,-73.99673079521912,false, 100%
+252,"Price
+$125 per night",2,studio,1,1.0,Entire apartment,31 Reviews,Rating 5 out of 5,40.728378075636186,-73.98538583514464,"true,", 100%
+253,"Price
+$125 per night",4,2,1,1.0,Entire apartment,36 Reviews,Rating 4.5 out of 5,40.70982148595633,-74.00627692007555,false, 100%
+254,"Price
+$125 per night",2,1,1,1.5,Room in boutique hotel,104 Reviews,Rating 5 out of 5,40.730137325703616,-74.00753659876763,"true,", 97%
+255,"Price
+$139 per night",2,1,1,1.0,Entire apartment,160 Reviews,Rating 4.5 out of 5,40.788281704600536,-73.96916164334951,false, 100%
+256,"Price
+$125 per night",4,1,2,1.0,Entire apartment,118 Reviews,Rating 4.5 out of 5,40.76291951674079,-73.98794814023168,false, 100%
+257,"Price
+$140 per night",2,studio,1,1.0,Entire apartment,67 Reviews,Rating 4.5 out of 5,40.76211796920981,-73.96358031739801,false, 100%
+258,"Price
+$125 per night",2,1,1,1.0,Private room in apartment,55 Reviews,Rating 5 out of 5,40.724109216050685,-73.97825985589101,"true,", 100%
+259,"Price
+$150 per night",2,1,2,1.0,Entire apartment,125 Reviews,Rating 5 out of 5,40.76354513110517,-73.98913700384068,"true,", 100%
+260,"Price
+$140 per night",6,3,4,1.0,Entire apartment,15 Reviews,Rating 5 out of 5,40.70467836297969,-74.00771992104507,false, 100%
+261,"Price
+$150 per night",2,1,3,1.0,Entire condominium,71 Reviews,Rating 5 out of 5,40.764122941078696,-73.97665841736374,false, 100%
+262,"Price
+$129 per night",2,1,1,,Entire apartment,158 Reviews,Rating 5 out of 5,40.77955873580403,-73.98098321702007,"true,", 100%
+263,"Price
+$138 per night",2,1,1,1.5,Entire loft,112 Reviews,Rating 4.5 out of 5,40.740220054673365,-74.00093999425847,false, 100%
+264,"Price
+$126 per night",5,1,1,1.0,Entire apartment,81 Reviews,Rating 4.5 out of 5,40.72001254609754,-73.9863054229814,false, 100%
+265,"Price
+$133 per night",3,1,2,1.0,Entire apartment,146 Reviews,Rating 4.5 out of 5,40.72686469400191,-73.9796986894977,false, 100%
+266,"Price
+$151 per night",4,2,2,1.0,Entire apartment,131 Reviews,Rating 5 out of 5,40.71287593973632,-73.99740124611027,"true,", 100%
+267,"Price
+$135 per night",2,1,1,1.0,Entire apartment,114 Reviews,Rating 5 out of 5,40.719079582941475,-73.98632600855635,false, 100%
+268,"Price
+$150 per night",5,2,2,1.0,Entire apartment,81 Reviews,Rating 4.5 out of 5,40.800893431064345,-73.95673687709593,false, 94%
+269,"Price
+$149 per night",6,2,3,1.0,Entire apartment,47 Reviews,Rating 4.5 out of 5,40.75460770386418,-73.97088265432085,false, 100%
+270,"Price
+$151 per night",4,2,2,1.0,Entire apartment,131 Reviews,Rating 5 out of 5,40.71287593973632,-73.99740124611027,"true,", 100%
+271,"Price
+$150 per night",5,2,2,1.0,NoneType,NoneType,no rating,40.800893431064345,-73.95673687709593,false,no info
+272,"Price
+$133 per night",3,1,2,1.0,Entire apartment,146 Reviews,Rating 4.5 out of 5,40.72686469400191,-73.9796986894977,false, 100%
+273,"Price
+$150 per night",2,1,2,1.0,Entire apartment,125 Reviews,Rating 5 out of 5,40.76354513110517,-73.98913700384068,"true,", 100%
+274,"Price
+$139 per night",4,1,2,1.0,Entire apartment,106 Reviews,Rating 4.5 out of 5,40.783384731985436,-73.95008256462064,false, 92%
+275,"Price
+$130 per night",3,1,2,1.0,NoneType,100 Reviews,Rating 4.5 out of 5,40.696253903181685,-73.93695849572782,false,no info
+276,"Price
+$135 per night",2,studio,1,1.0,NoneType,NoneType,no rating,40.746936479191646,-73.99728300372928,false,no info
+277,"Price
+$144 per night",2,studio,1,1.0,Entire apartment,154 Reviews,Rating 5 out of 5,40.72918554243221,-73.98392969112732,"true,", 100%
+278,"Price
+$127 per night",4,1,1,1.0,Entire apartment,66 Reviews,Rating 5 out of 5,40.719867053033134,-73.99646064643703,"true,", 100%
+279,"Price
+$140 per night",4,2,3,1.0,Entire apartment,75 Reviews,Rating 4.5 out of 5,40.7495239519141,-73.98639713673212,false, 92%
+280,"Price
+$145 per night",3,1,1,1.0,Entire apartment,221 Reviews,Rating 4.5 out of 5,40.71703148055077,-73.98612391543232,false, 100%
+281,"Price
+$135 per night",8,3,5,1.5,Entire apartment,58 Reviews,Rating 4.5 out of 5,40.7698159632508,-73.95304943614836,false, 88%
+282,"Price
+$130 per night",2,1,1,2.5,Private room in loft,9 Reviews,Rating 4.5 out of 5,40.720336079709774,-73.99973400175656,false,
+283,"Price
+$135 per night",4,studio,2,1.0,Entire apartment,178 Reviews,Rating 4.5 out of 5,40.801392772279094,-73.9543254684269,"true,", 100%
+284,"Price
+$140 per night",2,1,1,1.0,Entire apartment,46 Reviews,Rating 4.5 out of 5,40.721713490587575,-73.98306737544995,false, 100%
+285,"Price
+$145 per night",2,1,2,1.0,Entire apartment,153 Reviews,Rating 4.5 out of 5,40.76168966460468,-73.9568226569583,"true,", 100%
+286,"Price
+$125 per night",2,studio,1,1.0,Entire apartment,99 Reviews,Rating 5 out of 5,40.77617270052102,-73.94677300711605,"true,", 100%
+287,"Price
+$129 per night",7,2,4,1.0,Entire apartment,174 Reviews,Rating 4 out of 5,40.765180425298134,-73.98745982781719,false, 100%
+288,"Price
+$170 per night",4,1,2,1.0,Entire apartment,96 Reviews,Rating 5 out of 5,40.80402877864349,-73.951245870061,"true,", 100%
+289,"Price
+$149 per night",2,studio,1,1.0,Entire apartment,210 Reviews,Rating 5 out of 5,40.734640577759215,-74.00083977971131,"true,", 100%
+290,"Price
+$150 per night",6,2,2,1.0,Entire apartment,64 Reviews,Rating 4.5 out of 5,40.79901649529778,-73.96117561984862,false, 100%
+291,"Price
+$169 per night",2,1,1,1.0,Entire apartment,143 Reviews,Rating 4.5 out of 5,40.72524612588214,-73.99636483835339,false, 100%
+292,"Price
+$155 per night",4,1,2,1.0,Private room in apartment,151 Reviews,Rating 4.5 out of 5,40.760440334840155,-73.98902998329956,false, 99%
+293,"Price
+$165 per night",4,1,4,1.0,Entire apartment,140 Reviews,Rating 4.5 out of 5,40.73999098413787,-73.98122237047981,"true,", 100%
+294,"Price
+$149 per night",4,1,1,1.0,Entire serviced apartment,94 Reviews,Rating 4.5 out of 5,40.74508544955057,-73.98254199833583,"true,",
+295,"Price
+$175 per night",6,studio,3,1.0,Entire apartment,155 Reviews,Rating 4.5 out of 5,40.74680575340053,-73.98626843362169,false, 100%
+296,"Price
+$149 per night",4,1,2,1.0,Entire condominium,9 Reviews,Rating 5 out of 5,40.714468498273725,-73.99618867188117,false, 100%
+297,"Price
+$150 per night",4,studio,2,1.0,Entire apartment,91 Reviews,Rating 4.5 out of 5,40.70731792268672,-74.00807518451076,false, 100%
+298,"Price
+$166 per night",2,1,1,1.0,Entire apartment,197 Reviews,Rating 5 out of 5,40.76772471975215,-73.96797485474517,"true,", 100%
+299,"Price
+$158 per night",4,1,2,1.0,Entire apartment,66 Reviews,Rating 4.5 out of 5,40.7630214651679,-73.98210704854247,false, 100%
+300,"Price
+$145 per night",3,1,2,1.0,Entire apartment,145 Reviews,Rating 4.5 out of 5,40.75731797291365,-73.98276331442625,false, 100%
+301,"Price
+$159 per night",4,1,2,1.0,Entire apartment,244 Reviews,Rating 4.5 out of 5,40.769276851182944,-73.95020905237804,false, 100%
+302,"Price
+$150",4,1,1,1.0,Entire apartment,135 Reviews,Rating 4.5 out of 5,40.761589999318005,-73.99080973866766,false, 100%
+303,"Price
+$157",2,1,1,1.0,Entire apartment,197 Reviews,Rating 5 out of 5,40.809314390697,-73.94343341502758,"true,", 100%
+304,"Price
+$165",2,1,1,1.0,Entire apartment,25 Reviews,Rating 5 out of 5,40.7216247887049,-73.97773861016033,"true,", 100%
+305,"Price
+$168",3,studio,2,1.0,Entire apartment,203 Reviews,Rating 4.5 out of 5,40.74933380641877,-73.97725400900603,false, 100%
+306,"Price
+$149 per night",3,1,1,1.0,Entire apartment,90 Reviews,Rating 4.5 out of 5,40.728659180675784,-73.98047697223366,false, 100%
+307,"Price
+$145 per night",4,studio,2,1.0,Entire apartment,30 Reviews,Rating 4.5 out of 5,40.705011585379744,-74.01008801719462,false, 95%
+308,"Price
+$168 per night",3,studio,2,1.0,Entire apartment,203 Reviews,Rating 4.5 out of 5,40.74933380641877,-73.97725400900603,false, 100%
+309,"Price
+$150 per night",3,1,2,1.0,Private room in apartment,109 Reviews,Rating 5 out of 5,40.764919505326645,-73.99127979500274,"true,", 79%
+310,"Price
+$160 per night",4,1,3,1.0,Entire apartment,61 Reviews,Rating 5 out of 5,40.75387841571251,-73.96727243079665,"true,", 100%
+311,"Price
+$155 per night",6,2,3,1.0,Entire condominium,210 Reviews,Rating 4.5 out of 5,40.72560205920433,-73.97857043213563,"true,", 100%
+312,"Price
+$160 per night",2,1,1,1.0,Entire apartment,33 Reviews,Rating 4.5 out of 5,40.73029605089025,-74.0055632211009,false, 100%
+313,"Price
+$145 per night",2,studio,1,1.0,Entire apartment,53 Reviews,Rating 5 out of 5,40.7644261133169,-73.96603230542912,"true,", 100%
+314,"Price
+$174 per night",2,1,1,1.0,Entire house,176 Reviews,Rating 4.5 out of 5,40.734188818795644,-74.0021317305583,false, 90%
+315,"Price
+$156 per night",2,studio,1,1.0,Entire apartment,98 Reviews,Rating 5 out of 5,40.7263025364712,-74.00343767178451,"true,", 100%
+316,"Price
+$150 per night",4,1,2,1.0,Entire apartment,26 Reviews,Rating 5 out of 5,40.7407329410604,-74.00303880582146,"true,", 100%
+317,"Price
+$170 per night",2,1,1,1.0,Entire apartment,68 Reviews,Rating 5 out of 5,40.708099509163524,-74.0143549039004,"true,", 100%
+318,"Price
+$157 per night",6,3,3,1.0,Entire apartment,180 Reviews,Rating 4.5 out of 5,40.72226953583162,-73.95788106751958,false,
+319,"Price
+$165 per night",8,3,4,2.0,Entire apartment,131 Reviews,Rating 4.5 out of 5,40.72317419858085,-73.98738199684254,false,
+320,"Price
+$165 per night",2,1,1,1.0,Entire apartment,25 Reviews,Rating 5 out of 5,40.7216247887049,-73.97773861016033,"true,",
+321,"Price
+$147 per night",4,1,2,1.0,Entire apartment,96 Reviews,Rating 4.5 out of 5,40.738371453335645,-74.00801496705522,false,
+322,"Price
+$165 per night",2,1,2,1.0,Entire apartment,118 Reviews,Rating 5 out of 5,40.75888996282941,-73.99190065519223,false,
+323,"Price
+$144 per night",3,1,1,1.0,Entire apartment,93 Reviews,Rating 4.5 out of 5,40.71832690256456,-73.98817666235212,false,
+324,"Price
+$160 per night",7,2,2,1.0,Entire apartment,68 Reviews,Rating 5 out of 5,40.75288937121457,-73.99403035746701,"true,",
+325,"Price
+$160 per night",3,studio,1,1.0,Entire apartment,30 Reviews,Rating 4.5 out of 5,40.756498884518976,-73.96866253273707,false,
+326,"Price
+$150 per night",5,2,4,1.0,Entire apartment,110 Reviews,Rating 4.5 out of 5,40.76139779401947,-73.98796901982764,false,
+327,"Price
+$150 per night",4,studio,2,1.0,Entire house,193 Reviews,Rating 5 out of 5,40.72670575646516,-73.98436645827151,"true,",
+328,"Price
+$146 per night",2,studio,1,1.0,Entire apartment,73 Reviews,Rating 5 out of 5,40.71790246350334,-73.99587452426293,false,
+329,"Price
+$160 per night",4,studio,2,1.0,Entire apartment,87 Reviews,Rating 5 out of 5,40.744291476877066,-74.00616363421375,false,
+330,"Price
+$169 per night",4,1,2,1.0,Entire apartment,32 Reviews,Rating 4.5 out of 5,40.801112894822744,-73.95221128592264,"true,",
+331,"Price
+$155 per night",3,1,2,1.0,Entire apartment,22 Reviews,Rating 5 out of 5,40.743449435296725,-74.00245574350116,false,
+332,"Price
+$170 per night",2,1,2,1.0,Entire apartment,25 Reviews,Rating 5 out of 5,40.76113030101318,-73.99175097653237,"true,",
+333,"Price
+$160 per night",2,1,1,1.0,Entire guest suite,179 Reviews,Rating 5 out of 5,40.73099673267488,-73.98427463323027,false,
+334,"Price
+$150 per night",4,1,2,1.0,Entire apartment,62 Reviews,Rating 4.5 out of 5,40.71989944662319,-73.99480682359422,false,
+335,"Price
+$153 per night",3,2,3,1.0,Entire apartment,23 Reviews,Rating 5 out of 5,40.73855805396351,-73.98383204217056,false,
+336,"Price
+$156 per night",4,1,2,1.0,Entire condominium,51 Reviews,Rating 4.5 out of 5,40.77087013435778,-73.95784896235133,false,
+337,"Price
+$150 per night",2,1,1,2.5,Private room in loft,39 Reviews,Rating 4.5 out of 5,40.72061061987747,-73.99880811187016,false,
+338,"Price
+$150 per night",2,1,2,1.0,Entire apartment,125 Reviews,Rating 5 out of 5,40.76354513110517,-73.98913700384068,"true,",
+339,"Price
+$159 per night",5,2,3,1.0,NoneType,NoneType,no rating,40.76329284243647,-73.98818555790345,false,no info
+340,"Price
+$150 per night",5,2,3,1.0,Entire apartment,126 Reviews,Rating 4.5 out of 5,40.75863656099028,-73.99365869969293,false,
+341,"Price
+$150 per night",3,studio,1,1.0,Entire apartment,52 Reviews,Rating 5 out of 5,40.744187423968725,-73.99912502336684,"true,",
+342,"Price
+$160 per night",2,1,1,1.0,Entire apartment,24 Reviews,Rating 4.5 out of 5,40.719080911045644,-73.9837875894105,false,
+343,"Price
+$150 per night",4,1,3,1.0,Entire apartment,81 Reviews,Rating 5 out of 5,40.809649369331595,-73.94553294469254,"true,",
+344,"Price
+$165 per night",4,2,2,1.0,Entire apartment,90 Reviews,Rating 4 out of 5,40.764515724298604,-73.9943874605662,false,
+345,"Price
+$159 per night",6,2,3,1.0,Entire apartment,228 Reviews,Rating 4.5 out of 5,40.70875435190036,-73.95508134006789,false,
+346,"Price
+$157 per night",3,1,3,1.0,Entire apartment,97 Reviews,Rating 5 out of 5,40.72356284399692,-74.00251560263287,false,
+347,"Price
+$170 per night",3,1,1,1.0,Entire loft,185 Reviews,Rating 4.5 out of 5,40.733877659864994,-73.994520118132,false,
+348,"Price
+$149 per night",2,studio,1,1.0,Private room in resort,34 Reviews,Rating 5 out of 5,40.75282576405094,-73.9734158679002,"true,",
+349,"Price
+$150 per night",2,1,3,1.0,Entire condominium,71 Reviews,Rating 5 out of 5,40.764122941078696,-73.97665841736374,false,
+350,"Price
+$171 per night",6,2,2,1.0,Entire apartment,NoneType,no rating,40.76355027658296,-73.98082207152821,false,
+351,"Price
+$160 per night",4,studio,2,1.0,Entire apartment,81 Reviews,Rating 4.5 out of 5,40.76396953436167,-73.9624471560112,false,
+352,"Price
+$150 per night",6,studio,3,1.0,Entire apartment,52 Reviews,Rating 5 out of 5,40.74792445619926,-73.98696350956611,false,
+353,"Price
+$160 per night",4,1,2,1.0,Entire condominium,25 Reviews,Rating 5 out of 5,40.803624388871896,-73.99073531607182,"true,",
+354,"Price
+$151 per night",4,2,2,1.0,Entire apartment,131 Reviews,Rating 5 out of 5,40.71287593973632,-73.99740124611027,"true,",
+355,"Price
+$175 per night",2,studio,1,1.0,Entire apartment,139 Reviews,Rating 4.5 out of 5,40.74402854091402,-73.99581121296086,false,
+356,"Price
+$145 per night",3,1,1,1.0,Entire apartment,221 Reviews,Rating 4.5 out of 5,40.71703148055077,-73.98612391543232,false,
+357,"Price
+$150 per night",4,2,2,1.0,Entire apartment,123 Reviews,Rating 4.5 out of 5,40.72072473499427,-73.98962721188163,false,
+358,"Price
+$169 per night",2,studio,1,1.0,Entire apartment,126 Reviews,Rating 5 out of 5,40.78926037076568,-73.9698910339599,"true,",
+359,"Price
+$161 per night",3,1,2,1.0,Entire apartment,18 Reviews,Rating 4.5 out of 5,40.76610755448924,-73.99470203092375,false,
+360,"Price
+$159 per night",6,3,3,1.0,Entire apartment,92 Reviews,Rating 4.5 out of 5,40.80867859537276,-73.94629083731427,false,
+361,"Price
+$150 per night",7,2,4,1.0,Entire apartment,98 Reviews,Rating 4.5 out of 5,40.76590728132029,-73.98664319272757,false,
+362,"Price
+$150 per night",2,studio,2,1.0,Entire apartment,75 Reviews,Rating 5 out of 5,40.72811945521031,-73.9859942602913,false,
+363,"Price
+$165 per night",4,1,3,1.0,Entire townhouse,83 Reviews,Rating 5 out of 5,40.81550425573291,-73.9457798264514,"true,",
+364,"Price
+$150 per night",2,studio,1,1.0,Entire apartment,38 Reviews,Rating 4.5 out of 5,40.767257302629034,-73.96332552164307,false,
+365,"Price
+$150 per night",4,2,2,1.0,Entire apartment,25 Reviews,Rating 4.5 out of 5,40.815735853380815,-73.95261229684253,false,
+366,"Price
+$159 per night",2,1,1,1.0,NoneType,NoneType,no rating,40.72480077956533,-73.98709212782434,false,no info
+367,"Price
+$154 per night",4,1,1,1.0,Entire apartment,5 Reviews,Rating 4.5 out of 5,40.76791666647171,-73.96723779230787,"true,",
+368,"Price
+$160 per night",4,2,2,1.0,Entire serviced apartment,51 Reviews,Rating 4.5 out of 5,40.76306877403023,-73.99283580878141,"true,",
+369,"Price
+$145 per night",3,studio,1,1.0,Entire apartment,26 Reviews,Rating 5 out of 5,40.74950437640172,-73.98116009860185,"true,",
+370,"Price
+$175 per night",2,1,2,1.0,Entire apartment,86 Reviews,Rating 4.5 out of 5,40.73303845374725,-73.98429513983906,false,
+371,"Price
+$149 per night",4,1,1,1.0,NoneType,NoneType,no rating,40.77855230652861,-73.98257915962972,false,no info
+372,"Price
+$165 per night",4,1,1,1.0,Entire condominium,38 Reviews,Rating 5 out of 5,40.74324610092235,-73.99974825946505,false,
+373,"Price
+$153 per night",4,1,2,1.0,Entire apartment,69 Reviews,Rating 4.5 out of 5,40.71798970750999,-73.9870268154166,false,
+374,"Price
+$155 per night",3,1,1,1.0,Entire apartment,72 Reviews,Rating 5 out of 5,40.762817316706084,-73.96733763038819,"true,",
+375,"Price
+$160 per night",4,1,3,1.0,Entire apartment,66 Reviews,Rating 5 out of 5,40.755989784545626,-73.96768833639013,false,
+376,"Price
+$150 per night",2,1,1,1.0,Entire house,55 Reviews,Rating 5 out of 5,40.80486144405501,-73.99561083872679,"true,",
+377,"Price
+$165 per night",2,studio,1,1.0,Entire apartment,48 Reviews,Rating 5 out of 5,40.78907133259953,-73.97212429415906,"true,",
+378,"Price
+$150 per night",2,studio,1,1.0,Entire apartment,54 Reviews,Rating 4.5 out of 5,40.77058112980809,-73.95358395102252,"true,", 100%
+379,"Price
+$150 per night",6,3,3,1.0,Entire apartment,251 Reviews,Rating 5 out of 5,40.70560489692975,-73.94202300197263,"true,", 100%
+380,"Price
+$150 per night",2,1,1,1.0,Entire apartment,16 Reviews,Rating 4.5 out of 5,40.77863579993887,-73.98437161898234,"true,", 100%
+381,"Price
+$150 per night",2,1,1,1.0,Entire house,55 Reviews,Rating 5 out of 5,40.80486144405501,-73.99561083872679,"true,", 100%
+382,"Price
+$175 per night",4,1,4,1.0,Entire apartment,66 Reviews,Rating 4.5 out of 5,40.7595654910283,-73.96416388086669,false, 100%
+383,"Price
+$160 per night",2,1,1,1.0,Private room in apartment,127 Reviews,Rating 5 out of 5,40.723911080049,-73.99878866774944,"true,", 100%
+384,"Price
+$165 per night",2,studio,1,1.0,Entire apartment,101 Reviews,Rating 4.5 out of 5,40.73123818678442,-74.00648319976708,false, 100%
+385,"Price
+$150 per night",2,1,1,1.0,NoneType,5 Reviews,Rating 5 out of 5,40.76405748196903,-73.98867575106127,false,no info
+386,"Price
+$150 per night",4,1,2,1.0,Entire apartment,52 Reviews,Rating 4.5 out of 5,40.76061305738149,-73.98921056668976,false, 100%
+387,"Price
+$155 per night",4,2,2,1.0,Entire apartment,140 Reviews,Rating 5 out of 5,40.722342573530405,-73.99589397458541,"true,", 100%
+388,"Price
+$175 per night",3,1,2,1.0,Entire apartment,35 Reviews,Rating 5 out of 5,40.761285758867615,-73.96520121356748,false, 100%
+389,"Price
+$148 per night",4,1,2,1.0,Entire apartment,21 Reviews,Rating 5 out of 5,40.816667563284696,-73.94225440869023,"true,", 90%
+390,"Price
+$160 per night",4,1,2,1.0,Entire apartment,41 Reviews,Rating 4.5 out of 5,40.762259412902075,-73.99081375012054,false, 100%
+391,"Price
+$175 per night",2,studio,1,1.0,Entire apartment,93 Reviews,Rating 5 out of 5,40.75530535752985,-73.99944732093817,"true,", 100%
+392,"Price
+$147 per night",5,2,2,1.0,Entire place,52 Reviews,Rating 4.5 out of 5,40.71862826591345,-74.0117021667603,false, 91%
+393,"Price
+$170 per night",3,studio,1,1.0,Entire apartment,113 Reviews,Rating 5 out of 5,40.73697688289328,-73.98679889406381,false, 100%
+394,"Price
+$150 per night",4,studio,2,1.0,Entire apartment,45 Reviews,Rating 4.5 out of 5,40.761843451030224,-73.95690054590908,false, 100%
+395,"Price
+$165 per night",2,1,1,1.0,Entire apartment,44 Reviews,Rating 5 out of 5,40.734151368390066,-74.00720779798327,"true,", 100%
+396,"Price
+$175 per night",6,2,3,1.0,Entire apartment,123 Reviews,Rating 4.5 out of 5,40.72145979402678,-74.00870133511344,false,
+397,"Price
+$149 per night",6,1,3,1.0,Entire apartment,116 Reviews,Rating 4.5 out of 5,40.75143973714954,-73.98507900777342,false,
+398,"Price
+$170 per night",2,studio,1,1.0,Entire apartment,45 Reviews,Rating 5 out of 5,40.76108839356026,-73.98261041166025,false,
+399,"Price
+$150 per night",2,studio,1,1.0,NoneType,NoneType,no rating,40.76225777228166,-73.99285324540135,"true,",no info
+400,"Price
+$150 per night",6,1,4,1.0,Entire apartment,267 Reviews,Rating 4.5 out of 5,40.72462859056059,-73.9893779497352,false,
+401,"Price
+$150 per night",4,1,2,1.0,Entire apartment,184 Reviews,Rating 5 out of 5,40.720395326874424,-73.99172669802816,"true,",
+402,"Price
+$175 per night",3,studio,1,1.0,Entire apartment,123 Reviews,Rating 5 out of 5,40.72757078664189,-73.98904760303792,"true,",
+403,"Price
+$150 per night",4,1,3,1.0,Entire apartment,73 Reviews,Rating 4.5 out of 5,40.70493209802392,-74.00822756883628,false,
+404,"Price
+$179 per night",5,2,3,1.0,Entire apartment,92 Reviews,Rating 5 out of 5,40.76321901616439,-73.98980477497946,"true,",
+405,"Price
+$150 per night",3,1,1,2.5,Private room in loft,157 Reviews,Rating 5 out of 5,40.7413791415638,-74.00196685879914,"true,",
+406,"Price
+$179 per night",2,studio,1,1.0,Entire apartment,85 Reviews,Rating 4.5 out of 5,40.75347327341422,-73.98567107094046,false,
+407,"Price
+$149 per night",6,2,3,1.0,Entire apartment,55 Reviews,Rating 4.5 out of 5,40.765757527550406,-73.97623007065657,false,
+408,"Price
+$170 per night",4,1,2,1.0,Entire apartment,96 Reviews,Rating 5 out of 5,40.80402877864349,-73.951245870061,"true,",
+409,"Price
+$153 per night",3,1,2,1.0,Entire loft,57 Reviews,Rating 4.5 out of 5,40.71788616696603,-73.98341713691289,false,
+410,"Price
+$169 per night",2,1,1,1.0,Entire apartment,143 Reviews,Rating 4.5 out of 5,40.72524612588214,-73.99636483835339,false,
+411,"Price
+$179 per night",4,1,3,1.0,Entire apartment,127 Reviews,Rating 4.5 out of 5,40.80573068449768,-73.9499446876623,false,
+412,"Price
+$150 per night",4,1,1,1.0,Entire apartment,29 Reviews,Rating 5 out of 5,40.8093781112757,-73.95527558232419,false,
+413,"Price
+$149 per night",2,1,1,1.0,Private room in apartment,218 Reviews,Rating 5 out of 5,40.759642472982286,-73.98534275423405,"true,",
+414,"Price
+$150 per night",4,1,1,1.0,Entire apartment,29 Reviews,Rating 5 out of 5,40.8093781112757,-73.95527558232419,false,
+415,"Price
+$179 per night",2,studio,1,1.0,Entire apartment,85 Reviews,Rating 4.5 out of 5,40.75347327341422,-73.98567107094046,false,
+416,"Price
+$149 per night",2,1,1,1.0,Private room in apartment,218 Reviews,Rating 5 out of 5,40.759642472982286,-73.98534275423405,"true,",
+417,"Price
+$175 per night",6,studio,3,1.0,Entire apartment,155 Reviews,Rating 4.5 out of 5,40.74680575340053,-73.98626843362169,false,
+418,"Price
+$150 per night",6,2,2,1.0,Entire apartment,64 Reviews,Rating 4.5 out of 5,40.79901649529778,-73.96117561984862,false,
+419,"Price
+$150 per night",4,1,2,1.0,Entire apartment,342 Reviews,Rating 5 out of 5,40.70687875575845,-73.9449324451983,"true,",
+420,"Price
+$155 per night",4,1,2,1.0,Private room in apartment,151 Reviews,Rating 4.5 out of 5,40.760440334840155,-73.98902998329956,false,
+421,"Price
+$165 per night",5,2,3,1.0,Entire apartment,101 Reviews,Rating 5 out of 5,40.7070096101167,-74.009884094302,"true,",
+422,"Price
+$149 per night",2,studio,1,1.0,Entire apartment,210 Reviews,Rating 5 out of 5,40.734640577759215,-74.00083977971131,"true,",
+423,"Price
+$168 per night",3,studio,2,1.0,Entire apartment,203 Reviews,Rating 4.5 out of 5,40.74933380641877,-73.97725400900603,false,
+424,"Price
+$166 per night",2,1,1,1.0,Entire apartment,197 Reviews,Rating 5 out of 5,40.76772471975215,-73.96797485474517,"true,",
+425,"Price
+$165 per night",4,1,4,1.0,Entire apartment,140 Reviews,Rating 4.5 out of 5,40.73999098413787,-73.98122237047981,"true,",
+426,"Price
+$149 per night",4,1,1,1.0,Entire serviced apartment,94 Reviews,Rating 4.5 out of 5,40.74508544955057,-73.98254199833583,"true,",
+427,"Price
+$158 per night",4,1,2,1.0,Entire apartment,66 Reviews,Rating 4.5 out of 5,40.7630214651679,-73.98210704854247,false,
+428,"Price
+$174 per night",2,1,1,1.0,Entire house,176 Reviews,Rating 4.5 out of 5,40.734188818795644,-74.0021317305583,false,
+429,"Price
+$178 per night",2,1,2,1.0,Private room in loft,139 Reviews,Rating 4.5 out of 5,40.754759163128284,-73.99636203489753,false,
+430,"Price
+$159 per night",4,1,2,1.0,Entire apartment,244 Reviews,Rating 4.5 out of 5,40.769276851182944,-73.95020905237804,false,
+431,"Price
+$179",7,2,4,1.0,Entire condominium,97 Reviews,Rating 4.5 out of 5,40.760753849433996,-73.99037508519278,false,
+432,"Price
+$150 per night",5,2,4,1.0,Entire apartment,110 Reviews,Rating 4.5 out of 5,40.76139779401947,-73.98796901982764,false,
+433,"Price
+$149 per night",2,1,1,1.0,Entire apartment,13 Reviews,Rating 5 out of 5,40.74653466233017,-74.00129084684936,false,
+434,"Price
+$174 per night",4,1,2,1.0,Entire apartment,82 Reviews,Rating 4.5 out of 5,40.75615841449007,-73.96616966677274,false,
+435,"Price
+$160 per night",4,studio,2,1.0,Entire apartment,83 Reviews,Rating 5 out of 5,40.74311815090935,-74.00385136258042,false,
+436,"Price
+$175 per night",6,2,3,1.0,Entire apartment,36 Reviews,Rating 4.5 out of 5,40.75908666616292,-73.96367463237381,false,
+437,"Price
+$165 per night",2,1,2,1.0,Entire apartment,58 Reviews,Rating 5 out of 5,40.76153322107328,-73.98803491716824,"true,",
+438,"Price
+$170 per night",2,1,2,1.0,Entire apartment,71 Reviews,Rating 4.5 out of 5,40.71982712969911,-73.9819583342906,"true,",
+439,"Price
+$149 per night",2,1,1,1.0,Entire apartment,29 Reviews,Rating 5 out of 5,40.72469161231419,-73.97892226078189,"true,",
+440,"Price
+$170 per night",2,1,2,1.0,Entire apartment,25 Reviews,Rating 5 out of 5,40.76113030101318,-73.99175097653237,"true,",
+441,"Price
+$149 per night",4,1,2,1.0,Entire apartment,47 Reviews,Rating 4.5 out of 5,40.794739568518,-73.94932035843945,false,
+442,"Price
+$167 per night",2,1,2,1.0,Entire apartment,78 Reviews,Rating 5 out of 5,40.74326137989429,-74.0000362000393,"true,",
+443,"Price
+$155 per night",4,1,2,1.0,Private room in apartment,126 Reviews,Rating 4.5 out of 5,40.76207311537364,-73.98944684722456,false,
+444,"Price
+$171 per night",8,2,5,2.0,Entire apartment,94 Reviews,Rating 5 out of 5,40.78013424835861,-74.01350933310398,false,
+445,"Price
+$162 per night",3,1,1,1.0,Entire apartment,133 Reviews,Rating 5 out of 5,40.763378475957225,-73.99551502126039,"true,",
+446,"Price
+$180 per night",8,1,4,1.0,NoneType,128 Reviews,Rating 4.5 out of 5,40.74750910001596,-73.98910426217421,false,no info
+447,"Price
+$165 per night",2,1,1,1.0,Entire apartment,144 Reviews,Rating 5 out of 5,40.79436662913702,-73.97152275944553,"true,",
+448,"Price
+$160 per night",2,1,1,1.0,Entire guest suite,179 Reviews,Rating 5 out of 5,40.73099673267488,-73.98427463323027,false,
+449,"Price
+$155 per night",3,1,2,1.0,Entire apartment,22 Reviews,Rating 5 out of 5,40.743449435296725,-74.00245574350116,false,
+450,"Price
+$168 per night",8,3,5,1.0,Entire apartment,212 Reviews,Rating 5 out of 5,40.77028064632072,-73.91352417699623,"true,", 100%
+451,"Price
+$150 per night",7,2,4,1.0,NoneType,NoneType,no rating,40.76590728132029,-73.98664319272757,false,no info
+452,"Price
+$150 per night",2,studio,2,1.0,NoneType,NoneType,no rating,40.73371627254342,-73.9983362812103,false,no info
+453,"Price
+$150 per night",6,2,2,2.0,Entire apartment,21 Reviews,Rating 4.5 out of 5,40.729846281892314,-73.98048033536101,false, 90%
+454,"Price
+$163 per night",4,1,1,1.0,Entire apartment,32 Reviews,Rating 4.5 out of 5,40.77147307321405,-73.95942771397594,false, 100%
+455,"Price
+$163 per night",4,2,3,1.0,Entire serviced apartment,50 Reviews,Rating 4.5 out of 5,40.74251488139829,-73.99837853531056,"true,",
+456,"Price
+$165 per night",4,1,3,1.0,Entire townhouse,83 Reviews,Rating 5 out of 5,40.81550425573291,-73.9457798264514,"true,", 100%
+457,"Price
+$178 per night",4,1,3,1.0,Entire apartment,58 Reviews,Rating 5 out of 5,40.721446651667684,-73.99524937185575,"true,", 94%
+458,"Price
+$171 per night",2,studio,2,1.0,Entire apartment,152 Reviews,Rating 4.5 out of 5,40.73336012936575,-74.00178352376024,false, 100%
+459,"Price
+$160 per night",3,2,1,1.0,Entire apartment,23 Reviews,Rating 4.5 out of 5,40.77563099732756,-73.9806463785362,false, 100%
+460,"Price
+$180 per night",6,2,3,2.0,NoneType,NoneType,no rating,40.76225376749206,-73.96278106545962,false,no info
+461,"Price
+$154 per night",4,1,1,1.0,Entire apartment,5 Reviews,Rating 4.5 out of 5,40.76791666647171,-73.96723779230787,"true,", 100%
+462,"Price
+$150 per night",2,studio,1,1.0,Entire apartment,38 Reviews,Rating 4.5 out of 5,40.767257302629034,-73.96332552164307,false, 100%
+463,"Price
+$150 per night",4,2,2,1.0,NoneType,NoneType,no rating,40.815735853380815,-73.95261229684253,false,no info
+464,"Price
+$149 per night",4,1,1,1.0,Entire apartment,66 Reviews,Rating 5 out of 5,40.77855230652861,-73.98257915962972,false, 100%
+465,"Price
+$150 per night",3,1,1,1.0,Entire apartment,92 Reviews,Rating 5 out of 5,40.81175022350785,-73.94477774445892,false, 100%
+466,"Price
+$150 per night",2,studio,1,1.0,NoneType,NoneType,no rating,40.71844355953698,-73.98579862293973,false,no info
+467,"Price
+$175 per night",4,1,2,1.0,Entire apartment,81 Reviews,Rating 5 out of 5,40.77611281239136,-73.97807826945453,false, 100%
+468,"Price
+$150 per night",3,1,1,1.0,Entire apartment,92 Reviews,Rating 5 out of 5,40.81175022350785,-73.94477774445892,false, 100%
+469,"Price
+$150 per night",4,2,2,1.0,Entire apartment,25 Reviews,Rating 4.5 out of 5,40.815735853380815,-73.95261229684253,false, 83%
+470,"Price
+$165 per night",4,1,3,1.0,Entire townhouse,83 Reviews,Rating 5 out of 5,40.81550425573291,-73.9457798264514,"true,", 100%
+471,"Price
+$175 per night",3,1,2,1.0,NoneType,NoneType,no rating,40.761285758867615,-73.96520121356748,false,no info
+472,"Price
+$161 per night",4,2,2,1.0,Entire apartment,55 Reviews,Rating 4.5 out of 5,40.71329845214715,-73.9917169488197,false, 100%
+473,"Price
+$159 per night",2,1,2,1.0,Private room in apartment,230 Reviews,Rating 5 out of 5,40.75283782543782,-74.00138073720302,"true,", 100%
+474,"Price
+$180 per night",6,2,3,2.0,Entire apartment,88 Reviews,Rating 4.5 out of 5,40.76225376749206,-73.96278106545962,false, 100%
+475,"Price
+$150 per night",4,studio,3,1.0,Entire apartment,47 Reviews,Rating 4.5 out of 5,40.746324820467855,-73.99636373457837,"true,", 100%
+476,"Price
+$153 per night",4,1,2,1.0,Entire apartment,69 Reviews,Rating 4.5 out of 5,40.71798970750999,-73.9870268154166,false, 100%
+477,"Price
+$159 per night",6,3,3,1.0,Entire apartment,92 Reviews,Rating 4.5 out of 5,40.80867859537276,-73.94629083731427,false, 100%
+478,"Price
+$175 per night",4,1,4,1.0,Entire apartment,66 Reviews,Rating 4.5 out of 5,40.7595654910283,-73.96416388086669,false, 100%
+479,"Price
+$150 per night",6,1,3,1.5,Entire apartment,147 Reviews,Rating 4.5 out of 5,40.71724635990625,-73.99810945972281,false, 82%
+480,"Price
+$164 per night",2,studio,1,1.0,Private room in resort,14 Reviews,Rating 5 out of 5,40.753646207183856,-73.97188043869288,"true,", 100%
+481,"Price
+$165 per night",2,studio,1,1.0,NoneType,101 Reviews,Rating 4.5 out of 5,40.73123818678442,-74.00648319976708,false,no info
+482,"Price
+$150 per night",2,1,1,1.0,Entire apartment,100 Reviews,Rating 4.5 out of 5,40.72823387059579,-73.99299997530599,false, 80%
+483,"Price
+$155 per night",2,1,1,1.0,Entire apartment,82 Reviews,Rating 4.5 out of 5,40.775444139720996,-73.95576988500494,false, 90%
+484,"Price
+$160 per night",4,2,2,1.0,Entire serviced apartment,51 Reviews,Rating 4.5 out of 5,40.76306877403023,-73.99283580878141,"true,",
+485,"Price
+$175 per night",4,1,2,1.0,Entire apartment,53 Reviews,Rating 5 out of 5,40.7567210216639,-73.98868472327439,"true,", 100%
+486,"Price
+$175 per night",3,1,1,1.0,Entire apartment,117 Reviews,Rating 5 out of 5,40.760635387290726,-73.99112136071412,"true,", 100%
+487,"Price
+$150 per night",4,1,2,1.0,NoneType,216 Reviews,Rating 5 out of 5,40.70817801247775,-73.92256369742995,"true,",no info
+488,"Price
+$175 per night",4,1,2,1.0,Entire apartment,53 Reviews,Rating 5 out of 5,40.7567210216639,-73.98868472327439,"true,", 100%
+489,"Price
+$159 per night",2,1,1,1.0,Entire apartment,47 Reviews,Rating 4.5 out of 5,40.72480077956533,-73.98709212782434,false, 100%
+490,"Price
+$175 per night",4,1,2,1.0,Entire loft,121 Reviews,Rating 5 out of 5,40.71982781943233,-73.95675470526118,"true,", 100%
+491,"Price
+$160 per night",5,2,2,1.0,Entire apartment,94 Reviews,Rating 4.5 out of 5,40.763774592009504,-73.9920918578085,false, 100%
+492,"Price
+$175 per night",2,studio,1,1.0,Entire apartment,102 Reviews,Rating 4.5 out of 5,40.7306557932571,-74.00286617759528,false, 100%
+493,"Price
+$175 per night",4,1,4,1.0,Entire apartment,76 Reviews,Rating 4.5 out of 5,40.72148144026372,-73.99435436560545,false, 100%
+494,"Price
+$150 per night",4,studio,2,1.0,Entire apartment,124 Reviews,Rating 5 out of 5,40.72452869880439,-73.98948676182816,"true,", 100%
+495,"Price
+$160 per night",4,1,3,1.0,Entire apartment,66 Reviews,Rating 5 out of 5,40.755989784545626,-73.96768833639013,false, 100%
+496,"Price
+$175 per night",5,2,3,1.0,NoneType,NoneType,no rating,40.76645840406473,-73.99451563504246,false,no info
+497,"Price
+$155 per night",3,1,1,1.0,Entire apartment,72 Reviews,Rating 5 out of 5,40.762817316706084,-73.96733763038819,"true,", 100%
+498,"Price
+$175 per night",4,studio,1,1.0,Entire loft,94 Reviews,Rating 5 out of 5,40.70493213484548,-74.01035915577249,false, 100%
+499,"Price
+$170 per night",3,studio,1,1.0,Entire apartment,113 Reviews,Rating 5 out of 5,40.73697688289328,-73.98679889406381,false, 100%
+500,"Price
+$165 per night",2,studio,1,1.0,Entire apartment,101 Reviews,Rating 4.5 out of 5,40.73123818678442,-74.00648319976708,false, 100%
+501,"Price
+$155 per night",8,3,4,1.0,Entire apartment,226 Reviews,Rating 5 out of 5,40.71554005660172,-73.96245805993769,false, 100%
+502,"Price
+$175 per night",4,1,2,1.0,Entire apartment,9 Reviews,Rating 5 out of 5,40.77008423645636,-73.98805781146497,false, 100%
+503,"Price
+$170 per night",2,1,2,1.0,Entire apartment,24 Reviews,Rating 5 out of 5,40.76396325963274,-73.991846976129,"true,", 100%
+504,"Price
+$195 per night",2,studio,1,1.0,Entire apartment,63 Reviews,Rating 5 out of 5,40.71472086607597,-73.99081441554362,"true,", 100%
+505,"Price
+$189 per night",4,1,1,1.0,Private room in condominium,11 Reviews,Rating 5 out of 5,40.77753775632526,-73.94786756324076,false, 100%
+506,"Price
+$178 per night",4,1,3,1.0,NoneType,NoneType,no rating,40.721446651667684,-73.99524937185575,"true,",no info
+507,"Price
+$179 per night",5,2,2,1.0,Entire apartment,228 Reviews,Rating 4.5 out of 5,40.728152122879855,-73.98059293957333,false, 100%
+508,"Price
+$198 per night",4,2,2,1.0,Entire apartment,92 Reviews,Rating 5 out of 5,40.71884593184584,-73.9972346993952,"true,", 100%
+509,"Price
+$178 per night",4,1,1,1.0,NoneType,NoneType,no rating,40.742099984563936,-73.98318818973188,false,no info
+510,"Price
+$175 per night",3,1,2,1.0,Entire apartment,35 Reviews,Rating 5 out of 5,40.761285758867615,-73.96520121356748,false, 100%
+511,"Price
+$200 per night",2,1,1,1.0,Entire apartment,24 Reviews,Rating 5 out of 5,40.76752186366684,-73.98641139973972,"true,", 100%
+512,"Price
+$179 per night",3,1,1,1.0,Entire apartment,3 Reviews,Rating 5 out of 5,40.72434010169032,-73.98124162544286,false, 92%
+513,"Price
+$190 per night",5,1,3,1.0,Entire apartment,48 Reviews,Rating 5 out of 5,40.8083151168674,-73.93888604477505,"true,", 100%
+514,"Price
+$199 per night",5,1,2,1.0,Entire apartment,54 Reviews,Rating 4.5 out of 5,40.749285592179255,-73.992435454647,false, 100%
+515,"Price
+$170 per night",3,studio,2,1.0,Entire apartment,98 Reviews,Rating 5 out of 5,40.77387472483709,-73.95200082422886,"true,", 100%
+516,"Price
+$190 per night",7,2,4,1.0,Entire apartment,58 Reviews,Rating 4.5 out of 5,40.72870020972813,-73.98111016667198,false, 100%
+517,"Price
+$175 per night",4,1,4,1.0,Entire apartment,66 Reviews,Rating 4.5 out of 5,40.7595654910283,-73.96416388086669,false, 100%
+518,"Price
+$185 per night",7,3,4,2.0,Entire apartment,36 Reviews,Rating 5 out of 5,40.783757729510995,-73.98169891240762,"true,", 100%
+519,"Price
+$182 per night",4,1,1,1.0,Entire apartment,42 Reviews,Rating 4 out of 5,40.75531451182392,-73.96600141749812,false, 90%
+520,"Price
+$170 per night",2,1,1,1.0,Entire apartment,155 Reviews,Rating 4.5 out of 5,40.719619405587785,-73.98566632031344,false, 100%
+521,"Price
+$200 per night",8,3,3,2.0,Entire serviced apartment,57 Reviews,Rating 4.5 out of 5,40.760160728738505,-73.98937408944529,"true,",
+522,"Price
+$180 per night",4,2,2,1.0,Entire loft,107 Reviews,Rating 5 out of 5,40.71890744904507,-73.96135290499109,"true,", 100%
+523,"Price
+$179 per night",2,studio,1,1.0,Entire apartment,1 Review,no rating,40.7541519800221,-73.96530736804266,false, 75%
+524,"Price
+$185 per night",3,studio,1,1.0,Entire apartment,6 Reviews,Rating 5 out of 5,40.7412627172025,-74.00125759862034,false, 90%
+525,"Price
+$180 per night",6,2,3,1.0,Entire apartment,66 Reviews,Rating 4.5 out of 5,40.79676641440229,-73.94823348728114,false, 100%
+526,"Price
+$200 per night",3,1,2,1.0,Entire loft,26 Reviews,Rating 5 out of 5,40.75353610735967,-73.95113025643327,"true,", 100%
+527,"Price
+$200 per night",3,1,2,1.0,Entire apartment,23 Reviews,Rating 5 out of 5,40.74671994955404,-74.00186592242834,"true,", 100%
+528,"Price
+$180 per night",6,2,3,1.5,Entire apartment,27 Reviews,Rating 4.5 out of 5,40.762532345970286,-73.99162708353626,false, 100%
+529,"Price
+$180 per night",6,2,2,2.0,Entire townhouse,86 Reviews,Rating 5 out of 5,40.796592022604116,-73.99976407567831,"true,", 100%
+530,"Price
+$185 per night",4,2,2,1.0,Entire apartment,63 Reviews,Rating 4.5 out of 5,40.72403560441738,-73.99321271980055,false, 100%
+531,"Price
+$169 per night",6,2,5,1.0,Entire apartment,74 Reviews,Rating 5 out of 5,40.78480932513997,-74.00490301337376,false, 100%
+532,"Price
+$189 per night",6,2,3,1.0,Entire apartment,54 Reviews,Rating 4.5 out of 5,40.72895867765437,-73.98523423370342,false, 100%
+533,"Price
+$195 per night",4,1,2,1.0,Entire apartment,69 Reviews,Rating 5 out of 5,40.73282078710251,-74.00094630406737,false, 100%
+534,"Price
+$170 per night",3,1,2,1.0,Entire apartment,19 Reviews,Rating 5 out of 5,40.76090268347526,-73.99224601933228,false, 70%
+535,"Price
+$170 per night",6,2,3,1.0,Entire apartment,40 Reviews,Rating 4.5 out of 5,40.76639373724936,-73.98905874210176,false, 100%
+536,"Price
+$170 per night",4,1,2,1.0,Entire apartment,79 Reviews,Rating 4.5 out of 5,40.728715812557006,-73.99798492963271,false,
+537,"Price
+$194 per night",2,1,1,1.0,Entire serviced apartment,53 Reviews,Rating 4.5 out of 5,40.76117327826168,-73.99262384219656,"true,",
+538,"Price
+$172 per night",7,2,4,1.0,Entire apartment,65 Reviews,Rating 4.5 out of 5,40.72993532926819,-73.98501057891525,false, 100%
+539,"Price
+$171 per night",2,1,1,1.0,Private room in apartment,27 Reviews,Rating 5 out of 5,40.707634800953706,-74.01455414097839,"true,", 100%
+540,"Price
+$188 per night",4,1,2,1.0,Entire apartment,77 Reviews,Rating 4.5 out of 5,40.763249858062096,-73.98980631839156,false, 100%
+541,"Price
+$200 per night",3,1,2,1.0,Entire apartment,171 Reviews,Rating 4.5 out of 5,40.75644870447937,-73.99403919373164,false, 100%
+542,"Price
+$219 per night",4,1,2,1.0,Entire apartment,83 Reviews,Rating 4.5 out of 5,40.76037852006929,-73.98781299174175,false, 100%
+543,"Price
+$200 per night",4,2,3,1.0,Entire apartment,203 Reviews,Rating 5 out of 5,40.78789125790857,-73.97427129722068,"true,", 100%
+544,"Price
+$189 per night",4,2,2,1.0,Entire house,300 Reviews,Rating 5 out of 5,40.71739372098408,-73.95471839400737,"true,", 100%
+545,"Price
+$214 per night",2,1,1,1.0,Entire apartment,176 Reviews,Rating 5 out of 5,40.71962508913273,-73.98499053933412,"true,", 90%
+546,"Price
+$185 per night",4,2,2,1.0,Entire apartment,169 Reviews,Rating 4.5 out of 5,40.76030176520491,-73.992217444103,false, 100%
+547,"Price
+$185 per night",2,studio,1,1.0,Entire apartment,93 Reviews,Rating 5 out of 5,40.72913783105754,-74.0046102067938,false, 75%
+548,"Price
+$190 per night",5,2,2,1.0,Entire apartment,105 Reviews,Rating 4.5 out of 5,40.72892150208622,-73.9833472155752,false, 100%
+549,"Price
+$215 per night",6,1,1,1.0,Entire apartment,176 Reviews,Rating 5 out of 5,40.75236522458468,-73.9876898646208,"true,", 100%
+550,"Price
+$200 per night",2,1,2,1.0,Private room in loft,130 Reviews,Rating 5 out of 5,40.756098630537885,-73.9982555249483,false, 100%
+551,"Price
+$180 per night",6,1,3,1.0,Entire apartment,148 Reviews,Rating 5 out of 5,40.7114338363608,-74.00596418805951,false, 100%
+552,"Price
+$207 per night",2,1,2,1.0,Entire apartment,125 Reviews,Rating 5 out of 5,40.734329443053646,-74.00587642872442,"true,", 100%
+553,"Price
+$195 per night",4,1,1,1.0,Entire loft,151 Reviews,Rating 5 out of 5,40.716566347354814,-73.96263867524061,"true,", 90%
+554,"Price
+$199 per night",4,2,2,1.0,Entire apartment,119 Reviews,Rating 4.5 out of 5,40.757353602274215,-73.99006839526453,false, 90%
+555,"Price
+$200 per night",6,2,3,1.0,Entire apartment,175 Reviews,Rating 4.5 out of 5,40.772478227650964,-73.9801528793094,"true,", 100%
+556,"Price
+$190 per night",2,1,1,1.0,Entire apartment,144 Reviews,Rating 5 out of 5,40.717621028303924,-73.94353864892454,"true,", 100%
+557,"Price
+$200 per night",6,1,4,1.5,Entire house,74 Reviews,Rating 4.5 out of 5,40.736071873183576,-73.9902726543294,false, 90%
+558,"Price
+$210 per night",2,1,1,1.0,Entire apartment,5 Reviews,Rating 5 out of 5,40.76711893740014,-73.98788937290031,false, 90%
+559,"Price
+$200 per night",4,2,3,2.0,Entire apartment,40 Reviews,Rating 5 out of 5,40.753406990346754,-73.98504249634506,false, 100%
+560,"Price
+$190 per night",4,1,2,1.0,Private room in townhouse,141 Reviews,Rating 5 out of 5,40.759207499978594,-73.97361345834706,"true,", 100%
+561,"Price
+$200 per night",6,2,3,2.0,Entire apartment,71 Reviews,Rating 5 out of 5,40.76343559277634,-73.98620631607629,"true,", 100%
+562,"Price
+$199 per night",0,2,5,1.0,Entire apartment,271 Reviews,Rating 4.5 out of 5,40.74801022349374,-73.98898832275988,false, 90%
+563,"Price
+$199 per night",3,1,1,1.0,Entire apartment,96 Reviews,Rating 5 out of 5,40.759655343651275,-73.9938664969076,"true,", 100%
+564,"Price
+$199 per night",3,1,2,1.0,Entire apartment,130 Reviews,Rating 4.5 out of 5,40.75634083256273,-73.98699744455136,false, 100%
+565,"Price
+$199 per night",4,1,2,1.0,Entire apartment,100 Reviews,Rating 4.5 out of 5,40.80368606890978,-73.94856865590285,false, 100%
+566,"Price
+$195 per night",6,2,3,1.0,Entire loft,317 Reviews,Rating 4.5 out of 5,40.716748043260715,-73.96508607499716,false, 100%
+567,"Price
+$190 per night",4,1,2,1.5,Entire apartment,41 Reviews,Rating 5 out of 5,40.76192081250221,-73.99727423750426,"true,", 100%
+568,"Price
+$205 per night",6,3,3,1.0,Entire apartment,267 Reviews,Rating 4.5 out of 5,40.717904284206526,-73.96107212585599,false, 100%
+569,"Price
+$200 per night",5,2,3,1.0,Entire apartment,129 Reviews,Rating 4 out of 5,40.72204251187048,-73.98376989169357,false, 100%
+570,"Price
+$199 per night",2,1,0,1.0,Entire apartment,226 Reviews,Rating 5 out of 5,40.763168365018956,-73.99053434533093,"true,", 100%
+571,"Price
+$199 per night",2,studio,0,1.0,Entire apartment,74 Reviews,Rating 4.5 out of 5,40.767007299977415,-73.97692786692895,false, 93%
+572,"Price
+$180 per night",6,2,2,1.5,Entire apartment,25 Reviews,Rating 5 out of 5,40.76320955178871,-73.99616597678288,"true,", 97%
+573,"Price
+$200 per night",5,2,2,1.0,Entire apartment,162 Reviews,Rating 4.5 out of 5,40.72398964580543,-73.98133816572243,"true,", 100%
+574,"Price
+$218 per night",5,3,3,2.0,Entire apartment,196 Reviews,Rating 4.5 out of 5,40.72063861467827,-73.99671880052938,"true,", 100%
+575,"Price
+$200 per night",4,studio,2,1.0,Entire apartment,99 Reviews,Rating 5 out of 5,40.73773157594098,-73.99729723807694,"true,", 100%
+576,"Price
+$200 per night",5,2,2,1.0,Entire apartment,79 Reviews,Rating 5 out of 5,40.727521505320894,-74.00275598455252,false, 100%
+577,"Price
+$190 per night",3,1,1,1.0,Entire apartment,145 Reviews,Rating 5 out of 5,40.793677146436075,-73.9648708177862,"true,", 100%
+578,"Price
+$199 per night",2,1,1,1.0,Entire apartment,149 Reviews,Rating 5 out of 5,40.743743232287066,-74.00044413101543,"true,", 100%
+579,"Price
+$200 per night",3,studio,1,1.0,Entire apartment,59 Reviews,Rating 4.5 out of 5,40.764386545910604,-73.96569075371691,false, 100%
+580,"Price
+$190 per night",6,2,4,1.0,Entire apartment,92 Reviews,Rating 4.5 out of 5,40.75045997014144,-73.99854138047381,false, 100%
+581,"Price
+$200 per night",2,1,1,1.0,Entire condominium,44 Reviews,Rating 5 out of 5,40.73664353053661,-73.97930909427289,"true,", 100%
+582,"Price
+$200 per night",6,1,3,1.0,Entire apartment,27 Reviews,Rating 5 out of 5,40.759727726692454,-73.99251203008265,false, 67%
+583,"Price
+$205 per night",4,1,2,1.0,Entire apartment,79 Reviews,Rating 4.5 out of 5,40.720774000178864,-73.99023014074103,false, 90%
+584,"Price
+$199 per night",8,3,3,1.0,Entire apartment,92 Reviews,Rating 4.5 out of 5,40.743510482766105,-73.97628053858294,false, 91%
+585,"Price
+$199 per night",2,studio,0,1.0,Entire apartment,17 Reviews,Rating 5 out of 5,40.76111373125968,-73.99344832413686,"true,", 100%
+586,"Price
+$195 per night",2,studio,1,1.0,Entire apartment,63 Reviews,Rating 5 out of 5,40.71472086607597,-73.99081441554362,"true,", 100%
+587,"Price
+$191 per night",7,3,4,1.0,Entire condominium,79 Reviews,Rating 5 out of 5,40.77743972140708,-73.95696890172532,"true,", 91%
+588,"Price
+$200 per night",7,3,4,2.0,Entire apartment,103 Reviews,Rating 4.5 out of 5,40.77707357585246,-73.94994343304316,false, 100%
+589,"Price
+$198 per night",9,2,5,2.0,Entire apartment,96 Reviews,Rating 5 out of 5,40.7803260542192,-74.01361240471263,false, 93%
+590,"Price
+$199 per night",6,1,3,2.0,NoneType,NoneType,no rating,40.76365259946654,-73.96683271448275,"true,",no info
+591,"Price
+$189 per night",2,1,1,1.0,Entire apartment,90 Reviews,Rating 4.5 out of 5,40.72255115661937,-73.98473727876436,"true,", 100%
+592,"Price
+$200 per night",3,1,1,1.5,Entire apartment,57 Reviews,Rating 5 out of 5,40.759545794171025,-73.99738085798526,"true,", 100%
+593,"Price
+$199 per night",6,2,4,1.0,Entire apartment,63 Reviews,Rating 4.5 out of 5,40.78397988862717,-73.94960360243994,false, 100%
+594,"Price
+$212 per night",6,2,2,1.0,Entire apartment,41 Reviews,Rating 5 out of 5,40.7257041914964,-73.98798754288225,false, 100%
+595,"Price
+$200 per night",4,2,4,1.0,Entire apartment,55 Reviews,Rating 5 out of 5,40.70616728249711,-74.00741566993709,"true,", 100%
+596,"Price
+$180 per night",4,2,2,1.0,Entire loft,107 Reviews,Rating 5 out of 5,40.71890744904507,-73.96135290499109,"true,", 100%
+597,"Price
+$199 per night",2,studio,1,1.0,Entire serviced apartment,28 Reviews,Rating 5 out of 5,40.74892995362954,-73.94688406018659,"true,", 100%
+598,"Price
+$219 per night",6,2,3,1.0,Entire apartment,67 Reviews,Rating 4.5 out of 5,40.721811114071215,-73.99485794505115,false, 100%
+599,"Price
+$219 per night",2,studio,1,1.0,Entire apartment,39 Reviews,Rating 5 out of 5,40.744456444038185,-73.98044277916087,"true,", 100%
+600,"Price
+$210 per night",4,2,2,1.0,Entire apartment,109 Reviews,Rating 5 out of 5,40.71409296922289,-73.96358757598665,"true,", 100%
+601,"Price
+$190 per night",2,1,1,1.0,Entire apartment,46 Reviews,Rating 4.5 out of 5,40.73161159901857,-73.98960464962559,false, 100%
+602,"Price
+$180 per night",6,2,3,1.0,Entire apartment,66 Reviews,Rating 4.5 out of 5,40.79676641440229,-73.94823348728114,false, 100%
+603,"Price
+$195 per night",2,1,1,1.0,Entire apartment,30 Reviews,Rating 5 out of 5,40.743443146676455,-74.00044056695211,"true,", 100%
+604,"Price
+$185 per night",1,1,1,1.0,Entire apartment,32 Reviews,Rating 5 out of 5,40.73764987481084,-73.98393423915834,"true,", 100%
+605,"Price
+$190 per night",2,2,2,1.0,Entire apartment,56 Reviews,Rating 4.5 out of 5,40.76057981037339,-73.98701389866402,false, 81%
+606,"Price
+$189 per night",6,2,3,1.0,NoneType,54 Reviews,Rating 4.5 out of 5,40.72895867765437,-73.98523423370342,false,no info
+607,"Price
+$199 per night",4,studio,2,1.0,Entire apartment,48 Reviews,Rating 5 out of 5,40.738566394026535,-73.95298833864972,false, 100%
+608,"Price
+$190 per night",3,studio,2,1.0,Entire apartment,31 Reviews,Rating 5 out of 5,40.76944196151446,-73.95817627440887,false, 100%
+609,"Price
+$199 per night",8,3,5,1.0,Entire apartment,86 Reviews,Rating 4.5 out of 5,40.74119042013052,-74.00059577447216,false, 100%
+610,"Price
+$219 per night",4,1,2,1.0,Entire apartment,84 Reviews,Rating 5 out of 5,40.79938741445666,-73.95470433971019,"true,", 100%
+611,"Price
+$200 per night",4,2,2,1.0,Entire apartment,24 Reviews,Rating 5 out of 5,40.76817479553112,-73.96754003378838,"true,", 100%
+612,"Price
+$210 per night",2,1,1,1.0,Entire apartment,5 Reviews,Rating 5 out of 5,40.76711893740014,-73.98788937290031,false,
+613,"Price
+$200 per night",4,2,3,2.0,Entire apartment,40 Reviews,Rating 5 out of 5,40.753406990346754,-73.98504249634506,false,
+614,"Price
+$200 per night",6,2,3,2.0,Entire apartment,71 Reviews,Rating 5 out of 5,40.76343559277634,-73.98620631607629,"true,",
+615,"Price
+$195 per night",3,studio,1,1.0,Entire apartment,144 Reviews,Rating 5 out of 5,40.724076076928846,-73.98297129516938,"true,",
+616,"Price
+$195 per night",6,2,3,1.0,Entire loft,317 Reviews,Rating 4.5 out of 5,40.716748043260715,-73.96508607499716,false,
+617,"Price
+$199 per night",3,1,2,1.0,Entire apartment,130 Reviews,Rating 4.5 out of 5,40.75634083256273,-73.98699744455136,false,
+618,"Price
+$200 per night",5,2,3,1.0,Entire apartment,129 Reviews,Rating 4 out of 5,40.72204251187048,-73.98376989169357,false,
+619,"Price
+$199 per night",4,1,2,1.0,Entire apartment,100 Reviews,Rating 4.5 out of 5,40.80368606890978,-73.94856865590285,false,
+620,"Price
+$199 per night",0,2,5,1.0,Entire apartment,271 Reviews,Rating 4.5 out of 5,40.74801022349374,-73.98898832275988,false,
+621,"Price
+$218 per night",5,3,3,2.0,Entire apartment,196 Reviews,Rating 4.5 out of 5,40.72063861467827,-73.99671880052938,"true,",
+622,"Price
+$205 per night",6,3,3,1.0,Entire apartment,267 Reviews,Rating 4.5 out of 5,40.717904284206526,-73.96107212585599,false,
+623,"Price
+$199 per night",2,1,0,1.0,Entire apartment,226 Reviews,Rating 5 out of 5,40.763168365018956,-73.99053434533093,"true,",
+624,"Price
+$199 per night",2,studio,0,1.0,Entire apartment,74 Reviews,Rating 4.5 out of 5,40.767007299977415,-73.97692786692895,false,
+625,"Price
+$200 per night",2,1,1,1.0,Entire loft,89 Reviews,Rating 5 out of 5,40.75507886739829,-73.99345552662997,"true,",
+626,"Price
+$200 per night",5,2,2,1.0,NoneType,NoneType,no rating,40.72398964580543,-73.98133816572243,"true,",no info
+627,"Price
+$220 per night",6,3,3,2.0,Entire apartment,90 Reviews,Rating 4.5 out of 5,40.75685373167728,-73.99393264871469,false,
+628,"Price
+$198 per night",4,1,2,1.5,Entire apartment,126 Reviews,Rating 5 out of 5,40.70106785145517,-73.98390940266148,"true,",
+629,"Price
+$200 per night",6,2,3,2.0,Entire apartment,50 Reviews,Rating 5 out of 5,40.76351652950442,-73.98722177786148,false,
+630,"Price
+$195 per night",4,1,1,1.0,Entire loft,151 Reviews,Rating 5 out of 5,40.716566347354814,-73.96263867524061,"true,",
+631,"Price
+$200 per night",6,2,3,1.0,Entire apartment,175 Reviews,Rating 4.5 out of 5,40.772478227650964,-73.9801528793094,"true,", 100%
+632,"Price
+$211 per night",4,2,2,1.0,Entire apartment,137 Reviews,Rating 4.5 out of 5,40.7277376431916,-73.97933957098302,false, 90%
+633,"Price
+$200 per night",2,1,2,1.0,Private room in loft,130 Reviews,Rating 5 out of 5,40.756098630537885,-73.9982555249483,false, 100%
+634,"Price
+$199 per night",8,2,5,1.0,Entire apartment,276 Reviews,Rating 5 out of 5,40.711637174498726,-74.00774463537614,"true,", 100%
+635,"Price
+$200 per night",6,1,4,1.5,Entire house,74 Reviews,Rating 4.5 out of 5,40.736071873183576,-73.9902726543294,false, 90%
+636,"Price
+$225 per night",4,1,2,1.0,Entire apartment,25 Reviews,Rating 5 out of 5,40.73925271685775,-73.99359066630866,false, 100%
+637,"Price
+$199 per night",2,1,1,1.0,Entire apartment,115 Reviews,Rating 5 out of 5,40.730202570592375,-74.00165241415834,false, 100%
+638,"Price
+$215 per night",2,studio,1,1.0,Entire apartment,75 Reviews,Rating 5 out of 5,40.72633474425452,-74.0020739478377,"true,", 100%
+639,"Price
+$215 per night",2,studio,1,1.0,Entire apartment,97 Reviews,Rating 5 out of 5,40.740678986232155,-74.00294631794229,"true,", 100%
+640,"Price
+$215 per night",2,studio,1,1.0,Room in hotel,27 Reviews,Rating 4.5 out of 5,40.753675672711076,-73.97357758811705,false,
+641,"Price
+$225 per night",5,2,2,1.0,Private room in apartment,223 Reviews,Rating 5 out of 5,40.763760572124355,-73.99161025740514,"true,",
+642,"Price
+$200 per night",6,3,4,1.0,Entire apartment,31 Reviews,Rating 4.5 out of 5,40.75011188843979,-73.9795088760069,false,
+643,"Price
+$200 per night",3,1,1,1.0,Entire apartment,131 Reviews,Rating 5 out of 5,40.78433769685129,-73.97866832658843,"true,",
+644,"Price
+$199 per night",2,studio,1,1.0,Entire apartment,52 Reviews,Rating 4.5 out of 5,40.759103689903434,-73.9913926640127,false,
+645,"Price
+$199 per night",2,1,1,1.0,Private room in loft,96 Reviews,Rating 4.5 out of 5,40.72409224603992,-74.0024061403938,false,
+646,"Price
+$200 per night",4,1,2,1.0,Entire apartment,119 Reviews,Rating 5 out of 5,40.71927660809142,-73.98906736434273,"true,",
+647,"Price
+$201 per night",6,3,3,1.0,Entire apartment,34 Reviews,Rating 4 out of 5,40.75393138298444,-73.97389580602166,false,
+648,"Price
+$199 per night",8,3,3,1.0,Entire apartment,92 Reviews,Rating 4.5 out of 5,40.743510482766105,-73.97628053858294,false, 91%
+649,"Price
+$199 per night",2,studio,1,1.0,Entire apartment,47 Reviews,Rating 5 out of 5,40.725150271358345,-73.98390109440747,"true,", 100%
+650,"Price
+$199 per night",2,1,1,1.0,Entire apartment,159 Reviews,Rating 5 out of 5,40.74919763927307,-73.99846895371118,"true,", 100%
+651,"Price
+$199 per night",2,studio,0,1.0,Entire apartment,17 Reviews,Rating 5 out of 5,40.76111373125968,-73.99344832413686,"true,", 100%
+652,"Price
+$200 per night",5,2,2,1.0,Entire apartment,79 Reviews,Rating 5 out of 5,40.727521505320894,-74.00275598455252,false, 100%
+653,"Price
+$215 per night",2,1,1,1.0,Entire apartment,65 Reviews,Rating 5 out of 5,40.72764599634621,-73.98634246031186,false,
+654,"Price
+$199 per night",2,1,1,1.0,Entire apartment,149 Reviews,Rating 5 out of 5,40.743743232287066,-74.00044413101543,"true,",
+655,"Price
+$198 per night",9,2,5,2.0,Entire apartment,96 Reviews,Rating 5 out of 5,40.7803260542192,-74.01361240471263,false,
+656,"Price
+$195 per night",2,studio,1,1.0,Entire apartment,63 Reviews,Rating 5 out of 5,40.71472086607597,-73.99081441554362,"true,",
+657,"Price
+$225 per night",4,1,3,1.0,Entire house,99 Reviews,Rating 5 out of 5,40.76230557120499,-73.9951995419474,"true,",
+658,"Price
+$231 per night",5,2,3,1.0,Entire loft,102 Reviews,Rating 5 out of 5,40.709198066614924,-73.95081685710328,false,
+659,"Price
+$200 per night",6,1,3,1.5,Entire apartment,39 Reviews,Rating 5 out of 5,40.76150780440719,-73.99249018953404,false,
+660,"Price
+$215 per night",4,1,3,1.0,Entire apartment,280 Reviews,Rating 4.5 out of 5,40.77872763677064,-73.9846623903587,"true,",
+661,"Price
+$200 per night",7,3,3,2.0,Entire apartment,30 Reviews,Rating 5 out of 5,40.783550407187654,-73.98154123766608,false,
+662,"Price
+$195 per night",4,1,1,1.0,Entire apartment,118 Reviews,Rating 4.5 out of 5,40.735715186514135,-73.98734759639777,false,
+663,"Price
+$200 per night",4,2,2,1.0,Entire apartment,137 Reviews,Rating 4.5 out of 5,40.72292843741746,-73.99413413809931,"true,",
+664,"Price
+$199 per night",6,1,3,2.0,Entire apartment,34 Reviews,Rating 5 out of 5,40.76365259946654,-73.96683271448275,"true,",
+665,"Price
+$199 per night",7,3,4,1.0,Entire apartment,121 Reviews,Rating 4.5 out of 5,40.76064994067964,-73.9907859831382,false,
+666,"Price
+$219 per night",2,1,1,1.0,Entire apartment,118 Reviews,Rating 5 out of 5,40.725061366480496,-73.9886546492678,"true,",
+667,"Price
+$219 per night",2,studio,1,1.0,Entire apartment,39 Reviews,Rating 5 out of 5,40.744456444038185,-73.98044277916087,"true,",
+668,"Price
+$229 per night",6,2,3,1.0,Entire apartment,168 Reviews,Rating 4.5 out of 5,40.72582355632096,-73.99401869237005,false,
+669,"Price
+$225 per night",2,1,1,1.0,Entire apartment,73 Reviews,Rating 5 out of 5,40.73404633700233,-73.98862405864,"true,",
+670,"Price
+$225 per night",6,3,4,2.0,Entire apartment,41 Reviews,Rating 4.5 out of 5,40.76299867244601,-73.99034326023447,false,
+671,"Price
+$199 per night",6,2,4,1.0,Entire apartment,63 Reviews,Rating 4.5 out of 5,40.78397988862717,-73.94960360243994,false,
+672,"Price
+$200 per night",8,3,5,1.5,Entire apartment,78 Reviews,Rating 4.5 out of 5,40.756435742331135,-73.9658931213808,false,
+673,"Price
+$205 per night",4,1,2,1.0,Entire apartment,79 Reviews,Rating 4.5 out of 5,40.720774000178864,-73.99023014074103,false,
+674,"Price
+$200 per night",2,1,1,1.0,Entire condominium,45 Reviews,Rating 5 out of 5,40.73664353053661,-73.97930909427289,"true,",
+675,"Price
+$220 per night",6,1,1,1.0,Entire apartment,36 Reviews,Rating 5 out of 5,40.76901901396501,-73.99117321551365,"true,",
+676,"Price
+$195 per night",5,1,4,1.0,Entire apartment,180 Reviews,Rating 5 out of 5,40.72090583022733,-73.95813617478531,"true,",
+677,"Price
+$210 per night",4,2,3,1.0,Entire apartment,18 Reviews,Rating 5 out of 5,40.71002375741074,-73.9611418553342,false,
+678,"Price
+$209 per night",7,3,3,1.0,Entire apartment,45 Reviews,Rating 4.5 out of 5,40.7041956961177,-74.01614317050328,false,
+679,"Price
+$215 per night",4,2,2,1.0,Entire apartment,63 Reviews,Rating 5 out of 5,40.725408288285315,-73.97637871733097,"true,",
+680,"Price
+$200 per night",2,1,1,1.0,Entire apartment,35 Reviews,Rating 5 out of 5,40.76951884207899,-73.98957387793135,false,
+681,"Price
+$215 per night",2,studio,1,1.0,Private room in resort,20 Reviews,Rating 4.5 out of 5,40.75229841220671,-73.97287924091559,false,
+682,"Price
+$230 per night",2,1,1,1.0,Entire apartment,47 Reviews,Rating 5 out of 5,40.728370185199964,-73.99951816223812,"true,",
+683,"Price
+$205 per night",5,2,3,1.0,Entire apartment,7 Reviews,Rating 4.5 out of 5,40.764187572736176,-73.98949160356698,false,
+684,"Price
+$215 per night",2,studio,1,1.0,Private room in resort,20 Reviews,Rating 4.5 out of 5,40.75229841220671,-73.97287924091559,false,
+685,"Price
+$200 per night",2,1,1,1.0,Entire apartment,35 Reviews,Rating 5 out of 5,40.76951884207899,-73.98957387793135,false,
+686,"Price
+$230 per night",8,3,4,2.0,Entire apartment,56 Reviews,Rating 5 out of 5,40.783039457696546,-73.95122708848704,false,
+687,"Price
+$195 per night",6,2,3,1.0,Entire apartment,45 Reviews,Rating 5 out of 5,40.75631574338487,-73.99101958811464,"true,", 100%
+688,"Price
+$200 per night",6,1,3,1.0,Entire apartment,27 Reviews,Rating 5 out of 5,40.759727726692454,-73.99251203008265,false, 67%
+689,"Price
+$225 per night",4,1,1,1.0,Entire loft,82 Reviews,Rating 5 out of 5,40.7168825632296,-73.94583519521406,"true,", 100%
+690,"Price
+$200 per night",7,3,3,2.0,Entire apartment,30 Reviews,Rating 5 out of 5,40.783550407187654,-73.98154123766608,false, 100%
+691,"Price
+$200 per night",2,1,2,1.0,Entire apartment,84 Reviews,Rating 5 out of 5,40.76589674596592,-73.96611356369985,"true,", 100%
+692,"Price
+$200 per night",3,1,2,1.0,Entire loft,26 Reviews,Rating 5 out of 5,40.75353610735967,-73.95113025643327,"true,", 100%
+693,"Price
+$222 per night",5,2,3,1.0,Entire apartment,62 Reviews,Rating 4 out of 5,40.742444973723934,-73.98338101401201,false, 100%
+694,"Price
+$210 per night",4,1,1,1.0,Entire condominium,10 Reviews,Rating 5 out of 5,40.7952340279801,-73.94231004488178,"true,", 90%
+695,"Price
+$202 per night",5,2,3,1.0,NoneType,NoneType,no rating,40.718416997267006,-73.98587812634592,false,no info
+696,"Price
+$229 per night",6,2,4,1.0,Entire apartment,8 Reviews,Rating 4.5 out of 5,40.747196024154256,-73.9832991480713,false, 100%
+697,"Price
+$231 per night",3,1,2,1.0,Entire apartment,41 Reviews,Rating 5 out of 5,40.71453924430993,-73.99271458804836,"true,", 100%
+698,"Price
+$200 per night",8,3,3,2.0,Entire apartment,65 Reviews,Rating 5 out of 5,40.77316816643575,-73.95634171195901,"true,", 100%
+699,"Price
+$201 per night",7,2,4,1.0,Entire apartment,197 Reviews,Rating 4.5 out of 5,40.714929351204574,-73.99033830448207,false, 100%
+700,"Price
+$230 per night",2,1,1,1.0,Entire apartment,47 Reviews,Rating 5 out of 5,40.728370185199964,-73.99951816223812,"true,", 100%
+701,"Price
+$206 per night",5,1,2,1.5,Entire apartment,66 Reviews,Rating 4.5 out of 5,40.77148754255165,-73.98559871647848,false, 100%
+702,"Price
+$195 per night",6,2,2,1.0,Entire apartment,84 Reviews,Rating 5 out of 5,40.7265030275526,-73.98833695269401,"true,", 100%
+703,"Price
+$205 per night",6,3,4,1.0,Entire apartment,60 Reviews,Rating 4.5 out of 5,40.74485466534102,-73.9846835467663,false, 95%
+704,"Price
+$224 per night",0,4,6,1.0,Entire loft,68 Reviews,Rating 4.5 out of 5,40.71033491618039,-74.01314534969954,false, 100%
+705,"Price
+$230 per night",0,3,5,2.0,Entire apartment,115 Reviews,Rating 5 out of 5,40.77275215044885,-74.02424480254756,false, 88%
+706,"Price
+$195 per night",6,2,2,1.0,Entire apartment,95 Reviews,Rating 4.5 out of 5,40.796002381081145,-73.9486292845093,false, 100%
+707,"Price
+$225 per night",3,1,1,1.0,Entire apartment,74 Reviews,Rating 5 out of 5,40.73321322998492,-74.00242068208148,"true,", 100%
+708,"Price
+$200 per night",2,1,1,1.0,Entire apartment,8 Reviews,Rating 5 out of 5,40.77726754334872,-73.98452507032034,"true,", 100%
+709,"Price
+$195 per night",6,2,3,1.0,Entire apartment,64 Reviews,Rating 5 out of 5,40.76438164285923,-73.98860150732641,"true,", 100%
+710,"Price
+$229 per night",4,studio,2,1.0,Entire apartment,76 Reviews,Rating 5 out of 5,40.7366123395304,-73.95479345445642,false, 100%
+711,"Price
+$225 per night",2,studio,1,1.0,Entire apartment,50 Reviews,Rating 5 out of 5,40.71220229399447,-73.96619303463895,"true,", 100%
+712,"Price
+$199 per night",4,1,1,1.0,Entire apartment,81 Reviews,Rating 4.5 out of 5,40.74642219609205,-73.9851643430968,false, 90%
+713,"Price
+$219 per night",4,1,2,1.0,Entire apartment,146 Reviews,Rating 5 out of 5,40.712578620079945,-73.95555744758134,"true,", 100%
+714,"Price
+$195 per night",3,2,2,1.0,Entire apartment,101 Reviews,Rating 4.5 out of 5,40.80053824434742,-73.96083611322317,false, 100%
+715,"Price
+$225 per night",4,1,1,1.0,Entire apartment,35 Reviews,Rating 5 out of 5,40.748191030220006,-73.97642391680891,false, 100%
+716,"Price
+$195 per night",4,1,2,1.0,Entire apartment,69 Reviews,Rating 5 out of 5,40.73282078710251,-74.00094630406737,false, 100%
+717,"Price
+$201 per night",4,2,2,1.0,Entire apartment,114 Reviews,Rating 5 out of 5,40.77395519849803,-73.95438030214645,"true,", 100%
+718,"Price
+$212 per night",6,2,2,1.0,Entire apartment,41 Reviews,Rating 5 out of 5,40.7257041914964,-73.98798754288225,false, 100%
+719,"Price
+$219 per night",4,1,2,1.0,Entire apartment,84 Reviews,Rating 5 out of 5,40.79938741445666,-73.95470433971019,"true,", 100%
+720,"Price
+$195 per night",5,2,2,2.0,Entire apartment,52 Reviews,Rating 5 out of 5,40.717648237940324,-73.95771559251658,false,
+721,"Price
+$199 per night",2,1,1,1.0,Entire apartment,32 Reviews,Rating 4.5 out of 5,40.729812331537616,-74.0034778024242,false, 100%
+722,"Price
+$200 per night",2,1,1,1.0,Entire apartment,5 Reviews,Rating 5 out of 5,40.75896330672418,-73.96251119170208,"true,", 100%
+723,"Price
+$217 per night",2,1,2,1.0,Entire apartment,23 Reviews,Rating 5 out of 5,40.744238481652474,-73.99037006998498,"true,", 90%
+724,"Price
+$225 per night",4,1,1,1.0,Entire serviced apartment,37 Reviews,Rating 4.5 out of 5,40.75047935285626,-73.97776468762974,"true,", 100%
+725,"Price
+$215 per night",6,2,2,1.5,Entire condominium,16 Reviews,Rating 5 out of 5,40.761754993623775,-73.99621314857352,"true,", 100%
+726,"Price
+$200 per night",6,2,3,2.0,Entire apartment,66 Reviews,Rating 4.5 out of 5,40.72345673519542,-73.99590179913805,"true,",
+727,"Price
+$229 per night",7,3,4,2.0,Entire apartment,34 Reviews,Rating 4.5 out of 5,40.77746463223479,-73.94467399578218,false, 100%
+728,"Price
+$200 per night",4,2,3,1.0,Entire apartment,31 Reviews,Rating 4.5 out of 5,40.731224954953305,-73.98624052982439,"true,", 100%
+729,"Price
+$211 per night",6,2,3,1.0,Entire apartment,78 Reviews,Rating 4.5 out of 5,40.7177184254162,-73.98881851249381,false, 100%
+730,"Price
+$229 per night",4,studio,1,1.0,Entire apartment,14 Reviews,Rating 5 out of 5,40.761923177625405,-73.99821476883969,false, 100%
+731,"Price
+$200 per night",6,2,4,2.0,Entire apartment,124 Reviews,Rating 4.5 out of 5,40.80463404169008,-73.95043558012254,false, 100%
+732,"Price
+$219 per night",2,1,1,1.0,Entire apartment,22 Reviews,Rating 5 out of 5,40.722789510076296,-74.0028044123482,"true,", 86%
+733,"Price
+$200 per night",5,2,3,1.0,Entire apartment,78 Reviews,Rating 4.5 out of 5,40.7746547085605,-73.95158248806548,false, 100%
+734,"Price
+$225 per night",6,3,4,1.0,Entire apartment,103 Reviews,Rating 5 out of 5,40.75702522172936,-74.03505129127892,"true,", 94%
+735,"Price
+$200 per night",3,studio,1,1.0,Entire apartment,23 Reviews,Rating 5 out of 5,40.760245266509216,-73.97011342623729,"true,", 100%
+736,"Price
+$225 per night",5,studio,3,1.0,Entire apartment,85 Reviews,Rating 5 out of 5,40.70917177224057,-74.01460255754873,"true,", 100%
+737,"Price
+$209 per night",6,3,3,1.0,Entire condominium,37 Reviews,Rating 5 out of 5,40.78172980927662,-73.94803257141969,"true,", 100%
+738,"Price
+$231 per night",3,1,2,1.0,Entire apartment,41 Reviews,Rating 5 out of 5,40.71453924430993,-73.99271458804836,"true,", 100%
+739,"Price
+$250 per night",2,studio,1,1.0,Entire apartment,40 Reviews,Rating 5 out of 5,40.73580361097376,-73.98890258253378,"true,", 100%
+740,"Price
+$229 per night",6,2,3,1.0,Entire apartment,33 Reviews,Rating 5 out of 5,40.7230983346784,-73.99415311162663,"true,", 100%
+741,"Price
+$224 per night",0,4,6,1.0,Entire loft,68 Reviews,Rating 4.5 out of 5,40.71033491618039,-74.01314534969954,false, 100%
+742,"Price
+$245 per night",7,3,3,2.0,Entire apartment,51 Reviews,Rating 5 out of 5,40.72609231086845,-73.90112325569653,"true,", 92%
+743,"Price
+$220 per night",6,1,1,1.0,Entire apartment,36 Reviews,Rating 5 out of 5,40.76901901396501,-73.99117321551365,"true,", 100%
+744,"Price
+$249 per night",6,2,4,1.0,Entire apartment,21 Reviews,Rating 4.5 out of 5,40.746848283168546,-73.98568303447777,false, 100%
+745,"Price
+$249 per night",3,1,1,1.0,Entire apartment,98 Reviews,Rating 5 out of 5,40.73813649512167,-74.00046730935972,"true,", 100%
+746,"Price
+$239 per night",0,3,3,2.0,Entire townhouse,55 Reviews,Rating 5 out of 5,40.728085845477366,-73.98187823949131,"true,", 100%
+747,"Price
+$236 per night",6,2,2,1.0,Entire apartment,87 Reviews,Rating 4.5 out of 5,40.720690453236905,-73.99473453449113,false, 100%
+748,"Price
+$250 per night",8,3,3,2.0,Entire apartment,11 Reviews,Rating 4.5 out of 5,40.761351032904244,-73.99292411972944,false, 100%
+749,"Price
+$250 per night",4,2,2,1.0,Entire apartment,69 Reviews,Rating 5 out of 5,40.727844409700744,-73.98883495617024,"true,", 90%
+750,"Price
+$225 per night",4,1,1,1.0,Entire apartment,34 Reviews,Rating 4.5 out of 5,40.748191030220006,-73.97642391680891,false, 100%
+751,"Price
+$225 per night",8,4,6,2.0,Entire loft,165 Reviews,Rating 5 out of 5,40.80164249642196,-73.93922139409575,"true,", 100%
+752,"Price
+$225 per night",4,1,3,1.0,Entire house,99 Reviews,Rating 5 out of 5,40.76230557120499,-73.9951995419474,"true,", 100%
+753,"Price
+$240 per night",6,3,3,1.0,Entire apartment,104 Reviews,Rating 4.5 out of 5,40.756954477505786,-73.99321525775923,false, 100%
+754,"Price
+$259 per night",4,studio,2,1.0,Entire apartment,8 Reviews,Rating 5 out of 5,40.76065764102749,-73.982739478267,false, 89%
+755,"Price
+$250 per night",5,3,3,2.0,Entire apartment,34 Reviews,Rating 4.5 out of 5,40.73872303864844,-73.9819650107001,false, 100%
+756,"Price
+$239 per night",9,3,4,1.0,Entire apartment,46 Reviews,Rating 4.5 out of 5,40.71991844357599,-73.98565689073102,false, 100%
+757,"Price
+$250 per night",7,2,2,2.0,Entire apartment,3 Reviews,Rating 4.5 out of 5,40.774403521008075,-73.98740478943125,false, 100%
+758,"Price
+$244 per night",4,2,2,1.0,Entire loft,80 Reviews,Rating 5 out of 5,40.7160563097987,-73.95525603110897,false, 100%
+759,"Price
+$250 per night",6,3,7,1.0,Entire apartment,35 Reviews,Rating 5 out of 5,40.72917262519813,-73.95130868744758,"true,",
+760,"Price
+$221 per night",4,1,1,1.0,Entire serviced apartment,23 Reviews,Rating 5 out of 5,40.72707967694567,-73.978090305366,"true,", 100%
+761,"Price
+$222 per night",0,2,6,2.0,Entire house,37 Reviews,Rating 5 out of 5,40.79199774006892,-74.01460414684522,"true,", 100%
+762,"Price
+$240 per night",3,1,1,1.0,Entire apartment,55 Reviews,Rating 5 out of 5,40.74026028390192,-74.00079485624177,false, 100%
+763,"Price
+$245 per night",4,1,2,1.0,Entire apartment,26 Reviews,Rating 5 out of 5,40.73490393953964,-74.00617960692006,false, 100%
+764,"Price
+$250 per night",2,1,1,1.0,Entire apartment,11 Reviews,Rating 5 out of 5,40.71978304101495,-73.98643278198551,false, 100%
+765,"Price
+$257 per night",7,3,3,1.0,Entire apartment,68 Reviews,Rating 5 out of 5,40.725720843562954,-73.98160351002824,"true,", 100%
+766,"Price
+$232 per night",6,2,4,1.0,Entire apartment,44 Reviews,Rating 4.5 out of 5,40.72244659902928,-73.98336862412293,false, 100%
+767,"Price
+$250 per night",2,1,1,1.0,Entire apartment,19 Reviews,Rating 5 out of 5,40.71311682067682,-73.99033053047309,false, 100%
+768,"Price
+$230 per night",6,2,3,1.0,Entire apartment,9 Reviews,Rating 5 out of 5,40.75580492105549,-73.97189950946075,false, 100%
+769,"Price
+$255 per night",2,5,6,1.5,Entire loft,4 Reviews,Rating 5 out of 5,40.72925067966255,-73.98398528383916,false, 100%
+770,"Price
+$250 per night",2,1,1,1.5,Entire apartment,36 Reviews,Rating 5 out of 5,40.75723395206911,-73.96742740974817,"true,", 100%
+771,"Price
+$238 per night",2,1,2,1.0,Entire apartment,121 Reviews,Rating 5 out of 5,40.76472063858713,-73.98813411366412,"true,", 100%
+772,"Price
+$249 per night",4,2,3,2.0,Entire loft,9 Reviews,Rating 5 out of 5,40.730521074192545,-73.98277374764741,false, 100%
+773,"Price
+$223 per night",6,2,3,1.0,Entire apartment,80 Reviews,Rating 4.5 out of 5,40.745656217916824,-73.99988716871545,false, 90%
+774,"Price
+$259 per night",7,2,2,1.0,Entire apartment,40 Reviews,Rating 5 out of 5,40.76521235793424,-73.98775652301423,"true,", 90%
+775,"Price
+$250 per night",6,1,3,1.0,Entire apartment,52 Reviews,Rating 5 out of 5,40.71535937894405,-74.0353442632439,"true,", 100%
+776,"Price
+$245 per night",2,1,1,1.0,Entire apartment,14 Reviews,Rating 5 out of 5,40.73933707206996,-73.98076789365962,false, 100%
+777,"Price
+$220 per night",3,1,1,1.0,Entire apartment,44 Reviews,Rating 4.5 out of 5,40.733094826252106,-74.00481728620106,false, 80%
+778,"Price
+$225 per night",7,2,3,1.0,Entire apartment,8 Reviews,Rating 5 out of 5,40.77396452280229,-73.98781934457081,false, 100%
+779,"Price
+$235 per night",8,2,5,1.0,Entire loft,42 Reviews,Rating 5 out of 5,40.720717973468425,-73.95725286558961,"true,", 100%
+780,"Price
+$250 per night",8,3,3,2.0,Entire apartment,53 Reviews,Rating 5 out of 5,40.7157208183646,-73.99113513869705,"true,", 100%
+781,"Price
+$250 per night",4,studio,3,1.0,Entire apartment,9 Reviews,Rating 4.5 out of 5,40.76619628702179,-73.9861234921148,false, 100%
+782,"Price
+$257 per night",8,2,6,1.0,Entire apartment,42 Reviews,Rating 4.5 out of 5,40.77162806268144,-74.01523914767962,false, 83%
+783,"Price
+$240 per night",3,studio,0,1.0,Entire apartment,18 Reviews,Rating 4.5 out of 5,40.79094096709925,-73.97459134608293,"true,", 100%
+784,"Price
+$260 per night",2,1,1,1.0,Entire apartment,35 Reviews,Rating 5 out of 5,40.74042306041631,-73.98139481612314,"true,", 100%
+785,"Price
+$250 per night",1,2,4,2.0,Entire apartment,75 Reviews,Rating 5 out of 5,40.771016247395075,-74.03372750777885,"true,", 100%
+786,"Price
+$259 per night",4,1,1,1.0,Entire serviced apartment,7 Reviews,Rating 4 out of 5,40.75300630330357,-73.96643489187606,false, 75%
+787,"Price
+$239 per night",6,3,3,1.0,Entire townhouse,53 Reviews,Rating 4.5 out of 5,40.798527890811975,-73.94142867063836,false, 79%
+788,"Price
+$255 per night",7,3,3,2.0,Entire apartment,49 Reviews,Rating 4.5 out of 5,40.74429533245731,-73.9792505037433,false, 100%
+789,"Price
+$225 per night",6,3,5,1.0,Entire apartment,166 Reviews,Rating 5 out of 5,40.755161189605396,-74.0357220104358,"true,", 94%
+790,"Price
+$250 per night",2,studio,2,1.0,Entire apartment,4 Reviews,Rating 4.5 out of 5,40.78278227826301,-73.94820329664759,false, 100%
+791,"Price
+$235 per night",2,studio,1,1.0,Entire apartment,48 Reviews,Rating 5 out of 5,40.706416063833345,-74.0175636428361,"true,", 100%
