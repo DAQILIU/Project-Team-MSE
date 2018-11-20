@@ -1,0 +1,927 @@
+,price,accommodates,bedrooms,beds,bathrooms,room_type,number_of_reviews,rating,lat,lon,superhost,response_rate
+0,"Price$49 per night",2,1,1,1,Private room in apartment,554 Reviews,Rating 4.5 out of 5,40.82264063,-73.94040885,FALSE,100%
+1,"Price$51 per night",2,1,2,1,Private room in apartment,134 Reviews,Rating 4.5 out of 5,40.79153799,-73.94233066,FALSE,90%
+2,"Price$47 per night",2,1,1,1,Private room in apartment,220 Reviews,Rating 4.5 out of 5,40.79956539,-73.96468014,FALSE,100%
+3,"Price$53 per night",2,1,2,1,Private room in apartment,78 Reviews,Rating 4 out of 5,40.79141642,-73.94664106,FALSE,90%
+4,"Price$33 per night",2,studio,1,1,Private room in apartment,33 Reviews,Rating 4 out of 5,40.78339282,-73.95168452,FALSE,100%
+5,"Price$39 per night",5,1,3,2,Private room in house,125 Reviews,Rating 5 out of 5,40.79439065,-73.94602446,"true,",97%
+6,"Price$50 per night",6,1,3,1,Private room in apartment,183 Reviews,Rating 4.5 out of 5,40.79024434,-73.94063548,FALSE,100%
+7,"Price$42 per night",3,1,1,1,Private room in apartment,86 Reviews,Rating 4.5 out of 5,40.71279986,-73.98908878,FALSE,100%
+8,"Price$34 per night",4,1,2,1,Private room in apartment,262 Reviews,Rating 4.5 out of 5,40.81050363,-73.92507057,FALSE,91%
+9,"Price$49 per night",4,1,2,1,Private room in apartment,100 Reviews,Rating 4.5 out of 5,40.79391179,-73.94431554,"true,",97%
+10,"Price$31 per night",2,1,1,1,Private room in apartment,2 Reviews,no rating,40.78386115,-73.95339633,FALSE,100%
+11,"Price$38 per night",2,1,1,1,Private room in apartment,59 Reviews,Rating 4 out of 5,40.75779973,-73.99210893,FALSE,100%
+12,"Price$49 per night",3,1,3,2,Private room in house,107 Reviews,Rating 5 out of 5,40.79334488,-73.94568142,"true,",97%
+13,"Price$40 per night",1,1,1,1,Private room in apartment,90 Reviews,Rating 5 out of 5,40.82902586,-73.9474686,FALSE,100%
+14,"Price$50 per night",1,1,1,1,Shared room in apartment,17 Reviews,Rating 4.5 out of 5,40.76314617,-73.98918737,FALSE,100%
+15,"Price$49 per night",2,1,1,1,Private room in apartment,566 Reviews,Rating 4.5 out of 5,40.8208525,-73.94024603,FALSE,100%
+16,"Price$35 per night",2,1,1,1,Private room in apartment,59 Reviews,Rating 4 out of 5,40.75779973,-73.99210893,FALSE,100%
+17,"Price$50 per night",2,1,1,1,NoneType,NoneType,no rating,40.78828374,-73.94385289,"true,",no info
+18,"Price$48 per night",3,2,2,1,Private room in apartment,293 Reviews,Rating 4.5 out of 5,40.79793551,-73.93223272,FALSE,100%
+19,"Price$50 per night",1,1,1,1,Private room in apartment,123 Reviews,Rating 4.5 out of 5,40.76275261,-73.99525012,FALSE,100%
+20,"Price$48 per night",3,1,1,1,Private room in house,158 Reviews,Rating 4 out of 5,40.76860538,-73.93164956,FALSE,100%
+21,"Price$49 per night",4,1,3,1,Private room in apartment,91 Reviews,Rating 4.5 out of 5,40.79428058,-73.94432544,"true,",97%
+22,"Price$44 per night",2,1,1,1,Private room in apartment,49 Reviews,Rating 4 out of 5,40.78311071,-73.95220503,FALSE,100%
+23,"Price$50 per night",1,1,1,1,Private room in apartment,175 Reviews,Rating 4.5 out of 5,40.76289127,-73.99419275,FALSE,100%
+24,"Price$40 per night",1,1,1,1,Private room in apartment,55 Reviews,Rating 5 out of 5,40.81806623,-73.95487223,FALSE,75%
+25,"Price$44 per night",2,studio,1,1,Private room in apartment,44 Reviews,Rating 4 out of 5,40.78395754,-73.95305669,FALSE,100%
+26,"Price$45 per night",2,1,1,1,Private room in house,152 Reviews,Rating 4 out of 5,40.76659028,-73.93274997,FALSE,100%
+27,"Price$42 per night",2,1,2,1,Private room in apartment,67 Reviews,Rating 4 out of 5,40.80055023,-73.94101491,FALSE,
+28,"Price$40 per night",2,1,1,1,Private room in apartment,557 Reviews,Rating 4.5 out of 5,40.82124349,-73.93838177,FALSE,
+29,"Price$45 per night",1,1,1,1,Private room in apartment,29 Reviews,Rating 5 out of 5,40.79371917,-73.934455,FALSE,
+30,"Price$50 per night",3,1,2,1,Private room in townhouse,63 Reviews,Rating 5 out of 5,40.80921082,-73.94001932,"true,",
+31,"Price$49 per night",2,1,1,1,Private room in house,182 Reviews,Rating 4 out of 5,40.76642313,-73.93277712,FALSE,
+32,"Price$39 per night",4,1,2,1,Entire apartment,168 Reviews,Rating 5 out of 5,40.73318498,-73.98449251,FALSE,
+33,"Price$36 per night",6,1,4,1,Private room in apartment,215 Reviews,Rating 4.5 out of 5,40.81055464,-73.92482139,FALSE,
+34,"Price$49 per night",2,1,2,1,Shared room in apartment,30 Reviews,Rating 5 out of 5,40.76385691,-73.98757356,"true,",
+35,"Price$31 per night",3,1,1,1,Private room in apartment,81 Reviews,Rating 4.5 out of 5,40.82655549,-73.94724426,FALSE,
+36,"Price$45 per night",1,1,1,1,NoneType,NoneType,no rating,40.8176623,-73.94526459,FALSE,no info
+37,"Price$42 per night",1,1,1,1,Shared room in apartment,19 Reviews,Rating 4.5 out of 5,40.80032712,-73.94201012,"true,",
+38,"Price$34 per night",1,1,1,2,Private room in apartment,207 Reviews,Rating 4.5 out of 5,40.78833859,-73.94863468,FALSE,
+39,"Price$52 per night",2,1,1,1,Private room in apartment,15 Reviews,Rating 4.5 out of 5,40.71621812,-73.99120024,FALSE,
+40,"Price$50 per night",4,1,1,1.5,Private room in apartment,209 Reviews,Rating 5 out of 5,40.71750315,-73.98434824,"true,",
+41,"Price$50 per night",2,1,2,1,Private room in apartment,57 Reviews,Rating 4.5 out of 5,40.74928789,-73.99657703,FALSE,
+42,"Price$50 per night",2,1,1,1,Private room in apartment,12 Reviews,Rating 5 out of 5,40.73640323,-73.99076151,"true,",
+43,"Price$35 per night",1,1,1,1,Shared room in apartment,2 Reviews,no rating,40.75964419,-73.99002164,FALSE,
+44,"Price$31 per night",3,1,1,1,Private room in house,159 Reviews,Rating 4.5 out of 5,40.82152862,-73.94650536,FALSE,
+45,"Price$52 per night",4,1,2,1,Private room in apartment,155 Reviews,Rating 5 out of 5,40.82974174,-73.94193364,"true,",
+46,"Price$50 per night",2,1,1,1,Private room in apartment,73 Reviews,Rating 4 out of 5,40.76652118,-73.93502265,FALSE,
+47,"Price$53 per night",1,1,1,1,Private room in apartment,17 Reviews,Rating 5 out of 5,40.76370444,-73.98984557,FALSE,
+48,"Price$40 per night",1,1,1,1,Private room in apartment,59 Reviews,Rating 5 out of 5,40.82957147,-73.94534744,FALSE,
+49,"Price$50 per night",2,1,1,1,Private room in apartment,20 Reviews,Rating 5 out of 5,40.75655325,-73.99534549,"true,",
+50,"Price$50 per night",2,1,1,1,Private room in apartment,12 Reviews,Rating 5 out of 5,40.73640323,-73.99076151,"true,",
+51,"Price$35 per night",2,1,1,1,Private room in apartment,153 Reviews,Rating 4.5 out of 5,40.86079103,-73.92548247,FALSE,
+52,"Price$42 per night",1,1,1,1,Shared room in apartment,15 Reviews,Rating 5 out of 5,40.79873158,-73.94051805,"true,",
+53,"Price$50 per night",3,1,2,1,Private room in apartment,152 Reviews,Rating 4.5 out of 5,40.79903412,-73.95406295,"true,",
+54,"Price$35 per night",4,1,2,1,Private room in apartment,72 Reviews,Rating 5 out of 5,40.86619793,-73.92646167,"true,",
+55,"Price$50 per night",3,1,1,1,Private room in apartment,13 Reviews,Rating 4.5 out of 5,40.7486329,-73.9829067,FALSE,
+56,"Price$40 per night",2,1,1,1,Private room in apartment,78 Reviews,Rating 5 out of 5,40.81847272,-73.93957417,"true,",
+57,"Price$42 per night",2,1,1,1,Private room in apartment,30 Reviews,Rating 5 out of 5,40.84322491,-73.93566801,"true,",
+58,"Price$49 per night",2,1,1,2,Private room in apartment,86 Reviews,Rating 4.5 out of 5,40.77528263,-73.95326373,FALSE,
+59,"Price$49 per night",1,1,1,1,Shared room in apartment,101 Reviews,Rating 4.5 out of 5,40.76731435,-73.95419461,FALSE,
+60,"Price$47 per night",2,1,1,1,Private room in apartment,168 Reviews,Rating 5 out of 5,40.8156052,-73.95264112,"true,",
+61,"Price$49 per night",1,1,1,1,Private room in apartment,NoneType,no rating,40.77504302,-73.97788237,FALSE,
+62,"Price$40 per night",3,studio,3,1,Entire apartment,30 Reviews,Rating 4.5 out of 5,40.78006066,-73.95153353,FALSE,
+63,"Price$32 per night",3,1,1,1,Private room in house,174 Reviews,Rating 4.5 out of 5,40.8230611,-73.94687917,FALSE,
+64,"Price$43 per night",1,1,1,1.5,Private room in apartment,71 Reviews,Rating 4.5 out of 5,40.78663827,-73.94161455,"true,",
+65,"Price$53 per night",2,1,1,1,Private room in apartment,189 Reviews,Rating 4.5 out of 5,40.83333155,-73.94181779,"true,",
+66,"Price$40 per night",2,1,1,1,Private room in apartment,10 Reviews,Rating 4.5 out of 5,40.82641056,-73.93882091,FALSE,
+67,"Price$53 per night",2,1,1,1,Private room in apartment,189 Reviews,Rating 4.5 out of 5,40.83333155,-73.94181779,"true,",
+68,"Price$41 per night",1,1,1,1,Shared room in apartment,16 Reviews,Rating 4.5 out of 5,40.79862919,-73.94133141,FALSE,
+69,"Price$52 per night",2,1,1,1,Private room in apartment,95 Reviews,Rating 4.5 out of 5,40.81921882,-73.95275618,FALSE,
+70,"Price$45 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.80651887,-73.94937271,FALSE,
+71,"Price$50 per night",2,1,3,1,Private room in condominium,12 Reviews,Rating 5 out of 5,40.77581712,-73.9516713,FALSE,
+72,"Price$35 per night",5,1,1,1,NoneType,80 Reviews,Rating 5 out of 5,40.83619343,-73.94098612,"true,",no info
+73,"Price$30 per night",4,1,2,1,Private room in house,22 Reviews,Rating 4 out of 5,40.8103126,-73.92620558,FALSE,
+74,"Price$49 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.75866648,-73.99119698,FALSE,
+75,"Price$44 per night",2,1,1,2,Private room in apartment,128 Reviews,Rating 4.5 out of 5,40.79667523,-73.93378865,FALSE,
+76,"Price$50 per night",2,1,1,1,Private room in apartment,50 Reviews,Rating 4 out of 5,40.76544542,-73.9935665,FALSE,
+77,"Price$50 per night",2,studio,1,1,Entire house,74 Reviews,Rating 4.5 out of 5,40.81443792,-73.92516488,FALSE,
+78,"Price$49 per night",1,1,2,1,Shared room in apartment,110 Reviews,Rating 4.5 out of 5,40.7667496,-73.95427719,FALSE,
+79,"Price$50 per night",2,1,2,1,Private room in apartment,89 Reviews,Rating 5 out of 5,40.8239689,-73.95452841,"true,",
+80,"Price$46 per night",4,1,2,1,Private room in townhouse,102 Reviews,Rating 5 out of 5,40.80843039,-73.93721813,"true,",
+81,"Price$49 per night",2,1,1,1,Private room in apartment,91 Reviews,Rating 5 out of 5,40.79226962,-73.94535649,FALSE,
+82,"Price$49 per night",1,1,1,1,Shared room in apartment,23 Reviews,Rating 5 out of 5,40.76405184,-73.98695258,"true,",
+83,"Price$52 per night",1,1,1,1,Private room in guesthouse,54 Reviews,Rating 4 out of 5,40.75073099,-73.98673691,FALSE,
+84,"Price$52 per night",1,1,1,1,Private room in guesthouse,54 Reviews,Rating 4 out of 5,40.75073099,-73.98673691,FALSE,
+85,"Price$50 per night",1,1,1,1,Shared room in apartment,62 Reviews,Rating 5 out of 5,40.75034905,-73.97906659,"true,",100%
+86,"Price$50 per night",3,1,2,1.5,Private room in apartment,415 Reviews,Rating 4.5 out of 5,40.82510113,-73.9428687,FALSE,100%
+87,"Price$50 per night",3,1,3,1,Private room in apartment,54 Reviews,Rating 4.5 out of 5,40.79866392,-73.93657754,FALSE,100%
+88,"Price$40 per night",2,1,1,1,Private room in apartment,189 Reviews,Rating 4.5 out of 5,40.8206888,-73.9554911,FALSE,100%
+89,"Price$45 per night",1,1,1,1,Shared room in apartment,9 Reviews,Rating 4.5 out of 5,40.7219528,-73.98860818,FALSE,100%
+90,"Price$50 per night",3,1,1,1,Private room in apartment,133 Reviews,Rating 4.5 out of 5,40.82499523,-73.94132486,"true,",100%
+91,"Price$45 per night",2,1,1,1,Private room in apartment,11 Reviews,Rating 5 out of 5,40.82659237,-73.93884224,FALSE,100%
+92,"Price$51 per night",1,1,1,2,Private room in apartment,NoneType,no rating,40.80665342,-73.92737476,FALSE,83%
+93,"Price$35 per night",2,1,1,1,Private room in apartment,21 Reviews,Rating 4.5 out of 5,40.76473181,-73.95622787,FALSE,97%
+94,"Price$40 per night",2,1,1,1,Private room in apartment,11 Reviews,Rating 4.5 out of 5,40.82774046,-73.93934125,FALSE,95%
+95,"Price$38 per night",2,1,1,1,Private room in apartment,69 Reviews,Rating 4.5 out of 5,40.843293,-73.93664663,"true,",100%
+96,"Price$49 per night",1,1,1,1,Shared room in apartment,22 Reviews,Rating 5 out of 5,40.76417679,-73.98822037,"true,",100%
+97,"Price$42 per night",2,1,1,1,Private room in apartment,55 Reviews,Rating 5 out of 5,40.83877642,-73.94731391,"true,",100%
+98,"Price$42 per night",1,1,1,1,Shared room in apartment,20 Reviews,Rating 4.5 out of 5,40.79860961,-73.94115927,"true,",99%
+99,"Price$47 per night",2,1,1,1,Private room in apartment,42 Reviews,Rating 4.5 out of 5,40.76679623,-73.95399821,FALSE,100%
+100,"Price$48 per night",4,1,2,1,Private room in apartment,83 Reviews,Rating 4.5 out of 5,40.80158294,-73.94864782,FALSE,100%
+101,"Price$53 per night",2,1,1,1,Private room in apartment,124 Reviews,Rating 4.5 out of 5,40.84390141,-73.93743985,FALSE,100%
+102,"Price$40 per night",1,1,1,1,Shared room in apartment,22 Reviews,Rating 4.5 out of 5,40.7790267,-73.95237571,FALSE,69%
+103,"Price$50 per night",2,1,1,1,Private room in apartment,51 Reviews,Rating 4.5 out of 5,40.77344086,-73.94910814,"true,",93%
+104,"Price$41 per night",1,1,1,1,Private room in apartment,NoneType,no rating,40.79819431,-73.94293405,FALSE,100%
+105,"Price$49 per night",2,1,1,1,Private room in apartment,62 Reviews,Rating 4.5 out of 5,40.84914975,-73.93848384,FALSE,100%
+106,"Price$35 per night",2,1,1,3,Private room in house,7 Reviews,Rating 3.5 out of 5,40.80686497,-73.93821901,FALSE,90%
+107,"Price$49 per night",2,1,1,1.5,Private room in apartment,31 Reviews,Rating 4.5 out of 5,40.79655249,-73.93848116,FALSE,100%
+108,"Price$48 per night",2,1,1,2,Private room in apartment,14 Reviews,Rating 4.5 out of 5,40.79978067,-73.96294982,FALSE,100%
+109,"Price$45 per night",1,1,1,1,Private room in apartment,58 Reviews,Rating 5 out of 5,40.811309,-73.95820441,"true,",100%
+110,"Price$50 per night",2,1,1,1,Private room in apartment,108 Reviews,Rating 4.5 out of 5,40.82710562,-73.93988575,FALSE,90%
+111,"Price$46 per night",2,1,1,1,Private room in apartment,32 Reviews,Rating 5 out of 5,40.76283257,-73.96896137,"true,",100%
+112,"Price$32 per night",1,1,1,1,Shared room in apartment,69 Reviews,Rating 4.5 out of 5,40.82434141,-73.94816007,FALSE,100%
+113,"Price$45 per night",2,1,1,1,Private room in apartment,63 Reviews,Rating 5 out of 5,40.82335636,-73.95595637,"true,",100%
+114,"Price$53 per night",1,1,1,1,Shared room in apartment,106 Reviews,Rating 5 out of 5,40.74725579,-74.00213249,"true,",100%
+115,"Price$40 per night",1,1,1,1,Shared room in apartment,9 Reviews,Rating 4 out of 5,40.76002641,-73.94111179,FALSE,100%
+116,"Price$49 per night",2,1,1,1.5,Private room in apartment,34 Reviews,Rating 5 out of 5,40.80174448,-73.93924711,FALSE,100%
+117,"Price$42 per night",3,1,1,1,Shared room in apartment,47 Reviews,Rating 4.5 out of 5,40.81911281,-73.95350631,FALSE,100%
+118,"Price$46 per night",2,1,1,1,Private room in apartment,32 Reviews,Rating 5 out of 5,40.76283257,-73.96896137,"true,",100%
+119,"Price$42 per night",3,1,1,1,Shared room in apartment,47 Reviews,Rating 4.5 out of 5,40.81911281,-73.95350631,FALSE,100%
+120,"Price$49 per night",2,1,1,2,Private room in apartment,68 Reviews,Rating 4.5 out of 5,40.77572645,-73.9518847,FALSE,100%
+121,"Price$40 per night",1,1,1,1,Shared room in apartment,21 Reviews,Rating 4.5 out of 5,40.77926828,-73.95071321,FALSE,69%
+122,"Price$45 per night",1,1,1,1,Private room in apartment,54 Reviews,Rating 4.5 out of 5,40.80842571,-73.9399151,FALSE,90%
+123,"Price$40 per night",1,1,1,1,Shared room in apartment,14 Reviews,Rating 4.5 out of 5,40.82622789,-73.93654659,FALSE,100%
+124,"Price$40 per night",2,1,1,1,Private room in apartment,30 Reviews,Rating 5 out of 5,40.8222604,-73.95569186,FALSE,100%
+125,"Price$30 per night",1,1,1,1,Private room in apartment,NoneType,no rating,40.81295892,-73.9421683,FALSE,100%
+126,"Price$35 per night",2,1,1,1,Private room in house,29 Reviews,Rating 4.5 out of 5,40.87997019,-73.90035189,FALSE,98%
+127,"Price$45 per night",3,1,1,1,Private room in apartment,147 Reviews,Rating 4.5 out of 5,40.82609619,-73.95138647,FALSE,100%
+128,"Price$46 per night",2,1,1,2,NoneType,NoneType,no rating,40.82324644,-73.9524313,"true,",no info
+129,"Price$43 per night",2,1,1,1,Entire apartment,34 Reviews,Rating 4 out of 5,40.82329198,-73.95002865,FALSE,83%
+130,"Price$30 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.76464218,-73.95830813,FALSE,96%
+131,"Price$35 per night",2,1,1,3,Private room in house,7 Reviews,Rating 3.5 out of 5,40.80686497,-73.93821901,FALSE,90%
+132,"Price$49 per night",3,1,1,1,Private room in house,80 Reviews,Rating 4 out of 5,40.82267816,-73.94795757,FALSE,100%
+133,"Price$50 per night",2,1,1,1,Private room in apartment,24 Reviews,Rating 5 out of 5,40.79656698,-73.93913152,"true,",100%
+134,"Price$40 per night",2,1,2,1,Shared room in apartment,23 Reviews,Rating 4.5 out of 5,40.7646377,-73.99006419,"true,",100%
+135,"Price$45 per night",2,1,1,1,Private room in apartment,55 Reviews,Rating 4.5 out of 5,40.82743814,-73.9470671,FALSE,100%
+136,"Price$50 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.82411349,-73.95441391,"true,",100%
+137,"Price$51 per night",2,1,1,1,Private room in apartment,51 Reviews,Rating 4.5 out of 5,40.81970105,-73.95326004,FALSE,100%
+138,"Price$49 per night",1,1,1,1,Private room in apartment,31 Reviews,Rating 5 out of 5,40.80674461,-73.95336847,"true,",100%
+139,"Price$51 per night",2,1,1,1,Private room in apartment,77 Reviews,Rating 5 out of 5,40.82646838,-73.94747392,"true,",100%
+140,"Price$46 per night",2,1,1,1,Private room in apartment,28 Reviews,Rating 4.5 out of 5,40.76967811,-73.95890423,FALSE,100%
+141,"Price$52 per night",2,1,1,1,Private room in apartment,32 Reviews,Rating 5 out of 5,40.81799702,-73.94134105,"true,",100%
+142,"Price$42 per night",1,1,1,1,Shared room in apartment,13 Reviews,Rating 5 out of 5,40.80033423,-73.94100268,"true,",99%
+143,"Price$35 per night",1,1,1,1,Shared room in apartment,12 Reviews,Rating 4 out of 5,40.76047501,-73.94068364,FALSE,100%
+144,"Price$40 per night",1,1,1,1,Shared room in apartment,20 Reviews,Rating 4.5 out of 5,40.77853807,-73.95073409,FALSE,69%
+145,"Price$50 per night",2,1,1,1,Private room in apartment,75 Reviews,Rating 5 out of 5,40.84063026,-73.9392828,FALSE,100%
+146,"Price$53 per night",2,1,1,1,Private room in apartment,38 Reviews,Rating 4.5 out of 5,40.80938793,-73.93753614,FALSE,99%
+147,"Price$46 per night",3,1,1,1,Private room in apartment,125 Reviews,Rating 4.5 out of 5,40.85295058,-73.93361075,FALSE,100%
+148,"Price$50 per night",2,1,1,1,Private room in apartment,17 Reviews,Rating 5 out of 5,40.77498528,-73.93565329,FALSE,100%
+149,"Price$47 per night",4,1,3,1,Private room in apartment,121 Reviews,Rating 5 out of 5,40.8549408,-73.93178821,FALSE,100%
+150,"Price$45 per night",1,1,1,1,Shared room in apartment,22 Reviews,Rating 4.5 out of 5,40.76256959,-73.9888628,FALSE,100%
+151,"Price$50 per night",1,1,1,1.5,Private room in apartment,40 Reviews,Rating 5 out of 5,40.82741623,-73.94878139,FALSE,100%
+152,"Price$51 per night",5,3,4,1,Entire apartment,44 Reviews,Rating 4.5 out of 5,40.81954742,-73.95585322,FALSE,100%
+153,"Price$49 per night",1,1,1,1,Shared room in apartment,26 Reviews,Rating 5 out of 5,40.76466906,-73.98823959,"true,",99%
+154,"Price$50 per night",3,1,2,1,Private room in apartment,152 Reviews,Rating 4.5 out of 5,40.79903412,-73.95406295,"true,",71%
+155,"Price$49 per night",1,1,1,2,Private room in apartment,45 Reviews,Rating 4.5 out of 5,40.78983305,-73.9441909,FALSE,100%
+156,"Price$49 per night",2,1,1,2,NoneType,NoneType,no rating,40.81375655,-73.95954487,FALSE,no info
+157,"Price$49 per night",2,1,1,2,Private room in apartment,12 Reviews,Rating 5 out of 5,40.74091161,-73.98228623,FALSE,100%
+158,"Price$50 per night",2,1,2,1,Private room in apartment,1 Review,no rating,40.80458025,-73.96100675,FALSE,100%
+159,"Price$50 per night",2,1,1,1,Private room in apartment,19 Reviews,Rating 5 out of 5,40.83798637,-73.94035933,"true,",100%
+160,"Price$43 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.81221064,-73.95342417,FALSE,100%
+161,"Price$51 per night",2,1,1,2,Private room in apartment,17 Reviews,Rating 4.5 out of 5,40.77566451,-73.95414165,FALSE,100%
+162,"Price$50 per night",2,1,1,1,Private room in apartment,1 Review,no rating,40.80434427,-73.96489705,FALSE,100%
+163,"Price$49 per night",2,1,1,1,Private room in apartment,12 Reviews,Rating 4.5 out of 5,40.80155568,-73.93808868,"true,",100%
+164,"Price$45 per night",1,1,1,1,Private room in apartment,30 Reviews,Rating 4.5 out of 5,40.82233393,-73.95568379,FALSE,100%
+165,"Price$45 per night",2,1,1,1,Private room in guest suite,38 Reviews,Rating 4.5 out of 5,40.8220423,-73.94293358,FALSE,100%
+166,"Price$45 per night",2,1,2,1,Shared room in apartment,15 Reviews,Rating 4.5 out of 5,40.76293816,-73.98801689,"true,",100%
+167,"Price$32 per night",3,1,2,1,Private room in apartment,5 Reviews,Rating 4 out of 5,40.81829866,-73.93827777,FALSE,100%
+168,"Price$45 per night",2,1,1,1,Private room in apartment,31 Reviews,Rating 4.5 out of 5,40.8144939,-73.95197178,FALSE,46%
+169,"Price$49 per night",2,3,1,1,Private room in apartment,23 Reviews,Rating 4.5 out of 5,40.78352264,-73.95274892,FALSE,100%
+170,"Price$53 per night",2,1,1,1,Private room in apartment,90 Reviews,Rating 5 out of 5,40.8428877,-73.9268751,FALSE,96%
+171,"Price$30 per night",2,1,1,1,Private room in condominium,1 Review,no rating,40.85664442,-73.91576861,FALSE,100%
+172,"Price$39 per night",2,1,1,1,Private room in apartment,2 Reviews,no rating,40.82664668,-73.93834395,FALSE,100%
+173,"Price$52 per night",3,1,2,1,Private room in apartment,30 Reviews,Rating 4.5 out of 5,40.72986299,-73.98751448,FALSE,98%
+174,"Price$49 per night",1,1,1,1,Shared room in apartment,13 Reviews,Rating 5 out of 5,40.76471123,-73.99024852,"true,",100%
+175,"Price$30 per night",1,1,1,1,Private room in apartment,NoneType,no rating,40.82424445,-73.93752516,FALSE,100%
+176,"Price$50 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.72490537,-73.97564895,FALSE,63%
+177,"Price$52 per night",2,1,1,2,Private room in apartment,27 Reviews,Rating 5 out of 5,40.79972237,-73.96280586,FALSE,100%
+178,"Price$50 per night",1,1,1,1,Private room in apartment,45 Reviews,Rating 5 out of 5,40.71817568,-73.98922178,"true,",100%
+179,"Price$45 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.80429898,-73.96341676,FALSE,100%
+180,"Price$48 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.80307473,-73.96386278,FALSE,100%
+181,"Price$46 per night",1,1,1,1,Private room in apartment,9 Reviews,Rating 5 out of 5,40.82252619,-73.95524624,"true,",100%
+182,"Price$50 per night",2,1,1,1,Private room in apartment,7 Reviews,Rating 4.5 out of 5,40.80400204,-73.95411567,FALSE,100%
+183,"Price$47 per night",2,1,1,1,Private room in apartment,20 Reviews,Rating 4.5 out of 5,40.82172671,-73.95547627,FALSE,100%
+184,"Price$49 per night",2,1,1,1,Private room in apartment,12 Reviews,Rating 4 out of 5,40.79975698,-73.95118708,FALSE,
+185,"Price$44 per night",3,1,1,2,Private room in apartment,20 Reviews,Rating 5 out of 5,40.82815763,-73.94957162,FALSE,100%
+186,"Price$42 per night",2,1,1,1,Private room in apartment,87 Reviews,Rating 4.5 out of 5,40.86789534,-73.90023011,FALSE,100%
+187,"Price$44 per night",2,1,1,1,Private room in apartment,8 Reviews,Rating 5 out of 5,40.86564802,-73.92347984,"true,",100%
+188,"Price$49 per night",2,1,1,1,Private room in apartment,12 Reviews,Rating 4 out of 5,40.79975698,-73.95118708,FALSE,
+189,"Price$44 per night",3,1,1,2,Private room in apartment,20 Reviews,Rating 5 out of 5,40.82815763,-73.94957162,FALSE,100%
+190,"Price$45 per night",3,2,2,1,Private room in apartment,22 Reviews,Rating 5 out of 5,40.85735286,-73.92980476,FALSE,100%
+191,"Price$44 per night",2,1,1,1,Private room in apartment,8 Reviews,Rating 5 out of 5,40.86564802,-73.92347984,"true,",100%
+192,"Price$50 per night",2,1,1,1,Private room in apartment,11 Reviews,Rating 4.5 out of 5,40.82174938,-73.95109037,FALSE,100%
+193,"Price$53 per night",2,1,1,1,Private room in apartment,77 Reviews,Rating 5 out of 5,40.84111326,-73.9251333,FALSE,96%
+194,"Price$41 per night",1,2,1,1,Private room in apartment,9 Reviews,Rating 4 out of 5,40.8418213,-73.93487322,"true,",100%
+195,"Price$42 per night",2,1,1,1,Private room in apartment,87 Reviews,Rating 4.5 out of 5,40.86789534,-73.90023011,FALSE,100%
+196,"Price$40 per night",1,1,1,1,Private room in apartment,16 Reviews,Rating 5 out of 5,40.83185248,-73.94806299,"true,",100%
+197,"Price$40 per night",1,1,1,1,Private room in apartment,1 Review,no rating,40.82380677,-73.94581627,FALSE,93%
+198,"Price$40 per night",1,1,1,1,Shared room in apartment,2 Reviews,no rating,40.77610368,-73.95146594,FALSE,69%
+199,"Price$41 per night",1,studio,0,1,NoneType,5 Reviews,Rating 4 out of 5,40.79982289,-73.94171597,FALSE,no info
+200,"Price$49 per night",1,1,1,1,Shared room in apartment,17 Reviews,Rating 4 out of 5,40.7651873,-73.98939017,FALSE,100%
+201,"Price$50 per night",2,1,1,1,Private room in apartment,31 Reviews,Rating 4.5 out of 5,40.84850223,-73.93508888,FALSE,100%
+202,"Price$50 per night",1,1,1,1,Private room in apartment,26 Reviews,Rating 5 out of 5,40.84467637,-73.943034,FALSE,100%
+203,"Price$53 per night",2,1,1,1,Private room in apartment,71 Reviews,Rating 4.5 out of 5,40.84183896,-73.92535487,FALSE,96%
+204,"Price$45 per night",1,1,1,1,Private room in apartment,3 Reviews,Rating 5 out of 5,40.82792431,-73.93692496,FALSE,100%
+205,"Price$49 per night",2,3,1,1,Private room in apartment,24 Reviews,Rating 5 out of 5,40.78369343,-73.95154469,FALSE,100%
+206,"Price$43 per night",3,1,2,1,Private room in apartment,30 Reviews,Rating 4.5 out of 5,40.72914169,-73.98756635,FALSE,98%
+207,"Price$50 per night",2,1,1,1,Private room in apartment,6 Reviews,Rating 4 out of 5,40.76818044,-73.93436721,FALSE,100%
+208,"Price$35 per night",1,1,1,1,Private room in apartment,NoneType,no rating,40.84439683,-73.93653767,FALSE,100%
+209,"Price$42 per night",1,1,1,1,Shared room in apartment,14 Reviews,Rating 5 out of 5,40.79888256,-73.94249982,"true,",99%
+210,"Price$45 per night",1,1,1,1,Private room in apartment,NoneType,no rating,40.79701244,-73.93709273,FALSE,
+211,"Price$50 per night",6,2,3,1,Entire apartment,NoneType,no rating,40.78645845,-73.97534679,FALSE,100%
+212,"Price$53 per night",2,1,1,1,Private room in apartment,54 Reviews,Rating 4.5 out of 5,40.84100887,-73.9262578,FALSE,96%
+213,"Price$40 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.8260704,-73.9377882,FALSE,100%
+214,"Price$35 per night",2,1,1,1,Private room in apartment,19 Reviews,Rating 4.5 out of 5,40.85924581,-73.92970273,FALSE,100%
+215,"Price$45 per night",2,1,1,1,Private room in apartment,7 Reviews,Rating 4.5 out of 5,40.81669815,-73.94287643,FALSE,100%
+216,"Price$49 per night",2,3,1,1,Private room in apartment,19 Reviews,Rating 4.5 out of 5,40.78393772,-73.95136667,FALSE,100%
+217,"Price$46 per night",1,1,1,1,Private room in apartment,5 Reviews,Rating 5 out of 5,40.82380227,-73.94590902,FALSE,100%
+218,"Price$40 per night",2,1,2,1,Shared room in apartment,13 Reviews,Rating 4.5 out of 5,40.82161934,-73.94902421,FALSE,100%
+219,"Price$36 per night",1,1,1,1,Private room in apartment,NoneType,no rating,40.8090869,-73.93725896,FALSE,
+220,"Price$38 per night",2,1,1,2,Private room in apartment,4 Reviews,Rating 5 out of 5,40.84831675,-73.93582722,FALSE,100%
+221,"Price$50 per night",1,1,1,2,Private room in apartment,1 Review,no rating,40.80649679,-73.92845068,FALSE,100%
+222,"Price$40 per night",2,1,1,1,Private room in apartment,4 Reviews,Rating 5 out of 5,40.84501333,-73.93860802,FALSE,100%
+223,"Price$51 per night",2,1,1,1,Private room in condominium,6 Reviews,Rating 5 out of 5,40.8282344,-73.94649106,FALSE,100%
+224,"Price$30 per night",1,1,1,1,Private room in apartment,64 Reviews,Rating 4.5 out of 5,40.82685947,-73.95147949,FALSE,100%
+225,"Price$43 per night",2,1,1,1,Private room in apartment,19 Reviews,Rating 5 out of 5,40.83329037,-73.93834304,"true,",90%
+226,"Price$38 per night",1,1,1,1,Private room in apartment,4 Reviews,Rating 5 out of 5,40.70665716,-74.00824092,FALSE,100%
+227,"Price$30 per night",2,1,1,1,Private room in loft,47 Reviews,Rating 4.5 out of 5,40.80871724,-73.93050636,FALSE,94%
+228,"Price$49 per night",2,1,1,1,Private room in apartment,19 Reviews,Rating 5 out of 5,40.80315179,-73.94016926,"true,",100%
+229,"Price$50 per night",1,1,1,2,Private room in apartment,1 Review,no rating,40.80649679,-73.92845068,FALSE,100%
+230,"Price$49 per night",2,1,1,1,Private room in apartment,103 Reviews,Rating 4 out of 5,40.86481676,-73.92105541,FALSE,100%
+231,"Price$45 per night",2,1,1,1,Private room in apartment,5 Reviews,Rating 4.5 out of 5,40.76361635,-73.9854633,FALSE,97%
+232,"Price$53 per night",2,1,1,1,Private room in apartment,45 Reviews,Rating 4.5 out of 5,40.84103394,-73.92700933,FALSE,96%
+233,"Price$38 per night",2,1,1,1,Private room in apartment,7 Reviews,Rating 4.5 out of 5,40.81884247,-73.95451152,FALSE,98%
+234,"Price$34 per night",1,1,1,1,Private room in apartment,14 Reviews,Rating 5 out of 5,40.87491637,-73.91164419,"true,",100%
+235,"Price$45 per night",2,1,2,1,Private room in condominium,1 Review,no rating,40.87900866,-73.90154873,FALSE,100%
+236,"Price$36 per night",1,1,1,1,Private room in house,117 Reviews,Rating 4.5 out of 5,40.85710593,-73.91594016,FALSE,100%
+237,"Price$43 per night",2,1,1,1,NoneType,NoneType,no rating,40.80608264,-73.93717756,FALSE,no info
+238,"Price$45 per night",2,1,1,1,Private room in apartment,74 Reviews,Rating 4.5 out of 5,40.85515771,-73.9286264,FALSE,100%
+239,"Price$40 per night",1,1,2,1,Private room in apartment,NoneType,no rating,40.76257776,-73.94997994,FALSE,
+240,"Price$64 per night",2,1,1,1,Private room in apartment,336 Reviews,Rating 4.5 out of 5,40.77632479,-73.95457506,FALSE,
+241,"Price$62 per night",2,1,1,1,Private room in apartment,206 Reviews,Rating 5 out of 5,40.80011761,-73.94087266,"true,",
+242,"Price$70 per night",2,1,1,1,Private room in apartment,88 Reviews,Rating 4.5 out of 5,40.75703447,-73.99371155,FALSE,
+243,"Price$67 per night",2,1,1,1,Private room in apartment,198 Reviews,Rating 4.5 out of 5,40.74864211,-74.00225901,FALSE,
+244,"Price$70 per night",1,1,1,1,Private room in loft,105 Reviews,Rating 4.5 out of 5,40.79320767,-73.97535698,"true,",
+245,"Price$60 per night",2,1,1,1,Private room in apartment,39 Reviews,Rating 5 out of 5,40.75825741,-73.96871979,"true,",
+246,"Price$70 per night",2,1,1,1,Private room in apartment,177 Reviews,Rating 4.5 out of 5,40.71815373,-73.98936925,FALSE,
+247,"Price$55 per night",2,1,1,1,Private room in apartment,23 Reviews,Rating 4.5 out of 5,40.71982535,-73.98770139,FALSE,
+248,"Price$70 per night",4,studio,3,1,Entire apartment,66 Reviews,Rating 4.5 out of 5,40.75240831,-73.97121129,FALSE,
+249,"Price$65 per night",2,1,1,1,Private room in apartment,3 Reviews,Rating 5 out of 5,40.79764223,-73.95607259,FALSE,
+250,"Price$63 per night",5,studio,2,1,Entire apartment,121 Reviews,Rating 5 out of 5,40.75958332,-73.990503,"true,",
+251,"Price$70 per night",1,1,1,1,Private room in apartment,102 Reviews,Rating 4.5 out of 5,40.78230627,-73.97992781,FALSE,
+252,"Price$58 per night",3,1,1,1,Private room in apartment,263 Reviews,Rating 4.5 out of 5,40.788787,-73.9419001,FALSE,
+253,"Price$65 per night",1,1,1,1,Private room in apartment,93 Reviews,Rating 5 out of 5,40.72714336,-73.98279244,FALSE,
+254,"Price$75 per night",2,1,1,1,Private room in apartment,149 Reviews,Rating 4.5 out of 5,40.72951159,-73.98239025,FALSE,
+255,"Price$55 per night",3,1,1,1,Private room in apartment,89 Reviews,Rating 4.5 out of 5,40.71203492,-73.99008471,FALSE,
+256,"Price$65 per night",3,1,2,1,Private room in apartment,34 Reviews,Rating 4.5 out of 5,40.83360605,-73.9408633,FALSE,
+257,"Price$60 per night",2,1,1,1,Private room in apartment,237 Reviews,Rating 4.5 out of 5,40.7277291,-73.98892028,FALSE,
+258,"Price$60 per night",1,1,1,1,Private room in hostel,138 Reviews,Rating 4.5 out of 5,40.74751199,-73.99482599,FALSE,100%
+259,"Price$75 per night",2,1,1,1,Entire apartment,69 Reviews,Rating 4 out of 5,40.77357128,-73.9514935,FALSE,93%
+260,"Price$60 per night",1,1,1,4,Room in boutique hotel,NoneType,no rating,40.73438538,-73.9838028,FALSE,100%
+261,"Price$66 per night",2,1,1,1,Private room in apartment,182 Reviews,Rating 4.5 out of 5,40.71323407,-73.98780326,FALSE,100%
+262,"Price$73 per night",2,1,1,1,Private room in apartment,169 Reviews,Rating 5 out of 5,40.79013115,-73.97406409,"true,",
+263,"Price$69 per night",2,1,1,1,Private room in apartment,83 Reviews,Rating 4.5 out of 5,40.72090336,-73.98822313,FALSE,
+264,"Price$66 per night",2,1,1,1,Private room in apartment,132 Reviews,Rating 5 out of 5,40.79533242,-73.94764312,FALSE,
+265,"Price$55 per night",1,1,1,1,Private room in apartment,20 Reviews,Rating 4.5 out of 5,40.72759641,-74.0023569,FALSE,
+266,"Price$75 per night",2,1,1,1,Private room in apartment,100 Reviews,Rating 4.5 out of 5,40.72863858,-73.98215776,FALSE,
+267,"Price$55 per night",1,1,1,1,Private room in hostel,127 Reviews,Rating 4.5 out of 5,40.74973359,-73.99515077,FALSE,
+268,"Price$60 per night",2,1,1,1,Private room in apartment,127 Reviews,Rating 5 out of 5,40.7123016,-73.99559994,"true,",
+269,"Price$60 per night",2,1,1,1,Private room in apartment,109 Reviews,Rating 4.5 out of 5,40.78024748,-73.94802205,FALSE,
+270,"Price$59 per night",3,1,1,1,Private room in apartment,83 Reviews,Rating 4.5 out of 5,40.79500772,-73.94448061,FALSE,
+271,"Price$74 per night",4,1,2,1,Private room in apartment,135 Reviews,Rating 4.5 out of 5,40.72346218,-73.97696515,FALSE,
+272,"Price$66 per night",2,1,2,1,Private room in apartment,199 Reviews,Rating 4.5 out of 5,40.79826996,-73.96881357,"true,",
+273,"Price$70 per night",2,1,1,1,Private room in apartment,210 Reviews,Rating 4.5 out of 5,40.76795835,-73.98601382,FALSE,
+274,"Price$68 per night",2,1,1,1,Private room in apartment,178 Reviews,Rating 4.5 out of 5,40.77462442,-73.95460852,FALSE,
+275,"Price$69 per night",1,1,1,1,Private room in hostel,165 Reviews,Rating 4.5 out of 5,40.74971273,-73.99533135,FALSE,
+276,"Price$75 per night",3,1,2,1,Entire apartment,37 Reviews,Rating 5 out of 5,40.84697566,-73.93629143,"true,",
+277,"Price$59 per night",1,1,1,,Private room in apartment,306 Reviews,Rating 4.5 out of 5,40.75526591,-73.99290904,FALSE,
+278,"Price$65 per night",2,1,1,1,Private room in apartment,140 Reviews,Rating 4.5 out of 5,40.80620524,-73.94461153,FALSE,
+279,"Price$75 per night",2,1,1,1,Entire place,95 Reviews,Rating 4.5 out of 5,40.72482468,-73.98097482,FALSE,
+280,"Price$65 per night",2,1,1,1,Private room in apartment,268 Reviews,Rating 4.5 out of 5,40.8020827,-73.96310112,FALSE,
+281,"Price$59 per night",4,1,2,2,Private room in apartment,100 Reviews,Rating 5 out of 5,40.79471203,-73.94580467,"true,",
+282,"Price$74 per night",2,1,1,1,Private room in apartment,40 Reviews,Rating 4.5 out of 5,40.75853965,-73.98988084,"true,",
+283,"Price$68 per night",3,1,1,1,Private room in apartment,112 Reviews,Rating 5 out of 5,40.79012316,-73.94332713,"true,",
+284,"Price$60 per night",3,1,2,1,Private room in apartment,70 Reviews,Rating 5 out of 5,40.71178959,-73.998477,"true,",
+285,"Price$70 per night",6,2,4,1,Entire apartment,61 Reviews,Rating 4.5 out of 5,40.78571045,-73.97452186,FALSE,
+286,"Price$55 per night",2,1,1,1,Private room in apartment,1 Review,no rating,40.80306448,-73.95314475,FALSE,
+287,"Price$69 per night",2,1,1,1.5,Private room in apartment,276 Reviews,Rating 4 out of 5,40.75441553,-73.99433481,FALSE,
+288,"Price$60 per night",2,1,2,1,Private room in apartment,202 Reviews,Rating 4.5 out of 5,40.79106612,-73.94380837,FALSE,
+289,"Price$55 per night",2,1,1,1,Private room in apartment,39 Reviews,Rating 4.5 out of 5,40.71863167,-73.98957688,FALSE,
+290,"Price$60 per night",1,1,1,1,Private room in apartment,101 Reviews,Rating 5 out of 5,40.8001501,-73.9376387,"true,",
+291,"Price$54 per night",1,1,1,1,Private room in apartment,18 Reviews,Rating 4.5 out of 5,40.81915982,-73.94561572,FALSE,
+292,"Price$65 per night",2,1,1,1,Private room in apartment,73 Reviews,Rating 5 out of 5,40.82019641,-73.95525557,"true,",
+293,"Price$60 per night",2,studio,1,1,Entire townhouse,60 Reviews,Rating 5 out of 5,40.82788039,-73.94440651,FALSE,
+294,"Price$70 per night",2,1,1,1,Private room in townhouse,159 Reviews,Rating 5 out of 5,40.83146454,-73.94757376,FALSE,
+295,"Price$55 per night",2,1,1,1,Private room in apartment,113 Reviews,Rating 5 out of 5,40.79073651,-73.94232145,"true,",
+296,"Price$75 per night",4,1,3,1,NoneType,66 Reviews,Rating 5 out of 5,40.75348513,-73.96545316,"true,",no info
+297,"Price$71 per night",2,1,0,1.5,NoneType,NoneType,no rating,40.7239046,-73.98371387,FALSE,no info
+298,"Price$70 per night",2,1,1,1.5,Private room in apartment,274 Reviews,Rating 4 out of 5,40.75536638,-73.99463113,FALSE,
+299,"Price$71 per night",2,1,1,1,Private room in apartment,51 Reviews,Rating 4 out of 5,40.7558969,-73.99323919,FALSE,
+300,"Price$65 per night",2,1,1,1,Private room in serviced apartment,40 Reviews,Rating 4.5 out of 5,40.81914834,-73.95667323,FALSE,
+301,"Price$65 per night",3,1,1,1,Private room in apartment,210 Reviews,Rating 4.5 out of 5,40.80226857,-73.95523277,FALSE,
+302,"Price$70 per night",2,1,1,1,Private room in apartment,102 Reviews,Rating 4.5 out of 5,40.72643263,-73.99035674,FALSE,
+303,"Price$60 per night",2,1,1,1,Private room in apartment,42 Reviews,Rating 5 out of 5,40.81096839,-73.9600128,"true,",
+304,"Price$75 per night",2,1,1,1,Private room in apartment,49 Reviews,Rating 5 out of 5,40.70852283,-74.00258119,FALSE,
+305,"Price$55 per night",3,studio,2,1,Entire apartment,81 Reviews,Rating 4.5 out of 5,40.7477802,-73.98716242,FALSE,
+306,"Price$55 per night",2,1,1,1,Private room in apartment,47 Reviews,Rating 5 out of 5,40.83502907,-73.9416634,"true,",
+307,"Price$70 per night",1,1,1,1,Private room in apartment,210 Reviews,Rating 4.5 out of 5,40.76716031,-73.98797169,FALSE,
+308,"Price$55 per night",2,1,1,1,Private room in apartment,47 Reviews,Rating 5 out of 5,40.83502907,-73.9416634,"true,",
+309,"Price$70 per night",2,1,1,1,Private room in apartment,102 Reviews,Rating 4.5 out of 5,40.72643263,-73.99035674,FALSE,
+310,"Price$68 per night",3,1,2,1,Private room in apartment,173 Reviews,Rating 5 out of 5,40.79507686,-73.94894602,"true,",
+311,"Price$75 per night",3,1,2,1,Private room in apartment,107 Reviews,Rating 4.5 out of 5,40.72469904,-73.99036216,FALSE,
+312,"Price$75 per night",2,1,1,1,Private room in apartment,74 Reviews,Rating 4.5 out of 5,40.75808745,-73.96663636,FALSE,
+313,"Price$75 per night",2,1,1,1,Private room in townhouse,124 Reviews,Rating 5 out of 5,40.83181771,-73.94776719,FALSE,
+314,"Price$55 per night",3,studio,2,1,Entire apartment,81 Reviews,Rating 4.5 out of 5,40.7477802,-73.98716242,FALSE,
+315,"Price$64 per night",2,1,1,1,Private room in apartment,123 Reviews,Rating 4.5 out of 5,40.71886409,-73.99746243,FALSE,
+316,"Price$69 per night",2,1,1,1,Private room in apartment,176 Reviews,Rating 4.5 out of 5,40.79768563,-73.96310066,FALSE,
+317,"Price$62 per night",2,1,1,1,Private room in apartment,266 Reviews,Rating 4.5 out of 5,40.79887096,-73.94177633,FALSE,
+318,"Price$65 per night",2,1,1,1,Private room in apartment,120 Reviews,Rating 5 out of 5,40.77032295,-73.95331237,"true,",
+319,"Price$63 per night",2,1,1,1,Private room in apartment,265 Reviews,Rating 4.5 out of 5,40.83553739,-73.93849163,FALSE,
+320,"Price$66 per night",2,1,1,1,Private room in apartment,43 Reviews,Rating 5 out of 5,40.80009917,-73.94081004,"true,",
+321,"Price$66 per night",2,1,2,1,Entire apartment,32 Reviews,Rating 5 out of 5,40.81726274,-73.94583485,"true,",
+322,"Price$63 per night",2,1,1,1,Private room in apartment,67 Reviews,Rating 5 out of 5,40.73089077,-73.98428535,FALSE,
+323,"Price$65 per night",2,1,1,2,Private room in apartment,27 Reviews,Rating 4.5 out of 5,40.75998165,-73.98952404,FALSE,
+324,"Price$72 per night",2,1,1,1,Private room in apartment,76 Reviews,Rating 5 out of 5,40.81573886,-73.9487093,FALSE,
+325,"Price$55 per night",2,1,1,2,Private room in apartment,138 Reviews,Rating 4.5 out of 5,40.79911119,-73.96345903,FALSE,
+326,"Price$75 per night",2,1,1,1,Private room in apartment,64 Reviews,Rating 4.5 out of 5,40.75743039,-73.99638234,FALSE,
+327,"Price$54 per night",4,2,2,1,Private room in apartment,41 Reviews,Rating 4 out of 5,40.7987735,-73.94293814,FALSE,
+328,"Price$69 per night",2,1,1,1,Private room in apartment,121 Reviews,Rating 4.5 out of 5,40.72537112,-73.97878075,"true,",
+329,"Price$55 per night",1,1,1,1,Private room in hostel,120 Reviews,Rating 4.5 out of 5,40.749767,-73.9964714,FALSE,
+330,"Price$70 per night",1,1,1,1,Private room in apartment,210 Reviews,Rating 4.5 out of 5,40.76716031,-73.98797169,FALSE,
+331,"Price$60 per night",2,1,1,1,Private room in townhouse,92 Reviews,Rating 5 out of 5,40.8319789,-73.94780456,FALSE,
+332,"Price$59 per night",2,1,2,1,Private room in hostel,144 Reviews,Rating 5 out of 5,40.75988543,-73.99264379,"true,",
+333,"Price$65 per night",1,1,1,1,Shared room in apartment,170 Reviews,Rating 5 out of 5,40.7236313,-73.99545619,"true,",
+334,"Price$59 per night",4,1,1,1,Entire apartment,41 Reviews,Rating 4.5 out of 5,40.78774502,-73.9489058,FALSE,
+335,"Price$58 per night",1,1,1,1,Private room in apartment,154 Reviews,Rating 4.5 out of 5,40.76189957,-73.9950039,FALSE,
+336,"Price$68 per night",2,1,1,4,Room in boutique hotel,1 Review,no rating,40.73515174,-73.98509992,FALSE,
+337,"Price$70 per night",2,1,2,1,Private room in apartment,59 Reviews,Rating 5 out of 5,40.8019341,-73.96702673,"true,",
+338,"Price$55 per night",1,1,1,1,Private room in hostel,118 Reviews,Rating 4.5 out of 5,40.74896108,-73.9965711,FALSE,
+339,"Price$65 per night",2,1,1,1,Private room in apartment,57 Reviews,Rating 5 out of 5,40.81642767,-73.94041608,"true,",
+340,"Price$65 per night",2,1,1,2,Private room in apartment,120 Reviews,Rating 4.5 out of 5,40.78743195,-73.94915386,FALSE,
+341,"Price$75 per night",4,1,2,1,NoneType,NoneType,no rating,40.82862716,-73.94358103,FALSE,no info
+342,"Price$69 per night",1,studio,1,1,Private room in hostel,79 Reviews,Rating 4.5 out of 5,40.74787836,-73.9961536,FALSE,
+343,"Price$57 per night",2,1,2,1,Shared room in apartment,33 Reviews,Rating 5 out of 5,40.76378692,-73.988685,"true,",
+344,"Price$70 per night",2,1,1,1,Private room in apartment,95 Reviews,Rating 4.5 out of 5,40.7238618,-73.98104736,FALSE,
+345,"Price$70 per night",2,studio,1,1,Entire apartment,27 Reviews,Rating 5 out of 5,40.73230017,-73.99433345,"true,",
+346,"Price$70 per night",2,1,1,1,Private room in apartment,144 Reviews,Rating 4.5 out of 5,40.84110879,-73.93697857,FALSE,
+347,"Price$75 per night",2,1,1,1,Private room in condominium,39 Reviews,Rating 5 out of 5,40.80227928,-73.96334067,"true,",
+348,"Price$65 per night",7,2,2,1,Entire house,148 Reviews,Rating 4 out of 5,40.76684926,-73.93174501,FALSE,
+349,"Price$55 per night",4,1,2,1,Private room in apartment,76 Reviews,Rating 4.5 out of 5,40.76853872,-73.93432194,FALSE,
+350,"Price$75 per night",1,1,1,1,Private room in apartment,126 Reviews,Rating 4.5 out of 5,40.72149526,-73.97747238,FALSE,
+351,"Price$55 per night",2,1,1,1,Private room in apartment,44 Reviews,Rating 5 out of 5,40.82704256,-73.9384666,"true,",
+352,"Price$68 per night",1,1,1,1,Private room in apartment,163 Reviews,Rating 4.5 out of 5,40.80171618,-73.95537587,FALSE,
+353,"Price$63 per night",3,1,1,1,Private room in apartment,120 Reviews,Rating 4.5 out of 5,40.82980291,-73.9468335,FALSE,
+354,"Price$57 per night",1,1,1,1,Shared room in apartment,134 Reviews,Rating 5 out of 5,40.77315783,-73.95413142,"true,",
+355,"Price$62 per night",2,1,1,1,Private room in apartment,71 Reviews,Rating 5 out of 5,40.79385814,-73.972226,"true,",
+356,"Price$57 per night",2,1,1,1,Private room in apartment,95 Reviews,Rating 4.5 out of 5,40.79516429,-73.96812876,FALSE,
+357,"Price$60 per night",1,1,1,1,Shared room in apartment,146 Reviews,Rating 4.5 out of 5,40.80165081,-73.96286511,FALSE,
+358,"Price$58 per night",2,1,1,1,Private room in apartment,26 Reviews,Rating 4.5 out of 5,40.78073853,-73.95220649,FALSE,
+359,"Price$60 per night",2,1,1,1,Private room in apartment,42 Reviews,Rating 5 out of 5,40.81096839,-73.9600128,"true,",
+360,"Price$65 per night",2,1,1,1,Private room in apartment,189 Reviews,Rating 5 out of 5,40.83750986,-73.94392476,"true,",
+361,"Price$70 per night",2,1,1,1,Private room in apartment,25 Reviews,Rating 5 out of 5,40.78078804,-73.94824618,"true,",
+362,"Price$60 per night",5,2,3,1,Entire condominium,88 Reviews,Rating 4.5 out of 5,40.71400518,-73.96609839,FALSE,
+363,"Price$60 per night",2,1,1,1,Private room,144 Reviews,Rating 4.5 out of 5,40.79509285,-73.94668977,FALSE,
+364,"Price$68 per night",2,1,1,1,Private room in apartment,247 Reviews,Rating 5 out of 5,40.84685878,-73.94180933,"true,",
+365,"Price$60 per night",2,1,1,1,Private room in apartment,10 Reviews,Rating 4 out of 5,40.79669006,-73.94766926,"true,",
+366,"Price$74 per night",2,studio,1,1,Entire apartment,5 Reviews,Rating 3.5 out of 5,40.78833694,-73.9721537,FALSE,
+367,"Price$58 per night",2,1,1,1,Private room in apartment,26 Reviews,Rating 4.5 out of 5,40.78073853,-73.95220649,FALSE,
+368,"Price$55 per night",2,1,2,1,Private room in townhouse,41 Reviews,Rating 5 out of 5,40.81055357,-73.94016195,"true,",
+369,"Price$67 per night",3,1,2,1,Entire apartment,97 Reviews,Rating 5 out of 5,40.77203987,-73.93344395,"true,",
+370,"Price$54 per night",3,1,2,1,Private room in apartment,98 Reviews,Rating 4.5 out of 5,40.79949444,-73.95473623,"true,",
+371,"Price$55 per night",3,1,1,1,Private room in apartment,116 Reviews,Rating 4.5 out of 5,40.83173564,-73.94686115,FALSE,100%
+372,"Price$65 per night",4,1,2,1,Private room in apartment,11 Reviews,Rating 4 out of 5,40.7654197,-73.9385231,FALSE,100%
+373,"Price$75 per night",2,1,1,1,Private room in apartment,102 Reviews,Rating 4.5 out of 5,40.78167146,-73.95003717,FALSE,100%
+374,"Price$60 per night",1,1,1,1,Private room in apartment,176 Reviews,Rating 4.5 out of 5,40.7233422,-73.98440293,FALSE,100%
+375,"Price$58 per night",3,1,2,1,Entire apartment,14 Reviews,Rating 4.5 out of 5,40.72343144,-73.9793274,FALSE,92%
+376,"Price$70 per night",2,studio,1,1,Entire apartment,16 Reviews,Rating 4.5 out of 5,40.80391968,-73.94641794,FALSE,100%
+377,"Price$63 per night",2,1,1,1,Private room in apartment,53 Reviews,Rating 4.5 out of 5,40.80339265,-73.95167054,FALSE,100%
+378,"Price$58 per night",3,1,2,1,Entire apartment,14 Reviews,Rating 4.5 out of 5,40.72343144,-73.9793274,FALSE,92%
+379,"Price$65 per night",2,1,1,1,Private room in apartment,44 Reviews,Rating 5 out of 5,40.82443588,-73.95111656,"true,",100%
+380,"Price$70 per night",2,studio,1,1,Entire apartment,16 Reviews,Rating 4.5 out of 5,40.80391968,-73.94641794,FALSE,100%
+381,"Price$75 per night",2,1,1,1,Private room in apartment,102 Reviews,Rating 4.5 out of 5,40.78167146,-73.95003717,FALSE,100%
+382,"Price$61 per night",2,1,1,1,Private room in apartment,77 Reviews,Rating 5 out of 5,40.72255229,-73.97812847,"true,",100%
+383,"Price$67 per night",3,1,2,1,Entire apartment,97 Reviews,Rating 5 out of 5,40.77203987,-73.93344395,"true,",100%
+384,"Price$70 per night",1,1,2,1,Private room in apartment,96 Reviews,Rating 5 out of 5,40.7224119,-73.99376511,"true,",100%
+385,"Price$64 per night",1,1,1,1,Private room in apartment,54 Reviews,Rating 4.5 out of 5,40.7232038,-73.97927213,FALSE,100%
+386,"Price$65 per night",1,1,1,1,NoneType,NoneType,no rating,40.75894833,-73.99018695,FALSE,no info
+387,"Price$68 per night",2,1,1,4,Room in hotel,3 Reviews,Rating 4.5 out of 5,40.73412619,-73.98341979,FALSE,100%
+388,"Price$65 per night",2,1,2,1,Private room in apartment,231 Reviews,Rating 5 out of 5,40.79285153,-73.94482017,"true,",100%
+389,"Price$63 per night",2,1,1,1,Private room in apartment,29 Reviews,Rating 5 out of 5,40.81974456,-73.94457108,FALSE,100%
+390,"Price$69 per night",2,1,1,1,Entire apartment,22 Reviews,Rating 4.5 out of 5,40.71085064,-73.99594674,FALSE,100%
+391,"Price$60 per night",2,1,1,1,Private room in apartment,9 Reviews,Rating 4.5 out of 5,40.79594476,-73.94714753,"true,",100%
+392,"Price$68 per night",1,1,1,1,Private room in apartment,58 Reviews,Rating 5 out of 5,40.73277259,-73.98715668,"true,",100%
+393,"Price$65 per night",2,1,2,1,Private room in apartment,154 Reviews,Rating 4.5 out of 5,40.79909354,-73.96020176,FALSE,100%
+394,"Price$69 per night",3,1,1,1,NoneType,216 Reviews,Rating 5 out of 5,40.85887508,-73.92886263,FALSE,no info
+395,"Price$63 per night",2,1,1,1,Private room in apartment,56 Reviews,Rating 5 out of 5,40.78808649,-73.94194041,FALSE,100%
+396,"Price$63 per night",2,1,1,1,Private room in apartment,58 Reviews,Rating 5 out of 5,40.82818409,-73.93890353,"true,",100%
+397,"Price$60 per night",2,1,1,1,NoneType,NoneType,no rating,40.83778555,-73.94328114,"true,",no info
+398,"Price$65 per night",2,1,1,1,Private room in apartment,5 Reviews,Rating 4 out of 5,40.72159979,-73.9879077,FALSE,100%
+399,"Price$68 per night",2,1,2,1.5,Private room in apartment,19 Reviews,Rating 4.5 out of 5,40.7957842,-73.94523238,"true,",100%
+400,"Price$65 per night",2,1,1,1,Private room in apartment,64 Reviews,Rating 5 out of 5,40.81330137,-73.96037451,"true,",100%
+401,"Price$55 per night",2,1,1,1,Private room in apartment,16 Reviews,Rating 5 out of 5,40.80848014,-73.94270822,FALSE,100%
+402,"Price$70 per night",3,1,1,1,Private room in apartment,65 Reviews,Rating 5 out of 5,40.76602183,-73.98794675,FALSE,100%
+403,"Price$55 per night",2,1,1,1,Private room in apartment,52 Reviews,Rating 5 out of 5,40.83997882,-73.94295028,"true,",100%
+404,"Price$72 per night",2,1,1,1,Private room in apartment,124 Reviews,Rating 4.5 out of 5,40.7648303,-73.98981093,FALSE,100%
+405,"Price$68 per night",2,1,2,1,Private room in apartment,35 Reviews,Rating 5 out of 5,40.79673599,-73.93479917,"true,",100%
+406,"Price$59 per night",2,1,1,2,Private room in apartment,102 Reviews,Rating 5 out of 5,40.83068803,-73.94779395,"true,",100%
+407,"Price$68 per night",1,1,1,1,Private room in apartment,58 Reviews,Rating 5 out of 5,40.73277259,-73.98715668,"true,",100%
+408,"Price$69 per night",2,1,1,1,Private room in apartment,100 Reviews,Rating 5 out of 5,40.71350345,-73.96809189,"true,",100%
+409,"Price$72 per night",2,1,1,1,Private room in apartment,45 Reviews,Rating 4.5 out of 5,40.72130926,-73.97816413,FALSE,100%
+410,"Price$59 per night",2,1,1,1,Private room in apartment,26 Reviews,Rating 5 out of 5,40.84099044,-73.93693679,"true,",100%
+411,"Price$69 per night",2,1,1,1,Private room in apartment,62 Reviews,Rating 4.5 out of 5,40.80507585,-73.94941651,FALSE,100%
+412,"Price$75 per night",2,1,1,1,Private room in apartment,44 Reviews,Rating 4.5 out of 5,40.789147,-73.9483525,FALSE,93%
+413,"Price$70 per night",1,1,1,1,Private room in apartment,43 Reviews,Rating 5 out of 5,40.80419015,-73.95582252,"true,",100%
+414,"Price$59 per night",2,1,1,1,Private room in apartment,26 Reviews,Rating 5 out of 5,40.84099044,-73.93693679,"true,",100%
+415,"Price$69 per night",2,1,1,1,Private room in apartment,62 Reviews,Rating 4.5 out of 5,40.80507585,-73.94941651,FALSE,100%
+416,"Price$70 per night",3,1,2,1,Entire apartment,9 Reviews,Rating 5 out of 5,40.73579441,-73.9863588,FALSE,100%
+417,"Price$55 per night",3,1,1,1,Private room in apartment,100 Reviews,Rating 4.5 out of 5,40.83018196,-73.94830404,FALSE,100%
+418,"Price$75 per night",2,1,1,1.5,Private room in townhouse,54 Reviews,Rating 5 out of 5,40.80090393,-73.94333243,"true,",100%
+419,"Price$70 per night",2,1,1,1,Private room in apartment,43 Reviews,Rating 4.5 out of 5,40.76913713,-73.98756804,FALSE,87%
+420,"Price$60 per night",2,1,1,1,Private room in apartment,50 Reviews,Rating 4.5 out of 5,40.80125629,-73.95777313,FALSE,100%
+421,"Price$71 per night",2,1,1,2,Private room in apartment,80 Reviews,Rating 4.5 out of 5,40.73221655,-73.99019553,FALSE,100%
+422,"Price$68 per night",2,1,1,2,Private room in apartment,66 Reviews,Rating 4.5 out of 5,40.77741818,-73.95349388,FALSE,100%
+423,"Price$75 per night",3,studio,1,1,Entire apartment,31 Reviews,Rating 4.5 out of 5,40.80863183,-73.95503417,FALSE,100%
+424,"Price$54 per night",2,1,1,1,Private room in apartment,128 Reviews,Rating 5 out of 5,40.84543073,-73.94283408,"true,",100%
+425,"Price$68 per night",2,1,1,1,Private room in apartment,55 Reviews,Rating 5 out of 5,40.72146243,-73.9863089,"true,",100%
+426,"Price$60 per night",2,1,1,1,Private room in apartment,31 Reviews,Rating 4.5 out of 5,40.81806654,-73.94329953,FALSE,100%
+427,"Price$68 per night",2,1,1,1,Private room in apartment,88 Reviews,Rating 5 out of 5,40.83941929,-73.93855354,"true,",100%
+428,"Price$58 per night",2,1,1,1,Private room in apartment,24 Reviews,Rating 4.5 out of 5,40.79377357,-73.93610472,FALSE,100%
+429,"Price$75 per night",4,studio,1,1,Entire apartment,69 Reviews,Rating 4.5 out of 5,40.80317259,-73.94768528,FALSE,100%
+430,"Price$70 per night",2,1,1,1,Private room in apartment,8 Reviews,Rating 4.5 out of 5,40.80130059,-73.96669214,FALSE,89%
+431,"Price$60 per night",2,1,1,1,Private room in apartment,45 Reviews,Rating 5 out of 5,40.83233126,-73.94561684,FALSE,100%
+432,"Price$75 per night",1,1,1,1,Private room in apartment,55 Reviews,Rating 5 out of 5,40.80352785,-73.949872,FALSE,57%
+433,"Price$75 per night",2,1,1,1,Private room in apartment,120 Reviews,Rating 5 out of 5,40.8121138,-73.93779631,"true,",100%
+434,"Price$72 per night",2,1,1,1,Private room in apartment,90 Reviews,Rating 5 out of 5,40.80362269,-73.96417812,FALSE,100%
+435,"Price$65 per night",1,1,1,1,Shared room in apartment,31 Reviews,Rating 4.5 out of 5,40.74857845,-73.98341327,FALSE,100%
+436,"Price$67 per night",2,1,2,1,Private room in apartment,25 Reviews,Rating 5 out of 5,40.74235545,-73.98293496,"true,",100%
+437,"Price$55 per night",1,1,1,1,Private room in apartment,16 Reviews,Rating 4.5 out of 5,40.80779849,-73.95208416,FALSE,100%
+438,"Price$70 per night",5,1,1,1,Entire apartment,9 Reviews,Rating 4.5 out of 5,40.8009378,-73.96163496,FALSE,96%
+439,"Price$65 per night",2,1,2,1,Private room in apartment,35 Reviews,Rating 5 out of 5,40.80737242,-73.95732186,"true,",100%
+440,"Price$60 per night",1,1,1,1,Shared room in apartment,60 Reviews,Rating 5 out of 5,40.71556386,-73.99208596,"true,",100%
+441,"Price$67 per night",2,1,1,1,Private room in apartment,63 Reviews,Rating 5 out of 5,40.78091492,-73.97530137,"true,",94%
+442,"Price$60 per night",2,1,1,1,Private room in apartment,116 Reviews,Rating 5 out of 5,40.79893154,-73.96248725,"true,",100%
+443,"Price$55 per night",2,1,1,1,Private room in apartment,1 Review,no rating,40.79965131,-73.95076255,FALSE,100%
+444,"Price$60 per night",3,1,2,1,Private room in apartment,43 Reviews,Rating 4.5 out of 5,40.82165381,-73.95448249,FALSE,100%
+445,"Price$63 per night",2,1,1,1,Private room in apartment,54 Reviews,Rating 5 out of 5,40.70601852,-74.00890941,FALSE,100%
+446,"Price$83 per night",4,1,2,1,Private room in apartment,97 Reviews,Rating 4.5 out of 5,40.72223464,-73.99526741,FALSE,98%
+447,"Price$90 per night",3,1,3,1,NoneType,NoneType,no rating,40.80842651,-73.94124528,"true,",no info
+448,"Price$90 per night",3,1,1,1,Entire apartment,218 Reviews,Rating 4.5 out of 5,40.76981088,-73.95812214,FALSE,100%
+449,"Price$80 per night",4,studio,1,1,Entire apartment,136 Reviews,Rating 4.5 out of 5,40.77091628,-73.94882263,FALSE,100%
+450,"Price$89 per night",4,studio,1,1,Entire apartment,121 Reviews,Rating 4.5 out of 5,40.77181461,-73.95145443,"true,",100%
+451,"Price$84 per night",3,studio,1,1,Entire apartment,45 Reviews,Rating 4.5 out of 5,40.71553043,-73.99117818,FALSE,100%
+452,"Price$79 per night",3,studio,2,1,Entire apartment,65 Reviews,Rating 4 out of 5,40.73878993,-73.99771917,FALSE,100%
+453,"Price$85 per night",2,1,1,1,Private room in apartment,330 Reviews,Rating 5 out of 5,40.76444404,-73.98964724,"true,",100%
+454,"Price$90 per night",2,1,1,1,Private room in apartment,41 Reviews,Rating 5 out of 5,40.75964291,-73.98730829,FALSE,100%
+455,"Price$85 per night",3,1,1,1,Private room in apartment,161 Reviews,Rating 5 out of 5,40.76312587,-73.9897794,FALSE,100%
+456,"Price$85 per night",2,1,1,1,Private room in apartment,203 Reviews,Rating 5 out of 5,40.72643508,-73.97866086,"true,",100%
+457,"Price$79 per night",2,1,1,1,Private room in apartment,240 Reviews,Rating 4.5 out of 5,40.79520056,-73.96239549,FALSE,100%
+458,"Price$82 per night",2,1,1,1,Private room in apartment,250 Reviews,Rating 5 out of 5,40.7135013,-73.99120817,"true,",100%
+459,"Price$88 per night",2,1,1,1,Private room in apartment,278 Reviews,Rating 5 out of 5,40.72125411,-73.99272312,"true,",100%
+460,"Price$80 per night",2,1,1,1,Private room in apartment,212 Reviews,Rating 4.5 out of 5,40.72778263,-73.98304894,FALSE,100%
+461,"Price$90 per night",2,1,1,1,Private room in apartment,293 Reviews,Rating 4.5 out of 5,40.73337255,-73.98399748,FALSE,100%
+462,"Price$79 per night",2,1,1,1,Private room in apartment,248 Reviews,Rating 5 out of 5,40.76998506,-73.98917666,"true,",100%
+463,"Price$89 per night",3,1,1,1,Private room in apartment,292 Reviews,Rating 4.5 out of 5,40.75970626,-73.98978864,"true,",100%
+464,"Price$76 per night",2,1,1,1,Private room in apartment,257 Reviews,Rating 4.5 out of 5,40.73124729,-73.98344311,FALSE,100%
+465,"Price$82 per night",1,studio,1,3,Private room in hostel,73 Reviews,Rating 4.5 out of 5,40.74970168,-73.99514732,FALSE,91%
+466,"Price$90 per night",1,1,1,1,Private room in apartment,99 Reviews,Rating 5 out of 5,40.75860252,-73.98973977,"true,",100%
+467,"Price$78 per night",4,1,1,1,Private room in apartment,82 Reviews,Rating 4 out of 5,40.75683525,-73.99464727,FALSE,100%
+468,"Price$79 per night",2,1,1,1,Private room in townhouse,59 Reviews,Rating 5 out of 5,40.8191947,-73.94553734,"true,",100%
+469,"Price$90 per night",2,1,1,1,Private room in apartment,255 Reviews,Rating 4.5 out of 5,40.79346657,-73.95028737,"true,",100%
+470,"Price$80 per night",2,1,1,1,Private room in apartment,262 Reviews,Rating 5 out of 5,40.80289823,-73.95693981,"true,",100%
+471,"Price$90 per night",2,1,1,1,Private room in apartment,148 Reviews,Rating 5 out of 5,40.72265442,-73.98364607,"true,",100%
+472,"Price$85 per night",2,1,1,1,Private room in apartment,153 Reviews,Rating 4.5 out of 5,40.73108529,-73.98233718,FALSE,100%
+473,"Price$85 per night",2,1,1,1,Private room in apartment,128 Reviews,Rating 4.5 out of 5,40.79797584,-73.95051677,FALSE,100%
+474,"Price$82 per night",1,studio,1,3,Private room in hostel,122 Reviews,Rating 4 out of 5,40.74818667,-73.99540119,FALSE,91%
+475,"Price$80 per night",2,1,1,1,Private room in apartment,23 Reviews,Rating 5 out of 5,40.73739297,-73.99040375,"true,",100%
+476,"Price$89 per night",2,1,1,1.5,Private room in apartment,216 Reviews,Rating 5 out of 5,40.76280202,-73.98500842,"true,",100%
+477,"Price$79 per night",2,1,1,1,Private room in apartment,307 Reviews,Rating 4.5 out of 5,40.77790033,-73.95245863,FALSE,100%
+478,"Price$80 per night",4,1,2,1,Entire apartment,102 Reviews,Rating 5 out of 5,40.79582655,-73.93595191,FALSE,100%
+479,"Price$83 per night",2,1,2,1,Private room in apartment,90 Reviews,Rating 5 out of 5,40.78181546,-73.97915096,FALSE,100%
+480,"Price$85 per night",2,1,1,1,Private room in apartment,198 Reviews,Rating 4.5 out of 5,40.71267837,-73.96676439,FALSE,93%
+481,"Price$89 per night",4,1,1,2,Private room in apartment,103 Reviews,Rating 4.5 out of 5,40.74701051,-73.99139747,FALSE,
+482,"Price$90 per night",3,studio,2,1,Entire apartment,160 Reviews,Rating 4.5 out of 5,40.81031835,-73.95414596,FALSE,100%
+483,"Price$79 per night",2,1,1,1,Private room in apartment,229 Reviews,Rating 5 out of 5,40.71541941,-73.98510977,"true,",100%
+484,"Price$89 per night",2,1,1,1,Private room in apartment,77 Reviews,Rating 4.5 out of 5,40.79184409,-73.9461067,FALSE,100%
+485,"Price$79 per night",2,1,1,1,Private room in apartment,230 Reviews,Rating 4.5 out of 5,40.73361838,-73.98919705,FALSE,100%
+486,"Price$89 per night",2,1,1,1,Private room in apartment,129 Reviews,Rating 5 out of 5,40.76416146,-73.99270796,FALSE,100%
+487,"Price$80 per night",2,1,1,1,Entire townhouse,238 Reviews,Rating 5 out of 5,40.82823066,-73.94691479,"true,",100%
+488,"Price$82 per night",1,studio,1,3,Private room in hostel,82 Reviews,Rating 4 out of 5,40.74796604,-73.99600273,FALSE,91%
+489,"Price$85 per night",2,1,1,1,Private room in apartment,102 Reviews,Rating 5 out of 5,40.81748888,-73.94314899,"true,",100%
+490,"Price$78 per night",2,studio,1,1,Private room in apartment,192 Reviews,Rating 4.5 out of 5,40.81387546,-73.95105461,"true,",100%
+491,"Price$89 per night",2,1,1,1,NoneType,89 Reviews,Rating 5 out of 5,40.75832039,-73.99178749,"true,",no info
+492,"Price$84 per night",2,studio,1,1,Entire apartment,28 Reviews,Rating 4.5 out of 5,40.74321015,-73.98379277,FALSE,100%
+493,"Price$80 per night",2,1,1,2,Private room in apartment,192 Reviews,Rating 4.5 out of 5,40.79900085,-73.96504363,FALSE,100%
+494,"Price$85 per night",2,1,1,1,Private room in apartment,77 Reviews,Rating 5 out of 5,40.76013981,-73.99261475,"true,",100%
+495,"Price$90 per night",2,1,1,1,Private room in apartment,17 Reviews,Rating 5 out of 5,40.72647537,-73.98064649,FALSE,96%
+496,"Price$85 per night",2,1,1,1,NoneType,NoneType,no rating,40.78428869,-73.97814596,FALSE,no info
+497,"Price$80 per night",2,1,1,1,Private room in apartment,123 Reviews,Rating 5 out of 5,40.71847702,-73.9954937,"true,",
+498,"Price$89 per night",2,studio,1,1,Entire apartment,76 Reviews,Rating 4.5 out of 5,40.78607663,-73.97251991,FALSE,
+499,"Price$89 per night",2,1,1,1,Private room in apartment,57 Reviews,Rating 5 out of 5,40.76256037,-73.98658657,"true,",
+500,"Price$79 per night",2,1,1,1,Private room in apartment,44 Reviews,Rating 4.5 out of 5,40.77559091,-73.98748233,FALSE,
+501,"Price$89 per night",2,1,1,1,Private room in apartment,146 Reviews,Rating 4.5 out of 5,40.80950416,-73.95394626,FALSE,
+502,"Price$85 per night",2,1,1,1,Entire house,69 Reviews,Rating 4.5 out of 5,40.80762429,-73.92454338,FALSE,
+503,"Price$77 per night",2,1,1,1,Private room in apartment,195 Reviews,Rating 4.5 out of 5,40.79909676,-73.96520034,FALSE,
+504,"Price$82 per night",1,studio,1,3,Private room in hostel,67 Reviews,Rating 4.5 out of 5,40.74784862,-73.99664222,FALSE,
+505,"Price$80 per night",4,studio,0,1,Entire apartment,35 Reviews,Rating 4.5 out of 5,40.7957647,-73.93735315,FALSE,
+506,"Price$85 per night",2,1,1,1,Private room in apartment,67 Reviews,Rating 5 out of 5,40.76093193,-73.99103316,"true,",
+507,"Price$85 per night",4,1,1,1,Entire apartment,138 Reviews,Rating 4.5 out of 5,40.78613945,-73.95280287,FALSE,
+508,"Price$85 per night",4,1,1,1.5,Private room in apartment,44 Reviews,Rating 5 out of 5,40.81790113,-73.94319388,"true,",
+509,"Price$85 per night",1,1,1,1,Private room in apartment,231 Reviews,Rating 4.5 out of 5,40.80573111,-73.96621101,FALSE,
+510,"Price$85 per night",2,1,1,0,Private room in townhouse,80 Reviews,Rating 5 out of 5,40.80072866,-73.94465492,FALSE,
+511,"Price$79 per night",2,1,1,1,Private room in apartment,100 Reviews,Rating 4.5 out of 5,40.77400029,-73.95073131,FALSE,
+512,"Price$85 per night",1,1,1,1,Private room in apartment,231 Reviews,Rating 4.5 out of 5,40.80573111,-73.96621101,FALSE,
+513,"Price$86 per night",2,1,1,1,Private room in condominium,30 Reviews,Rating 5 out of 5,40.71123766,-73.99455632,"true,",
+514,"Price$90 per night",4,studio,2,1,Entire apartment,106 Reviews,Rating 4.5 out of 5,40.76114181,-73.9614711,FALSE,
+515,"Price$89 per night",2,1,1,1,Private room in apartment,80 Reviews,Rating 5 out of 5,40.76015315,-73.99017071,"true,",
+516,"Price$80 per night",2,1,1,1,Private room in apartment,32 Reviews,Rating 4.5 out of 5,40.75422831,-73.99461457,FALSE,
+517,"Price$85 per night",2,1,1,1,Private room in apartment,126 Reviews,Rating 4.5 out of 5,40.71062865,-73.99526227,"true,",
+518,"Price$90 per night",2,1,1,1,Private room in apartment,33 Reviews,Rating 4.5 out of 5,40.72174566,-73.99873117,FALSE,
+519,"Price$81 per night",2,1,1,1,Private room in apartment,243 Reviews,Rating 4.5 out of 5,40.76588522,-73.98536471,FALSE,100%
+520,"Price$90 per night",2,1,1,1,NoneType,NoneType,no rating,40.7324963,-74.00452865,FALSE,no info
+521,"Price$79 per night",2,1,1,1,Private room in apartment,44 Reviews,Rating 4.5 out of 5,40.77267749,-73.98933026,FALSE,100%
+522,"Price$85 per night",2,1,1,1,Private room in apartment,4 Reviews,Rating 5 out of 5,40.76315227,-73.99234832,FALSE,100%
+523,"Price$90 per night",4,1,3,1,Entire apartment,36 Reviews,Rating 4.5 out of 5,40.76306576,-73.98810941,FALSE,100%
+524,"Price$85 per night",3,studio,1,1,Entire apartment,135 Reviews,Rating 4.5 out of 5,40.74616737,-73.9865865,FALSE,96%
+525,"Price$90 per night",4,studio,2,1,Entire apartment,31 Reviews,Rating 5 out of 5,40.7971398,-73.93684778,FALSE,100%
+526,"Price$85 per night",2,1,1,1,Private room in loft,188 Reviews,Rating 5 out of 5,40.71338017,-73.9683326,"true,",100%
+527,"Price$79 per night",2,1,1,1,Private room in apartment,71 Reviews,Rating 4.5 out of 5,40.75070972,-74.00246753,FALSE,100%
+528,"Price$89 per night",0,2,2,1,Entire house,287 Reviews,Rating 4.5 out of 5,40.81821847,-73.94094688,FALSE,75%
+529,"Price$85 per night",2,1,1,1,Private room in apartment,151 Reviews,Rating 5 out of 5,40.73897042,-73.98104158,FALSE,100%
+530,"Price$89 per night",0,2,2,1,Entire house,287 Reviews,Rating 4.5 out of 5,40.81821847,-73.94094688,FALSE,75%
+531,"Price$90 per night",3,1,2,1,Entire apartment,48 Reviews,Rating 5 out of 5,40.77053107,-73.94989584,"true,",100%
+532,"Price$89 per night",2,1,1,1,Private room in apartment,50 Reviews,Rating 5 out of 5,40.77454678,-73.98882485,FALSE,100%
+533,"Price$85 per night",3,1,1,1,Entire apartment,88 Reviews,Rating 4.5 out of 5,40.72057032,-73.9876253,FALSE,100%
+534,"Price$89 per night",2,1,1,1,Entire apartment,45 Reviews,Rating 4.5 out of 5,40.7750996,-73.95440742,FALSE,93%
+535,"Price$84 per night",2,1,1,1,Private room in apartment,92 Reviews,Rating 4.5 out of 5,40.74535447,-73.99022763,FALSE,98%
+536,"Price$89 per night",2,1,1,1.5,Private room in apartment,150 Reviews,Rating 4.5 out of 5,40.78679948,-73.94269448,FALSE,100%
+537,"Price$90 per night",5,2,3,1,Entire apartment,83 Reviews,Rating 4.5 out of 5,40.75827505,-73.96286184,FALSE,100%
+538,"Price$87 per night",2,1,1,1,Private room in apartment,117 Reviews,Rating 5 out of 5,40.76606186,-73.99076956,FALSE,100%
+539,"Price$85 per night",2,1,1,1,Private room in apartment,37 Reviews,Rating 4.5 out of 5,40.76434843,-73.98706164,FALSE,100%
+540,"Price$80 per night",1,1,1,1,Private room in apartment,77 Reviews,Rating 5 out of 5,40.80219249,-73.94382984,FALSE,100%
+541,"Price$89 per night",3,1,3,1,Private room in apartment,164 Reviews,Rating 4.5 out of 5,40.78233725,-73.94907073,"true,",100%
+542,"Price$85 per night",3,1,2,1,Entire apartment,169 Reviews,Rating 5 out of 5,40.72751957,-73.98431537,"true,",100%
+543,"Price$80 per night",2,1,1,1,Private room in apartment,61 Reviews,Rating 4.5 out of 5,40.777364,-73.95144006,FALSE,69%
+544,"Price$90 per night",2,1,1,1,Private room in apartment,79 Reviews,Rating 4.5 out of 5,40.74697818,-73.98906126,FALSE,98%
+545,"Price$79 per night",2,1,1,1,Private room in apartment,94 Reviews,Rating 5 out of 5,40.77571036,-73.94802659,"true,",98%
+546,"Price$80 per night",2,studio,1,1,NoneType,NoneType,no rating,40.81865082,-73.93684477,FALSE,no info
+547,"Price$78 per night",2,1,1,1,Private room in apartment,150 Reviews,Rating 5 out of 5,40.76193128,-73.9493339,"true,",100%
+548,"Price$85 per night",1,1,1,1,NoneType,284 Reviews,Rating 4.5 out of 5,40.76301961,-73.9890467,FALSE,no info
+549,"Price$89 per night",2,1,1,1,Private room in apartment,186 Reviews,Rating 5 out of 5,40.74652323,-74.00089477,"true,",100%
+550,"Price$80 per night",2,studio,1,1,Entire apartment,68 Reviews,Rating 4.5 out of 5,40.81865082,-73.93684477,FALSE,92%
+551,"Price$89 per night",7,3,3,1,Entire apartment,194 Reviews,Rating 4.5 out of 5,40.78879895,-73.94843929,FALSE,100%
+552,"Price$90 per night",2,1,1,1,Private room in apartment,79 Reviews,Rating 4.5 out of 5,40.74697818,-73.98906126,FALSE,98%
+553,"Price$79 per night",2,1,1,1,Private room in apartment,66 Reviews,Rating 5 out of 5,40.76002106,-73.98957745,"true,",96%
+554,"Price$82 per night",2,1,1,1,Private room in apartment,89 Reviews,Rating 4.5 out of 5,40.75769574,-73.96619521,FALSE,94%
+555,"Price$89 per night",2,1,2,1,Shared room in apartment,93 Reviews,Rating 4.5 out of 5,40.79187704,-73.9451386,FALSE,100%
+556,"Price$80 per night",2,1,1,1,Private room in condominium,46 Reviews,Rating 5 out of 5,40.72204428,-73.97924095,"true,",100%
+557,"Price$79 per night",2,1,1,1,Private room in apartment,171 Reviews,Rating 4.5 out of 5,40.76452342,-73.99911462,FALSE,100%
+558,"Price$83 per night",2,1,1,1,Private room in apartment,77 Reviews,Rating 4.5 out of 5,40.70540128,-74.00762688,FALSE,100%
+559,"Price$89 per night",2,1,1,1,Private room in apartment,38 Reviews,Rating 5 out of 5,40.75859398,-73.99195167,"true,",97%
+560,"Price$79 per night",3,studio,2,1,Private room in townhouse,81 Reviews,Rating 4.5 out of 5,40.80748758,-73.95412902,FALSE,89%
+561,"Price$80 per night",2,1,1,1,Private room in apartment,88 Reviews,Rating 4.5 out of 5,40.72207504,-73.98108667,FALSE,100%
+562,"Price$85 per night",4,1,3,2,Private room in apartment,139 Reviews,Rating 4.5 out of 5,40.79886314,-73.93373435,FALSE,93%
+563,"Price$85 per night",3,studio,2,1,Entire guesthouse,60 Reviews,Rating 4 out of 5,40.74962382,-73.9845332,FALSE,92%
+564,"Price$80 per night",2,1,2,1,Private room in apartment,15 Reviews,Rating 5 out of 5,40.80278837,-73.96324572,FALSE,100%
+565,"Price$85 per night",4,1,2,1,Private room in apartment,53 Reviews,Rating 5 out of 5,40.80839014,-73.9526938,FALSE,100%
+566,"Price$80 per night",2,1,1,1,Private room in townhouse,111 Reviews,Rating 4.5 out of 5,40.83202045,-73.94592388,FALSE,93%
+567,"Price$80 per night",2,1,1,1,Private room in apartment,58 Reviews,Rating 5 out of 5,40.72402775,-73.97741406,"true,",100%
+568,"Price$90 per night",1,1,1,1,Private room in apartment,133 Reviews,Rating 5 out of 5,40.78865985,-73.96908399,"true,",100%
+569,"Price$80 per night",3,1,1,1,Private room in apartment,60 Reviews,Rating 4.5 out of 5,40.71511048,-73.98916532,FALSE,100%
+570,"Price$89 per night",2,1,1,1,Private room in apartment,132 Reviews,Rating 4.5 out of 5,40.72737757,-74.00018204,FALSE,100%
+571,"Price$85 per night",2,1,1,1,NoneType,NoneType,no rating,40.78770901,-73.95142912,"true,",no info
+572,"Price$77 per night",2,1,1,1,Private room in apartment,6 Reviews,Rating 5 out of 5,40.76942401,-73.99163487,FALSE,100%
+573,"Price$80 per night",2,1,1,1,Private room in apartment,1 Review,no rating,40.78413342,-73.97450952,FALSE,
+574,"Price$90 per night",2,1,2,1,Entire apartment,62 Reviews,Rating 4.5 out of 5,40.72779475,-73.98816546,FALSE,100%
+575,"Price$80 per night",2,1,1,1,Private room in apartment,131 Reviews,Rating 4.5 out of 5,40.82192774,-73.9449888,FALSE,100%
+576,"Price$81 per night",2,1,1,1,Private room in apartment,149 Reviews,Rating 4.5 out of 5,40.71750196,-73.99264327,"true,",100%
+577,"Price$89 per night",2,studio,2,1,Private room in apartment,112 Reviews,Rating 4.5 out of 5,40.76027723,-73.98845593,FALSE,100%
+578,"Price$80 per night",1,1,1,1,Private room in apartment,194 Reviews,Rating 4.5 out of 5,40.78834234,-73.94720114,FALSE,94%
+579,"Price$87 per night",2,1,1,1,Private room in apartment,35 Reviews,Rating 5 out of 5,40.79756781,-73.9385143,FALSE,100%
+580,"Price$90 per night",4,studio,2,1,Entire apartment,8 Reviews,Rating 5 out of 5,40.75076271,-73.96991721,FALSE,100%
+581,"Price$80 per night",1,1,1,1,Private room in apartment,194 Reviews,Rating 4.5 out of 5,40.78834234,-73.94720114,FALSE,94%
+582,"Price$80 per night",6,2,3,1,Entire apartment,74 Reviews,Rating 4.5 out of 5,40.80193256,-73.93906253,FALSE,100%
+583,"Price$90 per night",4,studio,3,1,Entire apartment,10 Reviews,Rating 4.5 out of 5,40.77006775,-73.95291717,FALSE,100%
+584,"Price$90 per night",2,1,1,1,Entire apartment,78 Reviews,Rating 5 out of 5,40.7439441,-73.98104898,FALSE,100%
+585,"Price$85 per night",2,1,1,1,Entire apartment,23 Reviews,Rating 4.5 out of 5,40.8044805,-73.95567259,"true,",100%
+586,"Price$90 per night",2,1,1,1,Private room in apartment,228 Reviews,Rating 4.5 out of 5,40.71905578,-73.98449623,FALSE,100%
+587,"Price$90 per night",6,2,2,1,Entire apartment,28 Reviews,Rating 4.5 out of 5,40.71086268,-74.00886982,FALSE,100%
+588,"Price$82 per night",2,1,1,1,Private room in apartment,89 Reviews,Rating 5 out of 5,40.80726159,-73.95177903,"true,",100%
+589,"Price$87 per night",2,1,1,1,Private room in apartment,35 Reviews,Rating 5 out of 5,40.79756781,-73.9385143,FALSE,100%
+590,"Price$83 per night",3,1,2,1,Entire apartment,23 Reviews,Rating 4.5 out of 5,40.73939018,-74.00614037,FALSE,100%
+591,"Price$89 per night",2,1,1,1,Private room in apartment,47 Reviews,Rating 5 out of 5,40.80092525,-73.9648643,"true,",100%
+592,"Price$81 per night",2,1,1,1,Private room in apartment,149 Reviews,Rating 4.5 out of 5,40.71750196,-73.99264327,"true,",100%
+593,"Price$90 per night",2,1,1,1,Private room in apartment,56 Reviews,Rating 4 out of 5,40.76579338,-73.9903384,FALSE,90%
+594,"Price$80 per night",6,studio,3,1,Entire apartment,93 Reviews,Rating 4.5 out of 5,40.80292163,-73.94730656,FALSE,100%
+595,"Price$77 per night",2,1,1,1,Private room in townhouse,50 Reviews,Rating 5 out of 5,40.81184556,-73.94579372,"true,",100%
+596,"Price$86 per night",2,1,1,1,Private room in apartment,31 Reviews,Rating 5 out of 5,40.76360244,-73.9950984,"true,",100%
+597,"Price$90 per night",2,1,1,2,Private room in bed and breakfast,21 Reviews,Rating 4 out of 5,40.79612554,-73.9646834,FALSE,100%
+598,"Price$82 per night",2,1,1,1,Private room in apartment,158 Reviews,Rating 4.5 out of 5,40.76107661,-73.98719475,FALSE,100%
+599,"Price$90 per night",3,1,1,1,Private room in apartment,34 Reviews,Rating 5 out of 5,40.76378706,-73.99493262,"true,",100%
+600,"Price$80 per night",2,1,1,1,Private room in apartment,8 Reviews,Rating 4.5 out of 5,40.7484434,-73.97343596,FALSE,100%
+601,"Price$80 per night",6,studio,3,1,Entire apartment,93 Reviews,Rating 4.5 out of 5,40.80292163,-73.94730656,FALSE,100%
+602,"Price$89 per night",4,1,3,1,Private room in apartment,61 Reviews,Rating 4.5 out of 5,40.7783286,-73.94825248,FALSE,100%
+603,"Price$77 per night",2,1,1,1,NoneType,NoneType,no rating,40.76942401,-73.99163487,FALSE,no info
+604,"Price$83 per night",3,1,2,1,Entire apartment,23 Reviews,Rating 4.5 out of 5,40.73939018,-74.00614037,FALSE,100%
+605,"Price$90 per night",2,1,1,1,Private room in apartment,68 Reviews,Rating 5 out of 5,40.79926664,-73.96234571,"true,",100%
+606,"Price$85 per night",3,1,1,1,Private room in apartment,13 Reviews,Rating 4.5 out of 5,40.7486329,-73.9829067,FALSE,100%
+607,"Price$85 per night",1,1,1,1,Private room in apartment,193 Reviews,Rating 4.5 out of 5,40.80113785,-73.96377585,FALSE,90%
+608,"Price$90 per night",2,1,1,1,NoneType,NoneType,no rating,40.72103578,-73.9949798,"true,",no info
+609,"Price$90 per night",2,studio,1,1,Entire apartment,119 Reviews,Rating 5 out of 5,40.80494466,-73.95638432,"true,",100%
+610,"Price$82 per night",5,1,3,1,Entire apartment,85 Reviews,Rating 4.5 out of 5,40.81288854,-73.94560081,FALSE,100%
+611,"Price$89 per night",4,studio,2,1,Entire apartment,110 Reviews,Rating 4.5 out of 5,40.80972064,-73.95588454,FALSE,100%
+612,"Price$89 per night",4,1,1,1,Entire apartment,20 Reviews,Rating 5 out of 5,40.79889089,-73.94489468,FALSE,100%
+613,"Price$80 per night",2,1,1,1,Private room in apartment,45 Reviews,Rating 5 out of 5,40.823793,-73.94558255,"true,",100%
+614,"Price$80 per night",2,1,1,1,Private room in apartment,35 Reviews,Rating 5 out of 5,40.80565148,-73.95197431,"true,",100%
+615,"Price$85 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.71752036,-73.98886528,FALSE,100%
+616,"Price$80 per night",2,1,1,1,Private room in apartment,67 Reviews,Rating 5 out of 5,40.80805374,-73.95381958,FALSE,100%
+617,"Price$86 per night",2,1,1,1,Private room in apartment,31 Reviews,Rating 5 out of 5,40.76360244,-73.9950984,"true,",100%
+618,"Price$79 per night",2,1,1,1.5,Private room in townhouse,100 Reviews,Rating 5 out of 5,40.81197617,-73.94369542,"true,",100%
+619,"Price$90 per night",2,studio,1,1,Entire apartment,119 Reviews,Rating 5 out of 5,40.80494466,-73.95638432,"true,",100%
+620,"Price$79 per night",2,1,1,1,Private room in apartment,111 Reviews,Rating 5 out of 5,40.73504921,-74.00244263,"true,",100%
+621,"Price$80 per night",2,1,1,1,Private room in apartment,8 Reviews,Rating 4.5 out of 5,40.7484434,-73.97343596,FALSE,100%
+622,"Price$80 per night",2,1,1,1,Private room in apartment,171 Reviews,Rating 4.5 out of 5,40.72524224,-73.97776627,"true,",100%
+623,"Price$89 per night",4,studio,3,1,Private room in townhouse,91 Reviews,Rating 4.5 out of 5,40.80842283,-73.95567729,FALSE,89%
+624,"Price$85 per night",2,1,1,2,Private room in apartment,9 Reviews,Rating 4 out of 5,40.71523207,-73.99241755,FALSE,100%
+625,"Price$89 per night",4,studio,2,1,Entire apartment,174 Reviews,Rating 4.5 out of 5,40.74588029,-74.00055099,FALSE,100%
+626,"Price$80 per night",3,studio,2,1,Entire apartment,24 Reviews,Rating 4.5 out of 5,40.8186311,-73.95771384,FALSE,100%
+627,"Price$82 per night",4,studio,2,1,Entire apartment,8 Reviews,Rating 5 out of 5,40.76730826,-73.95842814,FALSE,100%
+628,"Price$80 per night",2,1,1,1,Private room in apartment,33 Reviews,Rating 5 out of 5,40.81719323,-73.93695229,"true,",100%
+629,"Price$87 per night",2,1,1,1,Private room in apartment,59 Reviews,Rating 4.5 out of 5,40.80088381,-73.96194482,FALSE,89%
+630,"Price$80 per night",3,1,2,1,Private room in apartment,62 Reviews,Rating 4.5 out of 5,40.79985718,-73.9641542,"true,",100%
+631,"Price$85 per night",2,1,1,2,Private room in apartment,9 Reviews,Rating 4 out of 5,40.71523207,-73.99241755,FALSE,100%
+632,"Price$79 per night",2,1,1,1,Entire apartment,52 Reviews,Rating 4.5 out of 5,40.81766654,-73.94051454,FALSE,90%
+633,"Price$80 per night",2,1,1,1,Private room in apartment,22 Reviews,Rating 5 out of 5,40.82208137,-73.94612469,"true,",100%
+634,"Price$90 per night",2,1,1,1,Private room in apartment,68 Reviews,Rating 5 out of 5,40.79926664,-73.96234571,"true,",100%
+635,"Price$80 per night",4,1,3,2,Private room in house,NoneType,no rating,40.76524864,-73.9409369,"true,",100%
+636,"Price$90 per night",2,studio,1,1,Entire apartment,119 Reviews,Rating 5 out of 5,40.80494466,-73.95638432,"true,",100%
+637,"Price$87 per night",2,1,1,1,Private room in apartment,9 Reviews,Rating 5 out of 5,40.76456943,-73.99082001,FALSE,100%
+638,"Price$85 per night",2,1,1,1,Private room in apartment,136 Reviews,Rating 4.5 out of 5,40.75536266,-73.99749908,"true,",100%
+639,"Price$80 per night",1,1,1,1,Private room in bed and breakfast,9 Reviews,Rating 5 out of 5,40.78156404,-73.97796436,FALSE,100%
+640,"Price$89 per night",2,1,1,1,Private room in apartment,103 Reviews,Rating 4.5 out of 5,40.76793073,-73.98560691,FALSE,100%
+641,"Price$90 per night",4,1,1,1,Private room in apartment,37 Reviews,Rating 5 out of 5,40.8022747,-73.95790339,FALSE,100%
+642,"Price$77 per night",2,studio,1,1,Private room in apartment,21 Reviews,Rating 4.5 out of 5,40.7726292,-73.98996647,FALSE,100%
+643,"Price$83 per night",4,2,2,1,Private room in apartment,29 Reviews,Rating 4.5 out of 5,40.81585426,-73.94271781,"true,",100%
+644,"Price$80 per night",2,1,1,1,Private room in townhouse,99 Reviews,Rating 4.5 out of 5,40.81995406,-73.94606985,"true,",100%
+645,"Price$85 per night",2,1,1,1,Private room in apartment,34 Reviews,Rating 4.5 out of 5,40.71054921,-74.00521275,FALSE,100%
+646,"Price$80 per night",2,1,1,1,Private room in apartment,37 Reviews,Rating 5 out of 5,40.8494111,-73.9343151,"true,",
+647,"Price$89 per night",1,1,1,1,Private room in apartment,4 Reviews,Rating 5 out of 5,40.74647661,-74.00266306,FALSE,
+648,"Price$90 per night",2,studio,1,1,Entire apartment,50 Reviews,Rating 4.5 out of 5,40.7779095,-73.94713713,FALSE,
+649,"Price$79 per night",1,1,1,,Private room in apartment,117 Reviews,Rating 5 out of 5,40.76345136,-73.99298434,"true,",
+650,"Price$80 per night",2,1,1,1,Private room in apartment,30 Reviews,Rating 4 out of 5,40.7653516,-73.99062719,FALSE,
+651,"Price$80 per night",2,1,1,1,Private room in apartment,74 Reviews,Rating 5 out of 5,40.78697452,-73.94469304,"true,",
+652,"Price$90 per night",5,studio,3,1,Entire apartment,52 Reviews,Rating 4.5 out of 5,40.77121694,-73.95337554,"true,",
+653,"Price$90 per night",2,1,1,1,Private room in apartment,63 Reviews,Rating 5 out of 5,40.70439908,-73.98152977,FALSE,
+654,"Price$90 per night",2,1,1,,Private room in apartment,74 Reviews,Rating 4.5 out of 5,40.71411917,-73.99149669,FALSE,
+655,"Price$80 per night",2,1,1,1,Entire apartment,107 Reviews,Rating 5 out of 5,40.84268855,-73.93605021,FALSE,
+656,"Price$76 per night",2,1,1,1.5,Private room in apartment,126 Reviews,Rating 5 out of 5,40.82652059,-73.95304276,"true,",
+657,"Price$85 per night",2,1,1,1,Private room in apartment,16 Reviews,Rating 5 out of 5,40.71973699,-73.98549024,FALSE,
+658,"Price$80 per night",1,1,1,1,Private room in apartment,10 Reviews,Rating 5 out of 5,40.7287114,-74.0060196,FALSE,
+659,"Price$80 per night",2,1,1,1,Private room in apartment,64 Reviews,Rating 5 out of 5,40.79918565,-73.96248744,"true,",
+660,"Price$90 per night",5,1,2,1,Entire apartment,63 Reviews,Rating 4.5 out of 5,40.76576171,-73.9866246,FALSE,
+661,"Price$80 per night",3,1,1,1,Private room in apartment,18 Reviews,Rating 5 out of 5,40.75657626,-73.99568467,"true,",
+662,"Price$90 per night",2,1,1,1,Private room in apartment,10 Reviews,Rating 5 out of 5,40.72204308,-73.98150966,"true,",
+663,"Price$81 per night",2,1,1,1,Private room in apartment,16 Reviews,Rating 4.5 out of 5,40.81893905,-73.93870567,FALSE,
+664,"Price$110 per night",3,studio,1,1,Entire apartment,246 Reviews,Rating 4.5 out of 5,40.75802571,-73.99222887,FALSE,
+665,"Price$99 per night",5,2,3,2,Entire condominium,32 Reviews,Rating 5 out of 5,40.72067221,-74.00023559,"true,",
+666,"Price$100 per night",3,studio,1,1,Entire house,225 Reviews,Rating 4.5 out of 5,40.82248477,-73.94891211,FALSE,
+667,"Price$109 per night",4,1,2,1,Entire apartment,224 Reviews,Rating 4.5 out of 5,40.75921002,-73.9889547,FALSE,
+668,"Price$110 per night",2,studio,1,1,Entire apartment,246 Reviews,Rating 4.5 out of 5,40.75752444,-73.99425406,FALSE,
+669,"Price$95 per night",1,1,1,1,Private room in apartment,269 Reviews,Rating 5 out of 5,40.76424525,-73.99162127,"true,",
+670,"Price$119 per night",3,1,2,1,Entire apartment,143 Reviews,Rating 4.5 out of 5,40.75462449,-73.96869006,FALSE,
+671,"Price$109 per night",6,studio,3,1,Entire apartment,142 Reviews,Rating 4.5 out of 5,40.75032667,-73.98547495,FALSE,
+672,"Price$120 per night",3,1,1,1,NoneType,NoneType,no rating,40.73174521,-73.98755508,"true,",no info
+673,"Price$111 per night",4,1,2,1,Entire apartment,155 Reviews,Rating 4.5 out of 5,40.73745213,-74.00725144,FALSE,97%
+674,"Price$99 per night",4,studio,2,1,Entire apartment,209 Reviews,Rating 4.5 out of 5,40.74834182,-73.98685895,FALSE,100%
+675,"Price$91 per night",4,studio,3,1,Entire apartment,247 Reviews,Rating 5 out of 5,40.80899801,-73.94263115,"true,",100%
+676,"Price$100 per night",2,1,1,1,Entire apartment,137 Reviews,Rating 4.5 out of 5,40.75764914,-73.99427123,FALSE,62%
+677,"Price$100 per night",3,1,1,1,Entire apartment,145 Reviews,Rating 4.5 out of 5,40.75628423,-73.99258205,FALSE,70%
+678,"Price$110 per night",2,1,1,1,Entire apartment,159 Reviews,Rating 4.5 out of 5,40.75577472,-73.99466407,FALSE,100%
+679,"Price$99 per night",3,studio,1,1,Entire apartment,91 Reviews,Rating 4.5 out of 5,40.80622885,-73.94047448,FALSE,100%
+680,"Price$99 per night",4,1,1,1,Private room in apartment,157 Reviews,Rating 4.5 out of 5,40.75536394,-73.99949823,FALSE,100%
+681,"Price$119 per night",5,studio,3,1,Entire apartment,150 Reviews,Rating 4.5 out of 5,40.74655579,-73.9874093,FALSE,73%
+682,"Price$100 per night",4,1,3,1,NoneType,NoneType,no rating,40.77947643,-73.9467264,FALSE,no info
+683,"Price$100 per night",5,studio,3,1,Entire apartment,78 Reviews,Rating 4.5 out of 5,40.75094211,-73.96949214,FALSE,100%
+684,"Price$95 per night",2,1,1,1,Private room in guest suite,129 Reviews,Rating 5 out of 5,40.7960752,-73.93818771,"true,",100%
+685,"Price$120 per night",2,1,1,1,Entire apartment,59 Reviews,Rating 5 out of 5,40.78743366,-73.95178618,"true,",100%
+686,"Price$105 per night",2,1,1,1,Private room in apartment,281 Reviews,Rating 5 out of 5,40.79667286,-73.96703674,"true,",100%
+687,"Price$97 per night",2,1,1,1,Entire apartment,157 Reviews,Rating 4.5 out of 5,40.72740243,-73.97906243,FALSE,100%
+688,"Price$115 per night",3,1,1,1,Entire apartment,173 Reviews,Rating 4.5 out of 5,40.77634988,-73.93426095,FALSE,100%
+689,"Price$100 per night",2,1,1,1,Private room in loft,24 Reviews,Rating 5 out of 5,40.749888,-73.98231126,"true,",86%
+690,"Price$99 per night",3,studio,1,1,Entire apartment,119 Reviews,Rating 4.5 out of 5,40.80617244,-73.94150221,FALSE,100%
+691,"Price$115 per night",2,1,1,2,Private room in apartment,232 Reviews,Rating 4.5 out of 5,40.76118387,-73.98994938,FALSE,62%
+692,"Price$91 per night",2,1,1,1,Private room in apartment,125 Reviews,Rating 5 out of 5,40.72598111,-73.97778038,"true,",97%
+693,"Price$120 per night",4,studio,2,1,Entire apartment,166 Reviews,Rating 4.5 out of 5,40.77117765,-73.95744304,FALSE,100%
+694,"Price$100 per night",3,studio,1,1,Entire apartment,225 Reviews,Rating 4.5 out of 5,40.75770504,-73.99407287,FALSE,71%
+695,"Price$99 per night",3,1,2,1,Entire apartment,127 Reviews,Rating 4.5 out of 5,40.75665753,-73.99444267,FALSE,100%
+696,"Price$115 per night",6,studio,3,1,Entire apartment,77 Reviews,Rating 4.5 out of 5,40.75103281,-73.9710983,FALSE,100%
+697,"Price$100 per night",2,1,1,1,Private room in apartment,169 Reviews,Rating 5 out of 5,40.77292093,-73.9501468,FALSE,88%
+698,"Price$91 per night",4,studio,2,1,Private room in townhouse,68 Reviews,Rating 5 out of 5,40.80988984,-73.95490252,FALSE,89%
+699,"Price$110 per night",4,1,1,1,Entire apartment,125 Reviews,Rating 4.5 out of 5,40.7576973,-73.99401425,FALSE,88%
+700,"Price$95 per night",1,1,1,1,Private room in apartment,170 Reviews,Rating 5 out of 5,40.783225,-73.98105209,"true,",100%
+701,"Price$105 per night",2,1,1,1,Private room in apartment,40 Reviews,Rating 4.5 out of 5,40.76265562,-73.99676787,FALSE,100%
+702,"Price$95 per night",2,1,1,1,Private room in apartment,186 Reviews,Rating 4.5 out of 5,40.76717468,-73.95532355,FALSE,90%
+703,"Price$110 per night",2,studio,1,1,Entire apartment,183 Reviews,Rating 4.5 out of 5,40.77802083,-73.98255578,FALSE,100%
+704,"Price$120 per night",4,studio,2,1,Entire apartment,109 Reviews,Rating 5 out of 5,40.70737804,-74.00858352,FALSE,100%
+705,"Price$120 per night",5,2,3,1,Entire apartment,247 Reviews,Rating 4.5 out of 5,40.72328148,-73.98926038,FALSE,100%
+706,"Price$105 per night",3,1,1,1,Private room in apartment,335 Reviews,Rating 5 out of 5,40.72816058,-73.98842971,"true,",100%
+707,"Price$105 per night",2,studio,0,1,Entire apartment,209 Reviews,Rating 4.5 out of 5,40.74832918,-73.98490132,FALSE,100%
+708,"Price$115 per night",4,1,2,1,Entire apartment,23 Reviews,Rating 5 out of 5,40.76149778,-73.99041045,"true,",100%
+709,"Price$91 per night",2,1,2,1.5,Private room in apartment,264 Reviews,Rating 5 out of 5,40.76580363,-73.98795071,"true,",100%
+710,"Price$100 per night",5,2,3,1,Entire apartment,78 Reviews,Rating 4 out of 5,40.7510249,-73.9716341,FALSE,100%
+711,"Price$102 per night",2,1,2,1,Entire apartment,88 Reviews,Rating 5 out of 5,40.76580062,-73.99086715,"true,",90%
+712,"Price$120 per night",2,1,1,1,Private room in apartment,142 Reviews,Rating 4.5 out of 5,40.7586259,-73.9847168,FALSE,100%
+713,"Price$120 per night",2,studio,1,1,Entire apartment,22 Reviews,Rating 4.5 out of 5,40.76769139,-73.95496435,FALSE,79%
+714,"Price$100 per night",4,studio,3,1,Entire apartment,76 Reviews,Rating 4.5 out of 5,40.75160346,-73.97031763,FALSE,100%
+715,"Price$117 per night",2,1,1,1,Entire apartment,339 Reviews,Rating 4.5 out of 5,40.72843063,-73.98895257,FALSE,100%
+716,"Price$98 per night",2,1,1,1,Private room in apartment,85 Reviews,Rating 5 out of 5,40.78137664,-73.98139349,"true,",100%
+717,"Price$99 per night",2,studio,1,1,Entire apartment,84 Reviews,Rating 5 out of 5,40.78229692,-73.94837535,"true,",100%
+718,"Price$100 per night",2,1,1,0,Entire apartment,160 Reviews,Rating 4.5 out of 5,40.76266147,-73.9620453,FALSE,100%
+719,"Price$109 per night",2,1,1,1,Private room in apartment,101 Reviews,Rating 5 out of 5,40.72758169,-73.97761956,"true,",100%
+720,"Price$115 per night",2,1,1,1,Private room in apartment,202 Reviews,Rating 4.5 out of 5,40.75974905,-73.989698,FALSE,62%
+721,"Price$100 per night",5,2,3,1,Entire apartment,80 Reviews,Rating 4.5 out of 5,40.75125746,-73.97162888,FALSE,100%
+722,"Price$110 per night",2,studio,1,1,Entire apartment,183 Reviews,Rating 4.5 out of 5,40.77406912,-73.95237935,FALSE,80%
+723,"Price$120 per night",2,studio,1,1,Entire apartment,22 Reviews,Rating 4.5 out of 5,40.76769139,-73.95496435,FALSE,79%
+724,"Price$100 per night",2,1,1,1,Private room in apartment,40 Reviews,Rating 5 out of 5,40.74559982,-74.00107482,"true,",100%
+725,"Price$115 per night",2,1,1,1,Entire apartment,50 Reviews,Rating 5 out of 5,40.75005382,-73.99897875,"true,",100%
+726,"Price$109 per night",2,studio,0,1,Entire apartment,249 Reviews,Rating 4.5 out of 5,40.74838157,-73.98575943,FALSE,100%
+727,"Price$112 per night",3,1,2,1,Entire apartment,113 Reviews,Rating 4.5 out of 5,40.72093191,-73.98493211,FALSE,100%
+728,"Price$91 per night",3,1,1,1,Entire apartment,172 Reviews,Rating 4.5 out of 5,40.75398522,-73.96966571,FALSE,100%
+729,"Price$120 per night",4,1,1,1,Entire apartment,23 Reviews,Rating 4.5 out of 5,40.75552359,-73.99815887,FALSE,100%
+730,"Price$101 per night",2,1,2,1,Private room in apartment,46 Reviews,Rating 4.5 out of 5,40.75771827,-73.9927122,"true,",100%
+731,"Price$99 per night",4,1,1,1,Private room in apartment,274 Reviews,Rating 5 out of 5,40.75894702,-73.98830088,FALSE,96%
+732,"Price$97 per night",2,1,1,1,Private room in apartment,48 Reviews,Rating 5 out of 5,40.76280513,-73.9671792,"true,",100%
+733,"Price$99 per night",3,studio,2,1,Entire apartment,117 Reviews,Rating 5 out of 5,40.77110655,-73.95138613,"true,",100%
+734,"Price$105 per night",2,studio,1,1,Entire apartment,39 Reviews,Rating 5 out of 5,40.80375429,-73.93598668,"true,",100%
+735,"Price$109 per night",2,1,1,1,Entire apartment,138 Reviews,Rating 5 out of 5,40.74749005,-73.98873395,FALSE,94%
+736,"Price$105 per night",2,1,1,1,Entire apartment,15 Reviews,Rating 5 out of 5,40.73652117,-74.00875948,FALSE,100%
+737,"Price$100 per night",2,1,1,2,Private room in apartment,127 Reviews,Rating 5 out of 5,40.72755397,-73.97875886,"true,",88%
+738,"Price$91 per night",2,1,1,1.5,Private room in apartment,49 Reviews,Rating 5 out of 5,40.73157742,-74.00151465,FALSE,100%
+739,"Price$110 per night",6,1,3,1,Entire apartment,91 Reviews,Rating 5 out of 5,40.80725806,-73.93814976,"true,",100%
+740,"Price$95 per night",2,1,1,,Private room in apartment,113 Reviews,Rating 5 out of 5,40.71521252,-73.99169062,"true,",100%
+741,"Price$95 per night",2,1,1,1,Private room in apartment,96 Reviews,Rating 4.5 out of 5,40.71363207,-73.99368022,FALSE,100%
+742,"Price$91 per night",4,1,3,1,Private room in townhouse,107 Reviews,Rating 4.5 out of 5,40.80986455,-73.95348999,FALSE,89%
+743,"Price$120 per night",4,1,2,1,Entire apartment,111 Reviews,Rating 4.5 out of 5,40.72082231,-73.9872791,FALSE,100%
+744,"Price$110 per night",4,1,2,1,Entire apartment,86 Reviews,Rating 4.5 out of 5,40.75444892,-73.99445875,FALSE,100%
+745,"Price$93 per night",1,1,1,1,Private room in apartment,64 Reviews,Rating 5 out of 5,40.72197884,-73.98784711,"true,",100%
+746,"Price$99 per night",2,1,1,1,Private room in apartment,224 Reviews,Rating 4.5 out of 5,40.79619517,-73.96155998,FALSE,100%
+747,"Price$91 per night",2,1,1,1,Private room in apartment,125 Reviews,Rating 4.5 out of 5,40.75862919,-73.98811691,FALSE,100%
+748,"Price$109 per night",4,1,1,1,Entire apartment,116 Reviews,Rating 4.5 out of 5,40.76612044,-73.98841318,FALSE,100%
+749,"Price$119 per night",4,1,3,1,Entire apartment,35 Reviews,Rating 5 out of 5,40.75509515,-73.99363114,"true,",100%
+750,"Price$95 per night",5,studio,3,1,NoneType,NoneType,no rating,40.74787391,-73.98733564,FALSE,no info
+751,"Price$120 per night",4,1,2,1,Entire apartment,111 Reviews,Rating 4.5 out of 5,40.72082231,-73.9872791,FALSE,100%
+752,"Price$100 per night",4,studio,3,1,Entire apartment,75 Reviews,Rating 4.5 out of 5,40.75111822,-73.97130162,FALSE,92%
+753,"Price$109 per night",4,1,2,1,Entire apartment,134 Reviews,Rating 4.5 out of 5,40.74806425,-73.97170014,"true,",100%
+754,"Price$100 per night",3,studio,1,1,Entire apartment,123 Reviews,Rating 4.5 out of 5,40.73050468,-73.98043185,FALSE,81%
+755,"Price$100 per night",2,1,1,1,Private room in apartment,183 Reviews,Rating 4.5 out of 5,40.73033939,-73.99992071,FALSE,100%
+756,"Price$99 per night",2,1,1,1,Private room in apartment,277 Reviews,Rating 5 out of 5,40.76175319,-73.98919781,"true,",100%
+757,"Price$109 per night",2,studio,1,1,Entire apartment,190 Reviews,Rating 4.5 out of 5,40.77897583,-73.98171431,"true,",100%
+758,"Price$91 per night",2,1,1,1,Private room in apartment,125 Reviews,Rating 4.5 out of 5,40.75862919,-73.98811691,FALSE,100%
+759,"Price$100 per night",4,1,2,1,Entire apartment,97 Reviews,Rating 4.5 out of 5,40.80515957,-73.94298844,FALSE,100%
+760,"Price$100 per night",3,1,1,1,Entire apartment,110 Reviews,Rating 4.5 out of 5,40.75637872,-73.9938869,FALSE,86%
+761,"Price$100 per night",4,1,3,1,Entire apartment,117 Reviews,Rating 5 out of 5,40.76793824,-73.93413303,"true,",100%
+762,"Price$105 per night",2,1,1,1,Private room in apartment,162 Reviews,Rating 4.5 out of 5,40.72588182,-73.9817836,"true,",80%
+763,"Price$100 per night",2,1,1,1,Private room in apartment,14 Reviews,Rating 5 out of 5,40.76102109,-73.9867722,FALSE,100%
+764,"Price$95 per night",2,1,1,1,Private room in apartment,67 Reviews,Rating 4.5 out of 5,40.75949383,-73.99079532,FALSE,82%
+765,"Price$110 per night",2,1,1,1,NoneType,NoneType,no rating,40.72741046,-73.97529153,FALSE,no info
+766,"Price$98 per night",2,1,1,1,Entire condominium,8 Reviews,Rating 5 out of 5,40.80920246,-73.93597938,FALSE,100%
+767,"Price$100 per night",6,3,3,1,Entire apartment,21 Reviews,Rating 4.5 out of 5,40.79870874,-73.94119299,"true,",100%
+768,"Price$98 per night",4,studio,0,1,Entire apartment,109 Reviews,Rating 4.5 out of 5,40.77293913,-73.95351131,FALSE,100%
+769,"Price$110 per night",2,1,1,1,Entire apartment,113 Reviews,Rating 4.5 out of 5,40.72741046,-73.97529153,FALSE,92%
+770,"Price$120 per night",4,studio,2,1,Entire condominium,127 Reviews,Rating 4 out of 5,40.75451877,-73.96767103,FALSE,100%
+771,"Price$95 per night",2,1,1,1,Private room in apartment,54 Reviews,Rating 4.5 out of 5,40.77210485,-73.94630889,FALSE,100%
+772,"Price$100 per night",4,1,3,1,Entire apartment,88 Reviews,Rating 5 out of 5,40.76169562,-73.98931321,"true,",100%
+773,"Price$100 per night",5,studio,4,1,Entire apartment,308 Reviews,Rating 4.5 out of 5,40.82028981,-73.93861162,FALSE,100%
+774,"Price$112 per night",2,studio,1,1,Entire apartment,114 Reviews,Rating 4.5 out of 5,40.74750572,-73.97435631,FALSE,90%
+775,"Price$100 per night",3,1,1,1,Entire apartment,92 Reviews,Rating 5 out of 5,40.72945254,-73.97987304,"true,",100%
+776,"Price$100 per night",3,1,2,1.5,Private room in apartment,269 Reviews,Rating 5 out of 5,40.80225502,-73.94505571,"true,",100%
+777,"Price$105 per night",2,1,1,2,Private room in apartment,39 Reviews,Rating 4.5 out of 5,40.71254723,-73.99528658,FALSE,100%
+778,"Price$120 per night",2,studio,1,1,Entire apartment,97 Reviews,Rating 4.5 out of 5,40.74683396,-73.98760887,"true,",90%
+779,"Price$99 per night",2,1,1,2,Private room in apartment,165 Reviews,Rating 4.5 out of 5,40.74587497,-73.99148747,FALSE,
+780,"Price$100 per night",6,2,4,1,Entire apartment,83 Reviews,Rating 4.5 out of 5,40.76122388,-73.99129128,FALSE,100%
+781,"Price$119 per night",2,1,1,1,Entire apartment,128 Reviews,Rating 5 out of 5,40.76637098,-73.98342046,"true,",100%
+782,"Price$120 per night",1,1,1,1,Private room in apartment,159 Reviews,Rating 5 out of 5,40.75848203,-73.98413664,FALSE,86%
+783,"Price$100 per night",3,1,1,1,Entire loft,95 Reviews,Rating 5 out of 5,40.77406744,-73.97799612,"true,",100%
+784,"Price$99 per night",3,1,1,1,Private room in townhouse,51 Reviews,Rating 5 out of 5,40.83473396,-73.93982263,"true,",100%
+785,"Price$95 per night",2,1,1,1.5,Private room in apartment,212 Reviews,Rating 4.5 out of 5,40.77474358,-73.97886258,FALSE,100%
+786,"Price$100 per night",3,1,1,1,Entire loft,95 Reviews,Rating 5 out of 5,40.77406744,-73.97799612,"true,",100%
+787,"Price$98 per night",2,1,1,1,Entire apartment,98 Reviews,Rating 4.5 out of 5,40.72101415,-73.98904555,FALSE,100%
+788,"Price$100 per night",2,1,1,1.5,Private room in loft,130 Reviews,Rating 5 out of 5,40.70429071,-73.98773226,"true,",100%
+789,"Price$99 per night",3,1,1,1,Entire apartment,31 Reviews,Rating 4.5 out of 5,40.79598436,-73.9483776,FALSE,100%
+790,"Price$117 per night",4,studio,4,1,Entire apartment,225 Reviews,Rating 4.5 out of 5,40.74257106,-73.98207027,FALSE,100%
+791,"Price$120 per night",4,2,2,1,Entire apartment,59 Reviews,Rating 4 out of 5,40.80937197,-73.9372784,FALSE,90%
+792,"Price$110 per night",4,1,3,1,Entire apartment,36 Reviews,Rating 5 out of 5,40.76586454,-73.93342195,"true,",100%
+793,"Price$107 per night",3,1,1,1,Entire apartment,79 Reviews,Rating 4.5 out of 5,40.81133798,-73.95531183,FALSE,90%
+794,"Price$98 per night",2,1,1,2,Private room in apartment,19 Reviews,Rating 4.5 out of 5,40.79453233,-73.96472465,FALSE,100%
+795,"Price$115 per night",5,2,3,1,Entire apartment,7 Reviews,Rating 4.5 out of 5,40.76418757,-73.9894916,FALSE,100%
+796,"Price$99 per night",3,studio,2,1,Entire apartment,141 Reviews,Rating 4.5 out of 5,40.71826321,-73.99199434,FALSE,100%
+797,"Price$100 per night",5,studio,4,1,Entire apartment,58 Reviews,Rating 4.5 out of 5,40.76124541,-73.98944834,"true,",100%
+798,"Price$99 per night",4,1,2,1,Entire townhouse,103 Reviews,Rating 5 out of 5,40.81961076,-73.94582821,"true,",100%
+799,"Price$92 per night",4,1,2,1,Private room in apartment,112 Reviews,Rating 5 out of 5,40.70614025,-74.00626114,FALSE,100%
+800,"Price$105 per night",2,1,1,1,Entire apartment,140 Reviews,Rating 4.5 out of 5,40.78301441,-73.95085013,FALSE,94%
+801,"Price$105 per night",2,1,1,1,Entire apartment,95 Reviews,Rating 5 out of 5,40.77254973,-73.9545747,"true,",92%
+802,"Price$95 per night",2,1,1,1,Private room in apartment,101 Reviews,Rating 4.5 out of 5,40.73589709,-74.0019119,FALSE,83%
+803,"Price$100 per night",4,1,3,1,Entire apartment,27 Reviews,Rating 5 out of 5,40.8603888,-73.92663289,"true,",100%
+804,"Price$100 per night",3,1,2,1,Entire apartment,68 Reviews,Rating 4.5 out of 5,40.74252673,-73.95489846,FALSE,90%
+805,"Price$99 per night",4,1,2,1,Entire townhouse,103 Reviews,Rating 5 out of 5,40.81961076,-73.94582821,"true,",100%
+806,"Price$115 per night",2,1,1,1,Entire apartment,138 Reviews,Rating 4.5 out of 5,40.73495636,-73.99745714,FALSE,100%
+807,"Price$105 per night",2,1,1,1,Entire apartment,95 Reviews,Rating 5 out of 5,40.77254973,-73.9545747,"true,",92%
+808,"Price$109 per night",2,1,1,1,Private room in apartment,187 Reviews,Rating 5 out of 5,40.76112507,-73.989175,"true,",100%
+809,"Price$115 per night",4,2,3,1,Entire apartment,106 Reviews,Rating 4 out of 5,40.74931416,-73.98646173,FALSE,94%
+810,"Price$100 per night",2,1,1,1,Private room in apartment,70 Reviews,Rating 4.5 out of 5,40.74659184,-73.97866323,FALSE,100%
+811,"Price$96 per night",2,1,1,1,Private room in apartment,66 Reviews,Rating 5 out of 5,40.7640403,-73.96546624,"true,",100%
+812,"Price$112 per night",2,1,1,1,NoneType,NoneType,no rating,40.80005322,-73.94251609,"true,",no info
+813,"Price$109 per night",2,1,1,1,Entire apartment,71 Reviews,Rating 4.5 out of 5,40.74744897,-73.98707266,FALSE,100%
+814,"Price$110 per night",2,studio,1,1,Entire apartment,92 Reviews,Rating 4.5 out of 5,40.73174778,-74.00419224,FALSE,100%
+815,"Price$107 per night",4,1,1,1,Entire apartment,NoneType,no rating,40.79039764,-73.94483366,FALSE,
+816,"Price$100 per night",2,1,1,1,NoneType,NoneType,no rating,40.80705803,-73.94665294,FALSE,no info
+817,"Price$93 per night",2,studio,2,1,Entire apartment,14 Reviews,Rating 4.5 out of 5,40.75076026,-73.99587839,FALSE,95%
+818,"Price$115 per night",4,1,2,1,Entire apartment,78 Reviews,Rating 4.5 out of 5,40.75351911,-73.96807377,FALSE,100%
+819,"Price$118 per night",3,1,2,1,Private room in apartment,291 Reviews,Rating 4.5 out of 5,40.79853733,-73.96089358,FALSE,100%
+820,"Price$99 per night",5,2,3,1,Entire apartment,61 Reviews,Rating 4.5 out of 5,40.79010239,-73.95052869,FALSE,100%
+821,"Price$107 per night",5,1,3,1,Entire apartment,122 Reviews,Rating 4.5 out of 5,40.80822831,-73.94274678,FALSE,100%
+822,"Price$100 per night",2,1,2,1,Entire apartment,24 Reviews,Rating 5 out of 5,40.86733978,-73.92102408,"true,",100%
+823,"Price$109 per night",2,1,1,1,Private room in apartment,187 Reviews,Rating 5 out of 5,40.76112507,-73.989175,"true,",100%
+824,"Price$93 per night",2,studio,2,1,NoneType,NoneType,no rating,40.75076026,-73.99587839,FALSE,no info
+825,"Price$119 per night",4,1,2,1,Entire apartment,127 Reviews,Rating 4.5 out of 5,40.80020482,-73.94078993,FALSE,79%
+826,"Price$95 per night",4,studio,2,1,Entire apartment,20 Reviews,Rating 5 out of 5,40.78488175,-73.97629703,FALSE,100%
+827,"Price$107 per night",4,1,1,1,Entire apartment,NoneType,no rating,40.79039764,-73.94483366,FALSE,
+828,"Price$108 per night",5,2,3,1,Entire townhouse,62 Reviews,Rating 4.5 out of 5,40.80297239,-73.95050368,FALSE,100%
+829,"Price$100 per night",3,studio,1,1,Entire apartment,52 Reviews,Rating 4.5 out of 5,40.75909222,-73.99541595,FALSE,80%
+830,"Price$100 per night",3,1,2,1,Entire apartment,68 Reviews,Rating 4.5 out of 5,40.74252673,-73.95489846,FALSE,90%
+831,"Price$99 per night",4,2,4,1,Entire apartment,106 Reviews,Rating 4.5 out of 5,40.71462734,-73.99658046,FALSE,100%
+832,"Price$100 per night",3,studio,2,1,NoneType,48 Reviews,Rating 4.5 out of 5,40.70233808,-74.01046581,FALSE,no info
+833,"Price$100 per night",2,1,1,1,NoneType,NoneType,no rating,40.80384689,-73.96498617,FALSE,no info
+834,"Price$95 per night",4,1,2,1,Entire apartment,98 Reviews,Rating 4.5 out of 5,40.77514822,-73.95812197,FALSE,100%
+835,"Price$109 per night",4,1,2,1,NoneType,28 Reviews,Rating 4.5 out of 5,40.79172232,-73.97517526,FALSE,no info
+836,"Price$110 per night",2,1,1,1.5,Private room in bed and breakfast,7 Reviews,Rating 4.5 out of 5,40.76281976,-73.98846731,FALSE,100%
+837,"Price$99 per night",3,1,2,1,Entire apartment,161 Reviews,Rating 4.5 out of 5,40.75278945,-73.99319004,FALSE,100%
+838,"Price$109 per night",4,1,2,1,NoneType,NoneType,no rating,40.79172232,-73.97517526,FALSE,no info
+839,"Price$119 per night",2,1,1,1,Private room in apartment,101 Reviews,Rating 5 out of 5,40.76319884,-73.98874556,FALSE,80%
+840,"Price$95 per night",5,2,2,1,Entire apartment,30 Reviews,Rating 4.5 out of 5,40.7364093,-73.98892288,FALSE,100%
+841,"Price$100 per night",2,1,1,1,Private room in apartment,97 Reviews,Rating 4.5 out of 5,40.80004533,-73.95211855,FALSE,100%
+842,"Price$99 per night",2,1,1,1,Entire apartment,80 Reviews,Rating 4.5 out of 5,40.71936537,-73.98935176,FALSE,100%
+843,"Price$99 per night",2,1,1,1,Private room in apartment,146 Reviews,Rating 4.5 out of 5,40.72845189,-73.98142904,FALSE,100%
+844,"Price$100 per night",3,studio,2,1,Entire loft,48 Reviews,Rating 4.5 out of 5,40.70233808,-74.01046581,FALSE,100%
+845,"Price$120 per night",2,studio,1,1,Entire apartment,107 Reviews,Rating 5 out of 5,40.77742588,-73.98228554,"true,",100%
+846,"Price$120 per night",2,1,2,1,Private room in apartment,32 Reviews,Rating 4.5 out of 5,40.76271191,-73.96619967,FALSE,100%
+847,"Price$99 per night",6,2,4,1,Entire apartment,108 Reviews,Rating 4.5 out of 5,40.71894202,-73.99292826,FALSE,100%
+848,"Price$120 per night",2,1,1,1,Private room in apartment,95 Reviews,Rating 5 out of 5,40.76108801,-73.99304943,"true,",100%
+849,"Price$110 per night",2,studio,1,1,Private room in apartment,38 Reviews,Rating 5 out of 5,40.75774248,-73.99392427,FALSE,92%
+850,"Price$114 per night",6,2,2,1,Entire apartment,121 Reviews,Rating 4 out of 5,40.7663613,-73.95766319,FALSE,100%
+851,"Price$120 per night",2,1,1,2.5,Private room in loft,15 Reviews,Rating 4.5 out of 5,40.72195893,-74.00005951,FALSE,
+852,"Price$93 per night",1,1,1,1,Private room in apartment,70 Reviews,Rating 4.5 out of 5,40.72414861,-73.97451449,FALSE,100%
+853,"Price$95 per night",3,1,1,1,Private room in apartment,151 Reviews,Rating 5 out of 5,40.76390761,-73.99224603,"true,",100%
+854,"Price$109 per night",6,2,3,1,Entire apartment,68 Reviews,Rating 4.5 out of 5,40.80120665,-73.95329082,FALSE,100%
+855,"Price$110 per night",3,1,2,1.5,Private room in apartment,94 Reviews,Rating 5 out of 5,40.8096462,-73.94695724,FALSE,75%
+856,"Price$120 per night",2,1,1,1,Private room in loft,95 Reviews,Rating 4.5 out of 5,40.76295651,-73.98641315,FALSE,90%
+857,"Price$95 per night",5,2,2,1,Entire apartment,30 Reviews,Rating 4.5 out of 5,40.7364093,-73.98892288,FALSE,100%
+858,"Price$105 per night",4,studio,2,1,Entire apartment,136 Reviews,Rating 4.5 out of 5,40.78591945,-73.97446741,FALSE,99%
+859,"Price$99 per night",4,1,1,1,Entire apartment,169 Reviews,Rating 4.5 out of 5,40.74645147,-73.97892376,FALSE,100%
+860,"Price$105 per night",2,1,1,1,Private room in apartment,60 Reviews,Rating 5 out of 5,40.75492511,-73.98618302,"true,",100%
+861,"Price$105 per night",4,1,2,1,Entire apartment,77 Reviews,Rating 4.5 out of 5,40.80308041,-73.95572102,FALSE,100%
+862,"Price$95 per night",3,1,3,1,Private room in apartment,48 Reviews,Rating 5 out of 5,40.79367658,-73.96372759,"true,",100%
+863,"Price$114 per night",5,1,6,1,Entire apartment,96 Reviews,Rating 4.5 out of 5,40.78905893,-73.97731768,FALSE,100%
+864,"Price$115 per night",2,1,1,1,Private room in loft,150 Reviews,Rating 5 out of 5,40.70317838,-73.98780123,"true,",100%
+865,"Price$120 per night",2,1,1,1,Private room in apartment,95 Reviews,Rating 5 out of 5,40.76108801,-73.99304943,"true,",100%
+866,"Price$120 per night",3,studio,1,1,Entire apartment,26 Reviews,Rating 4.5 out of 5,40.7591722,-73.95916437,FALSE,92%
+867,"Price$97 per night",2,1,1,1,Private room in apartment,124 Reviews,Rating 5 out of 5,40.7645899,-73.99035202,FALSE,100%
+868,"Price$115 per night",3,1,1,1,Private room in apartment,166 Reviews,Rating 5 out of 5,40.76466118,-73.99324801,"true,",100%
+869,"Price$110 per night",3,1,2,1.5,Private room in apartment,94 Reviews,Rating 5 out of 5,40.8096462,-73.94695724,FALSE,75%
+870,"Price$94 per night",2,1,1,1,Private room in apartment,132 Reviews,Rating 4.5 out of 5,40.74243955,-73.98315818,FALSE,100%
+871,"Price$110 per night",2,studio,1,1,NoneType,NoneType,no rating,40.79099983,-73.97544651,FALSE,no info
+872,"Price$110 per night",4,1,2,1,Entire apartment,48 Reviews,Rating 4.5 out of 5,40.76958887,-73.95962806,FALSE,100%
+873,"Price$111 per night",2,2,2,1,Entire apartment,86 Reviews,Rating 4.5 out of 5,40.78193592,-73.98248431,FALSE,100%
+874,"Price$111 per night",2,2,2,1,Entire apartment,86 Reviews,Rating 4.5 out of 5,40.78193592,-73.98248431,FALSE,100%
+875,"Price$110 per night",2,1,1,1,Private room in apartment,105 Reviews,Rating 5 out of 5,40.76171453,-73.99154159,"true,",100%
+876,"Price$105 per night",4,studio,2,1,Entire apartment,136 Reviews,Rating 4.5 out of 5,40.78591945,-73.97446741,FALSE,99%
+877,"Price$113 per night",3,1,1,1,Entire apartment,123 Reviews,Rating 5 out of 5,40.78044776,-73.95277675,FALSE,100%
+878,"Price$99 per night",2,1,1,1,Entire apartment,99 Reviews,Rating 5 out of 5,40.82022565,-73.9284355,FALSE,100%
+879,"Price$115 per night",6,2,3,1,Entire apartment,37 Reviews,Rating 4.5 out of 5,40.76147009,-73.99061129,FALSE,100%
+880,"Price$110 per night",4,1,2,1,Entire apartment,37 Reviews,Rating 4.5 out of 5,40.79115932,-73.94729474,FALSE,
+881,"Price$105 per night",2,1,1,1,Entire apartment,20 Reviews,Rating 5 out of 5,40.81381006,-73.94549411,"true,",100%
+882,"Price$92 per night",5,1,2,1,Entire apartment,91 Reviews,Rating 4.5 out of 5,40.81064694,-73.94346883,FALSE,100%
+883,"Price$110 per night",2,studio,1,1,Entire apartment,20 Reviews,Rating 4.5 out of 5,40.79099983,-73.97544651,FALSE,100%
+884,"Price$95 per night",2,1,1,1.5,Private room in apartment,197 Reviews,Rating 4.5 out of 5,40.71271338,-73.99775589,FALSE,100%
+885,"Price$110 per night",2,1,1,1,Private room in apartment,172 Reviews,Rating 4.5 out of 5,40.72672509,-73.98004273,FALSE,100%
+886,"Price$100 per night",2,1,2,1,Entire house,104 Reviews,Rating 5 out of 5,40.81589272,-73.94648166,"true,",100%
+887,"Price$100 per night",5,1,3,1,Entire apartment,77 Reviews,Rating 4.5 out of 5,40.8122138,-73.94508321,FALSE,100%
+888,"Price$95 per night",4,1,2,1,Entire apartment,144 Reviews,Rating 4 out of 5,40.79417479,-73.94331205,FALSE,100%
+889,"Price$120 per night",3,1,2,1,Private room in apartment,79 Reviews,Rating 5 out of 5,40.71418054,-73.99238295,FALSE,
+890,"Price$100 per night",2,1,2,1,Entire house,104 Reviews,Rating 5 out of 5,40.81589272,-73.94648166,"true,",
+891,"Price$100 per night",2,1,2,1,Private room in apartment,70 Reviews,Rating 5 out of 5,40.7322043,-74.00326876,FALSE,
+892,"Price$115 per night",2,studio,1,1,Entire place,26 Reviews,Rating 4.5 out of 5,40.80941589,-73.9524585,FALSE,
+893,"Price$120 per night",4,1,2,1,Entire apartment,77 Reviews,Rating 4.5 out of 5,40.73907207,-73.99943317,FALSE,
+894,"Price$92 per night",1,1,1,1,Private room in apartment,208 Reviews,Rating 5 out of 5,40.74379518,-73.99750645,"true,",
+895,"Price$99 per night",3,1,1,1,Private room in apartment,49 Reviews,Rating 5 out of 5,40.74623999,-73.98647736,"true,",
+896,"Price$115 per night",2,1,1,1,Private room in apartment,42 Reviews,Rating 5 out of 5,40.76116474,-73.99786909,FALSE,
+897,"Price$100 per night",3,1,1,1,Entire apartment,50 Reviews,Rating 5 out of 5,40.77743963,-73.98254294,FALSE,
+898,"Price$117 per night",3,1,3,1,Private room in apartment,157 Reviews,Rating 4.5 out of 5,40.79750876,-73.96167664,FALSE,
+899,"Price$100 per night",3,studio,2,1,Entire condominium,87 Reviews,Rating 4.5 out of 5,40.80965063,-73.93911869,FALSE,
+900,"Price$104 per night",6,3,3,1,Entire apartment,87 Reviews,Rating 4.5 out of 5,40.80450303,-73.9485906,FALSE,
+901,"Price$102 per night",2,studio,1,1,Entire apartment,101 Reviews,Rating 4.5 out of 5,40.71890465,-73.99182092,FALSE,
+902,"Price$115 per night",1,1,1,1,Private room in apartment,72 Reviews,Rating 5 out of 5,40.76015769,-73.99205097,"true,",
+903,"Price$110 per night",2,1,1,1,Entire apartment,82 Reviews,Rating 4.5 out of 5,40.78386674,-73.97572723,FALSE,
+904,"Price$120 per night",3,studio,1,1,Entire apartment,28 Reviews,Rating 4.5 out of 5,40.71490979,-74.01091578,FALSE,
+905,"Price$115 per night",2,1,1,1,Private room in apartment,63 Reviews,Rating 5 out of 5,40.79656728,-73.96239887,"true,",
+906,"Price$100 per night",4,1,2,1,Entire apartment,59 Reviews,Rating 5 out of 5,40.8049324,-73.95676872,"true,",
+907,"Price$120 per night",6,2,3,1,Entire apartment,19 Reviews,Rating 4.5 out of 5,40.70495773,-74.01613556,FALSE,
+908,"Price$120 per night",6,2,3,1,Entire apartment,19 Reviews,Rating 4.5 out of 5,40.70495773,-74.01613556,FALSE,
+909,"Price$98 per night",2,1,2,1,Private room in serviced apartment,16 Reviews,Rating 5 out of 5,40.75312881,-73.99530531,"true,",
+910,"Price$100 per night",4,studio,2,1,Entire apartment,41 Reviews,Rating 4.5 out of 5,40.74826536,-73.98865782,FALSE,
+911,"Price$99 per night",3,studio,1,1,Entire apartment,2 Reviews,no rating,40.79392234,-73.9728827,FALSE,
+912,"Price$115 per night",2,1,1,1,Private room in apartment,63 Reviews,Rating 5 out of 5,40.79656728,-73.96239887,"true,",
+913,"Price$115 per night",2,1,1,1,Private room in loft,150 Reviews,Rating 5 out of 5,40.70317838,-73.98780123,"true,",
+914,"Price$95 per night",2,1,1,1,Private room in apartment,16 Reviews,Rating 5 out of 5,40.79093049,-73.97624478,FALSE,
+915,"Price$115 per night",4,studio,1,1,Entire apartment,72 Reviews,Rating 4.5 out of 5,40.79846671,-73.96791842,FALSE,
+916,"Price$95 per night",1,1,1,1,Private room in apartment,52 Reviews,Rating 5 out of 5,40.73684347,-73.98057939,"true,",
+917,"Price$110 per night",5,1,3,1,Entire condominium,17 Reviews,Rating 5 out of 5,40.80563387,-73.95553059,FALSE,
+918,"Price$99 per night",4,1,2,1,Entire apartment,210 Reviews,Rating 5 out of 5,40.80709063,-73.9495181,FALSE,
+919,"Price$109 per night",1,1,1,1,Private room in apartment,69 Reviews,Rating 5 out of 5,40.74475616,-74.00312502,FALSE,
+920,"Price$110 per night",3,studio,2,1,NoneType,NoneType,no rating,40.80481087,-73.94794454,FALSE,no info
+921,"Price$98 per night",2,1,1,1,Private room in townhouse,149 Reviews,Rating 5 out of 5,40.81904473,-73.94325286,"true,",
+922,"Price$110 per night",2,1,1,1,NoneType,NoneType,no rating,40.80775787,-73.96539738,"true,",no info
+923,"Price$117 per night",3,1,3,1,Private room in apartment,157 Reviews,Rating 4.5 out of 5,40.79750876,-73.96167664,FALSE,
+924,"Price$108 per night",2,1,1,1,Private room in apartment,113 Reviews,Rating 5 out of 5,40.73158224,-73.98302625,"true,",
+925,"Price$120 per night",2,1,1,1,Entire apartment,75 Reviews,Rating 5 out of 5,40.81051349,-73.9472252,"true,",
