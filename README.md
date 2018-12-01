@@ -7,10 +7,8 @@
 <b>Our project is to</b> build a system that recommends price of an Airbnb apartment based on its features using a regression model. It can be used by Airbnb clients to compare the price of 
 a specific apartment with the suggested price and also used by new hosts to price their apartments.
 
-#Your README needs to include:
-
 Installation instructions (if any besides cloning the repo)
-Python packages should be listed appropriately in requirements.txt
+Python packages are also listed in the requirements.txt
 Run instructions
 What do I need to type to get your program to do its thing
 
