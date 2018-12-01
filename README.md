@@ -9,7 +9,8 @@ a specific apartment with the suggested price and also used by new hosts to pric
 
 Installation instructions (if any besides cloning the repo)
 - Python packages are also listed in the requirements.txt
-- Run instructions
+
+Run instructions
 - What do I need to type to get your program to do its thing
 
 
