@@ -97,9 +97,9 @@ There is also detailed instruction for windows users.
 
 #### sklearn
   * If you already have working installation of numpy and scipy, the easiest way to install scikit-learn is
-'''
+```
 pip install -U scikit-learn
-'''
+```
   * or conda
 ```
 conda install scikit-learn
