@@ -1,1294 +1,0 @@
-,price,accommodates,bedrooms,beds,bathrooms,room_type,number_of_reviews,rating,lat,lon,superhost,response_rate
-0,"Price$250 per night",4,1,2,1,Entire apartment,165 Reviews,Rating 5 out of 5,40.79876867,-73.96258694,"true,",100%
-1,"Price$239 per night",9,2,6,2,Entire apartment,322 Reviews,Rating 4.5 out of 5,40.7293922,-73.98857291,FALSE,64%
-2,"Price$244 per night",6,2,2,2,NoneType,NoneType,no rating,40.76318062,-73.99718494,"true,",no info
-3,"Price$264 per night",2,1,1,1,Entire apartment,61 Reviews,Rating 5 out of 5,40.74865691,-73.9898648,FALSE,100%
-4,"Price$250 per night",6,2,3,1,Entire apartment,83 Reviews,Rating 4.5 out of 5,40.80060276,-73.96111269,FALSE,80%
-5,"Price$232 per night",6,2,3,1,Entire apartment,62 Reviews,Rating 5 out of 5,40.76715949,-73.9877905,"true,",100%
-6,"Price$240 per night",3,studio,2,1,Entire serviced apartment,37 Reviews,Rating 5 out of 5,40.70393906,-74.00588612,FALSE,95%
-7,"Price$254 per night",7,2,4,2,Entire apartment,158 Reviews,Rating 5 out of 5,40.72120492,-73.99422456,"true,",100%
-8,"Price$250 per night",4,2,2,1,Entire apartment,269 Reviews,Rating 4.5 out of 5,40.75305073,-73.99925678,"true,",100%
-9,"Price$245 per night",6,2,3,2,Entire serviced apartment,144 Reviews,Rating 4.5 out of 5,40.73743689,-73.98413165,FALSE,100%
-10,"Price$255 per night",5,1,2,1,Entire apartment,123 Reviews,Rating 5 out of 5,40.72147515,-73.99542555,"true,",100%
-11,"Price$238 per night",8,3,4,2,Entire condominium,94 Reviews,Rating 5 out of 5,40.77091193,-73.96079166,FALSE,100%
-12,"Price$249 per night",6,2,3,1,Entire apartment,95 Reviews,Rating 4.5 out of 5,40.76592873,-73.97826668,FALSE,100%
-13,"Price$250 per night",6,2,3,1,Entire apartment,158 Reviews,Rating 4.5 out of 5,40.70430203,-73.98667192,FALSE,100%
-14,"Price$250 per night",3,studio,2,1,Entire apartment,119 Reviews,Rating 4.5 out of 5,40.75258539,-73.97060573,FALSE,100%
-15,"Price$237 per night",4,1,2,1,Entire apartment,14 Reviews,Rating 5 out of 5,40.76045849,-73.99761795,FALSE,100%
-16,"Price$258 per night",3,1,3,1.5,Entire apartment,12 Reviews,Rating 5 out of 5,40.75926008,-73.99836821,FALSE,100%
-17,"Price$239 per night",5,2,2,1.5,Entire apartment,89 Reviews,Rating 4.5 out of 5,40.77856146,-73.955191,FALSE,70%
-18,"Price$260 per night",6,2,2,1,Entire apartment,32 Reviews,Rating 4 out of 5,40.79487099,-73.96787264,FALSE,100%
-19,"Price$250 per night",2,1,2,1,Entire apartment,124 Reviews,Rating 5 out of 5,40.79433318,-73.97650392,"true,",100%
-20,"Price$246 per night",6,2,3,2,Entire serviced apartment,88 Reviews,Rating 4.5 out of 5,40.7437088,-73.98205239,"true,",
-21,"Price$259 per night",3,2,2,1,Entire apartment,59 Reviews,Rating 5 out of 5,40.76039203,-73.99028484,"true,",100%
-22,"Price$239 per night",7,4,4,1,Entire condominium,108 Reviews,Rating 4.5 out of 5,40.72421873,-73.99811304,FALSE,100%
-23,"Price$249 per night",4,1,2,1,Entire apartment,52 Reviews,Rating 5 out of 5,40.76415118,-73.96944789,FALSE,100%
-24,"Price$250 per night",6,3,3,1,Entire apartment,94 Reviews,Rating 4.5 out of 5,40.75980895,-73.99070693,FALSE,100%
-25,"Price$240 per night",7,2,2,1.5,Entire apartment,98 Reviews,Rating 4.5 out of 5,40.71911585,-73.98318771,"true,",100%
-26,"Price$240 per night",6,3,3,1.5,Entire apartment,55 Reviews,Rating 4.5 out of 5,40.74926734,-73.99264367,FALSE,100%
-27,"Price$265 per night",4,1,1,1,Entire apartment,109 Reviews,Rating 4.5 out of 5,40.73295755,-74.0023513,FALSE,70%
-28,"Price$239 per night",0,4,6,1,Entire condominium,37 Reviews,Rating 4.5 out of 5,40.74486447,-73.99697116,FALSE,95%
-29,"Price$260 per night",5,2,3,1,Entire apartment,94 Reviews,Rating 4.5 out of 5,40.76149261,-73.99159388,FALSE,92%
-30,"Price$270 per night",4,studio,2,1,Entire loft,178 Reviews,Rating 5 out of 5,40.7440599,-73.98272731,"true,",100%
-31,"Price$265 per night",4,1,2,1,Entire apartment,70 Reviews,Rating 4.5 out of 5,40.76102747,-73.9900097,"true,",100%
-32,"Price$255 per night",6,2,3,1,Entire loft,67 Reviews,Rating 5 out of 5,40.79576722,-73.93620017,FALSE,100%
-33,"Price$250 per night",4,1,2,1,Entire apartment,87 Reviews,Rating 5 out of 5,40.76720099,-73.98507509,"true,",100%
-34,"Price$245 per night",6,3,4,1,Entire apartment,91 Reviews,Rating 4.5 out of 5,40.75659913,-73.97165423,FALSE,88%
-35,"Price$250 per night",4,1,1,1,Entire apartment,67 Reviews,Rating 4.5 out of 5,40.75246128,-73.97170934,FALSE,100%
-36,"Price$260 per night",5,2,2,1,NoneType,NoneType,no rating,40.72752151,-74.00275598,FALSE,no info
-37,"Price$255 per night",6,2,3,1,Entire serviced apartment,37 Reviews,Rating 5 out of 5,40.74317388,-73.98605493,FALSE,100%
-38,"Price$250 per night",4,1,1,1,Entire apartment,67 Reviews,Rating 4.5 out of 5,40.75246128,-73.97170934,FALSE,100%
-39,"Price$260 per night",5,2,3,1,Entire apartment,94 Reviews,Rating 4.5 out of 5,40.76149261,-73.99159388,FALSE,92%
-40,"Price$254 per night",6,3,4,2,Entire loft,99 Reviews,Rating 4.5 out of 5,40.7732581,-73.95418072,FALSE,100%
-41,"Price$250 per night",2,studio,1,1,Entire apartment,40 Reviews,Rating 5 out of 5,40.73580361,-73.98890258,"true,",100%
-42,"Price$260 per night",8,1,2,1,Entire loft,79 Reviews,Rating 4.5 out of 5,40.74459451,-73.99290577,FALSE,100%
-43,"Price$250 per night",4,2,2,1,Entire apartment,78 Reviews,Rating 5 out of 5,40.7317806,-74.00173086,"true,",100%
-44,"Price$239 per night",8,3,4,2,Entire apartment,51 Reviews,Rating 4.5 out of 5,40.80033517,-73.96105569,FALSE,100%
-45,"Price$250 per night",4,1,2,1,Entire apartment,46 Reviews,Rating 5 out of 5,40.73948878,-73.99801203,FALSE,100%
-46,"Price$239 per night",7,3,4,1,Entire apartment,65 Reviews,Rating 4.5 out of 5,40.73955873,-73.98581193,FALSE,100%
-47,"Price$260 per night",5,2,2,2,Entire apartment,23 Reviews,Rating 4.5 out of 5,40.77396032,-73.98420278,FALSE,100%
-48,"Price$249 per night",2,1,1,1,Entire condominium,3 Reviews,Rating 5 out of 5,40.75827489,-73.99367986,FALSE,86%
-49,"Price$249 per night",6,2,5,1,NoneType,NoneType,no rating,40.75864123,-73.99056296,"true,",no info
-50,"Price$234 per night",6,2,3,1,Entire apartment,33 Reviews,Rating 5 out of 5,40.74320938,-73.99994172,FALSE,100%
-51,"Price$247 per night",0,3,4,2,Entire apartment,107 Reviews,Rating 4.5 out of 5,40.72279115,-73.98174777,FALSE,100%
-52,"Price$245 per night",6,2,3,1,Entire apartment,72 Reviews,Rating 4.5 out of 5,40.74358051,-73.9780958,FALSE,100%
-53,"Price$249 per night",3,2,2,1,Entire apartment,97 Reviews,Rating 5 out of 5,40.72558029,-73.97928892,"true,",100%
-54,"Price$254 per night",6,2,2,1,Entire apartment,39 Reviews,Rating 4.5 out of 5,40.75179051,-73.9919095,FALSE,100%
-55,"Price$249 per night",6,2,3,1,Entire apartment,133 Reviews,Rating 4.5 out of 5,40.79461603,-73.94923085,FALSE,86%
-56,"Price$250 per night",4,2,2,2,NoneType,85 Reviews,Rating 4.5 out of 5,40.7209234,-73.99386145,FALSE,no info
-57,"Price$260 per night",2,1,1,1,Entire serviced apartment,10 Reviews,Rating 5 out of 5,40.73798534,-73.97821029,FALSE,95%
-58,"Price$233 per night",5,2,4,1,Entire loft,25 Reviews,Rating 5 out of 5,40.7353932,-73.99547256,FALSE,100%
-59,"Price$249 per night",6,2,6,1,Entire apartment,31 Reviews,Rating 4.5 out of 5,40.74463713,-73.98036686,FALSE,75%
-60,"Price$240 per night",4,studio,2,1,Entire apartment,25 Reviews,Rating 5 out of 5,40.78725747,-73.96867241,"true,",100%
-61,"Price$240 per night",6,3,3,1,Entire apartment,104 Reviews,Rating 4.5 out of 5,40.75695448,-73.99321526,FALSE,100%
-62,"Price$250 per night",6,2,3,1,Entire townhouse,47 Reviews,Rating 4.5 out of 5,40.74023397,-74.00269702,FALSE,100%
-63,"Price$248 per night",4,2,2,1,Entire condominium,119 Reviews,Rating 4 out of 5,40.76546319,-73.98657581,FALSE,100%
-64,"Price$250 per night",4,2,3,1,Entire apartment,40 Reviews,Rating 5 out of 5,40.80933938,-73.95457132,"true,",92%
-65,"Price$239 per night",1,5,6,2,Entire apartment,45 Reviews,Rating 4.5 out of 5,40.79459137,-73.9635663,FALSE,100%
-66,"Price$239 per night",2,1,1,1,Entire apartment,54 Reviews,Rating 5 out of 5,40.73432029,-73.99720333,"true,",100%
-67,"Price$239 per night",2,studio,1,1,Entire apartment,39 Reviews,Rating 5 out of 5,40.74445644,-73.98044278,"true,",100%
-68,"Price$239 per night",2,1,1,1,Entire apartment,54 Reviews,Rating 5 out of 5,40.73432029,-73.99720333,"true,",100%
-69,"Price$245 per night",6,1,4,1.5,Entire apartment,61 Reviews,Rating 4.5 out of 5,40.73829012,-73.97895739,FALSE,100%
-70,"Price$254 per night",5,2,4,1,Entire apartment,34 Reviews,Rating 4.5 out of 5,40.76087743,-73.98825237,FALSE,100%
-71,"Price$253 per night",6,3,4,2,Entire apartment,127 Reviews,Rating 4.5 out of 5,40.75952988,-73.99225014,FALSE,100%
-72,"Price$240 per night",3,2,2,1,Private room in townhouse,53 Reviews,Rating 5 out of 5,40.78974592,-73.97153949,"true,",100%
-73,"Price$249 per night",3,1,1,1,Entire apartment,98 Reviews,Rating 5 out of 5,40.7381365,-74.00046731,"true,",100%
-74,"Price$250 per night",4,1,2,1,Entire loft,15 Reviews,Rating 4.5 out of 5,40.76492614,-73.98652151,FALSE,100%
-75,"Price$250 per night",4,2,2,1,NoneType,NoneType,no rating,40.72784441,-73.98883496,"true,",no info
-76,"Price$249 per night",2,1,2,1,Entire apartment,121 Reviews,Rating 5 out of 5,40.76472064,-73.98813411,"true,",100%
-77,"Price$240 per night",7,2,2,2,Entire apartment,3 Reviews,Rating 4.5 out of 5,40.77440352,-73.98740479,FALSE,100%
-78,"Price$244 per night",4,2,2,1,Entire apartment,6 Reviews,Rating 5 out of 5,40.78366281,-73.97156079,FALSE,100%
-79,"Price$249 per night",6,3,3,1,Entire apartment,52 Reviews,Rating 4.5 out of 5,40.76875574,-73.98358929,FALSE,100%
-80,"Price$259 per night",2,1,1,1,Entire loft,95 Reviews,Rating 5 out of 5,40.71882423,-73.98851524,"true,",100%
-81,"Price$250 per night",6,3,3,2,Entire apartment,34 Reviews,Rating 4.5 out of 5,40.73872304,-73.98196501,FALSE,100%
-82,"Price$236 per night",6,2,2,1,Entire apartment,87 Reviews,Rating 4.5 out of 5,40.72069045,-73.99473453,FALSE,100%
-83,"Price$249 per night",6,2,3,1,Entire serviced apartment,108 Reviews,Rating 4.5 out of 5,40.74340923,-73.98950413,"true,",100%
-84,"Price$239 per night",6,2,3,1,Entire serviced apartment,30 Reviews,Rating 4.5 out of 5,40.74240544,-73.98079927,FALSE,100%
-85,"Price$240 per night",3,studio,0,1,NoneType,NoneType,no rating,40.79094097,-73.97459135,"true,",no info
-86,"Price$259 per night",2,1,1,1,Entire loft,95 Reviews,Rating 5 out of 5,40.71882423,-73.98851524,"true,",100%
-87,"Price$266 per night",0,3,3,1,Entire apartment,10 Reviews,Rating 5 out of 5,40.74580919,-73.97839584,FALSE,100%
-88,"Price$250 per night",3,1,2,1,NoneType,12 Reviews,Rating 5 out of 5,40.7624317,-73.99804755,FALSE,no info
-89,"Price$250 per night",8,3,4,1,Entire apartment,26 Reviews,Rating 5 out of 5,40.76200696,-73.99098556,"true,",100%
-90,"Price$239 per night",2,studio,1,1,Entire loft,26 Reviews,Rating 5 out of 5,40.72749841,-73.99167706,FALSE,100%
-91,"Price$265 per night",8,3,3,2,Entire apartment,13 Reviews,Rating 5 out of 5,40.76306673,-73.99404233,FALSE,100%
-92,"Price$240 per night",7,2,4,1,Entire apartment,50 Reviews,Rating 4.5 out of 5,40.7272709,-73.9995605,FALSE,
-93,"Price$249 per night",6,3,3,1,Entire apartment,52 Reviews,Rating 4.5 out of 5,40.76875574,-73.98358929,FALSE,100%
-94,"Price$249 per night",6,2,3,1,Entire apartment,52 Reviews,Rating 5 out of 5,40.77850546,-73.9498543,"true,",100%
-95,"Price$245 per night",2,1,1,1,Entire apartment,14 Reviews,Rating 5 out of 5,40.73933707,-73.98076789,FALSE,100%
-96,"Price$235 per night",7,3,4,1,Entire apartment,25 Reviews,Rating 5 out of 5,40.7581531,-73.98779766,FALSE,100%
-97,"Price$239 per night",0,3,3,2,Entire townhouse,55 Reviews,Rating 5 out of 5,40.72808585,-73.98187824,"true,",100%
-98,"Price$273 per night",8,3,4,1.5,Entire apartment,16 Reviews,Rating 4.5 out of 5,40.75927878,-73.96951777,"true,",100%
-99,"Price$240 per night",5,1,2,1,Entire apartment,64 Reviews,Rating 5 out of 5,40.73852879,-73.99488238,"true,",100%
-100,"Price$245 per night",5,2,3,1,Entire apartment,70 Reviews,Rating 4.5 out of 5,40.74513122,-73.98019413,FALSE,90%
-101,"Price$260 per night",2,1,1,1,Entire apartment,19 Reviews,Rating 5 out of 5,40.71311682,-73.99033053,FALSE,100%
-102,"Price$240 per night",3,1,1,1,Entire loft,6 Reviews,Rating 5 out of 5,40.73245012,-74.01079997,FALSE,80%
-103,"Price$260 per night",6,3,3,2,Entire guest suite,64 Reviews,Rating 5 out of 5,40.79121198,-73.969629,"true,",100%
-104,"Price$250 per night",4,2,2,1,Entire condominium,28 Reviews,Rating 5 out of 5,40.72013531,-73.9926849,"true,",100%
-105,"Price$243 per night",6,2,2,2,Entire apartment,12 Reviews,Rating 5 out of 5,40.74678423,-73.97220906,FALSE,100%
-106,"Price$250 per night",2,studio,2,1,Entire apartment,4 Reviews,Rating 4.5 out of 5,40.78278228,-73.9482033,FALSE,100%
-107,"Price$249 per night",6,2,2,1,Entire apartment,160 Reviews,Rating 4.5 out of 5,40.72577361,-73.98744857,FALSE,
-108,"Price$250 per night",5,2,4,1,Entire house,62 Reviews,Rating 5 out of 5,40.78273461,-73.97552624,FALSE,
-109,"Price$250 per night",6,2,3,1,Entire apartment,6 Reviews,Rating 4.5 out of 5,40.76193685,-73.98580793,FALSE,
-110,"Price$265 per night",4,1,1,1,Entire loft,7 Reviews,Rating 5 out of 5,40.76330627,-73.96108194,FALSE,
-111,"Price$255 per night",2,1,1,1,Entire apartment,3 Reviews,Rating 5 out of 5,40.75439455,-73.99703173,FALSE,
-112,"Price$249 per night",2,1,1,1,Entire apartment,26 Reviews,Rating 5 out of 5,40.73548224,-74.00497057,"true,",
-113,"Price$240 per night",6,2,3,1,Entire apartment,48 Reviews,Rating 5 out of 5,40.82174588,-73.94521299,"true,",
-114,"Price$235 per night",8,3,3,2,Entire apartment,10 Reviews,Rating 4.5 out of 5,40.76158715,-73.99424758,FALSE,
-115,"Price$250 per night",4,studio,3,1,Entire apartment,9 Reviews,Rating 4.5 out of 5,40.76619629,-73.98612349,FALSE,
-116,"Price$269 per night",8,3,4,1,Entire apartment,7 Reviews,Rating 4.5 out of 5,40.75147166,-73.98037294,FALSE,
-117,"Price$249 per night",6,2,2,1,Entire apartment,13 Reviews,Rating 4.5 out of 5,40.76525933,-73.99057629,FALSE,
-118,"Price$249 per night",6,2,3,1,Entire apartment,9 Reviews,Rating 5 out of 5,40.75580492,-73.97189951,FALSE,100%
-119,"Price$249 per night",5,2,2,2,Entire apartment,14 Reviews,Rating 5 out of 5,40.72063671,-73.97979963,"true,",100%
-120,"Price$270 per night",4,1,3,1,NoneType,NoneType,no rating,40.75978325,-73.99245634,"true,",no info
-121,"Price$250 per night",4,2,1,1,Entire loft,NoneType,no rating,40.75551183,-73.99236224,FALSE,100%
-122,"Price$249 per night",6,2,2,1,Entire apartment,160 Reviews,Rating 4.5 out of 5,40.72577361,-73.98744857,FALSE,99%
-123,"Price$249 per night",4,1,1,1,Entire serviced apartment,23 Reviews,Rating 5 out of 5,40.72707968,-73.97809031,"true,",100%
-124,"Price$250 per night",4,2,2,1,Entire apartment,41 Reviews,Rating 5 out of 5,40.75452544,-73.99526437,FALSE,100%
-125,"Price$240 per night",6,3,3,1,Entire apartment,49 Reviews,Rating 4.5 out of 5,40.75785029,-73.99202514,FALSE,100%
-126,"Price$249 per night",5,2,2,1,Entire apartment,61 Reviews,Rating 5 out of 5,40.72537898,-73.9834534,"true,",100%
-127,"Price$249 per night",8,3,4,1,Entire apartment,34 Reviews,Rating 4.5 out of 5,40.74407309,-73.97761427,FALSE,100%
-128,"Price$250 per night",6,2,2,1,NoneType,NoneType,no rating,40.72685649,-73.9842573,FALSE,no info
-129,"Price$259 per night",2,4,6,1.5,Entire house,49 Reviews,Rating 5 out of 5,40.74406722,-73.99365588,"true,",100%
-130,"Price$240 per night",4,studio,2,1,Entire apartment,15 Reviews,Rating 5 out of 5,40.73383967,-74.00819174,FALSE,100%
-131,"Price$260 per night",2,1,1,1,Entire apartment,35 Reviews,Rating 5 out of 5,40.74042306,-73.98139482,"true,",100%
-132,"Price$260 per night",3,1,1,1,Entire apartment,7 Reviews,Rating 3.5 out of 5,40.76001205,-74.00057835,FALSE,100%
-133,"Price$249 per night",2,5,6,1.5,Entire loft,4 Reviews,Rating 5 out of 5,40.72925068,-73.98398528,FALSE,100%
-134,"Price$240 per night",4,studio,2,1,Entire apartment,15 Reviews,Rating 5 out of 5,40.73383967,-74.00819174,FALSE,100%
-135,"Price$240 per night",3,1,2,1,Entire condominium,40 Reviews,Rating 5 out of 5,40.76167539,-73.99490461,"true,",100%
-136,"Price$272 per night",6,2,2,1,Entire apartment,56 Reviews,Rating 4.5 out of 5,40.72305312,-73.9951924,FALSE,100%
-137,"Price$245 per night",2,studio,1,1,Entire apartment,14 Reviews,Rating 5 out of 5,40.73463192,-73.9979572,FALSE,100%
-138,"Price$259 per night",7,2,2,1,Entire apartment,40 Reviews,Rating 5 out of 5,40.76521236,-73.98775652,"true,",90%
-139,"Price$235 per night",2,studio,1,1,Entire apartment,48 Reviews,Rating 5 out of 5,40.70641606,-74.01756364,"true,",100%
-140,"Price$260 per night",2,1,1,1,Entire apartment,35 Reviews,Rating 5 out of 5,40.74042306,-73.98139482,"true,",100%
-141,"Price$250 per night",3,1,2,1,Entire condominium,14 Reviews,Rating 5 out of 5,40.74883696,-73.99384108,FALSE,100%
-142,"Price$250 per night",5,2,3,2,Entire apartment,60 Reviews,Rating 5 out of 5,40.76597406,-73.98378991,"true,",100%
-143,"Price$250 per night",4,2,2,1,NoneType,NoneType,no rating,40.78789743,-73.94795878,FALSE,no info
-144,"Price$250 per night",5,1,2,1,Entire apartment,51 Reviews,Rating 4.5 out of 5,40.7362438,-74.00310603,FALSE,100%
-145,"Price$250 per night",4,studio,2,1,Entire townhouse,33 Reviews,Rating 4.5 out of 5,40.77655134,-73.95975352,FALSE,60%
-146,"Price$269 per night",4,1,2,1,Entire condominium,10 Reviews,Rating 4.5 out of 5,40.77035286,-73.99084049,FALSE,100%
-147,"Price$254 per night",8,3,3,1,Entire apartment,3 Reviews,Rating 4 out of 5,40.76276974,-73.99161038,FALSE,100%
-148,"Price$254 per night",8,3,3,1,Entire apartment,3 Reviews,Rating 4 out of 5,40.76276974,-73.99161038,FALSE,100%
-149,"Price$250 per night",5,1,1,1,Entire apartment,1 Review,no rating,40.77547998,-73.98964501,FALSE,100%
-150,"Price$250 per night",5,2,3,2,Entire apartment,19 Reviews,Rating 5 out of 5,40.78130115,-73.98318602,FALSE,100%
-151,"Price$235 per night",4,1,2,1,Entire apartment,22 Reviews,Rating 5 out of 5,40.78606952,-73.97346511,FALSE,80%
-152,"Price$274 per night",6,2,2,1.5,Entire apartment,5 Reviews,Rating 5 out of 5,40.75224058,-73.96526435,FALSE,100%
-153,"Price$250 per night",5,2,2,2,Entire apartment,20 Reviews,Rating 5 out of 5,40.70771341,-74.00228563,"true,",100%
-154,"Price$237 per night",7,3,4,1,Entire apartment,69 Reviews,Rating 4.5 out of 5,40.7564966,-73.96846841,FALSE,100%
-155,"Price$250 per night",4,1,2,1,Entire apartment,13 Reviews,Rating 5 out of 5,40.74871343,-74.00055672,FALSE,88%
-156,"Price$250 per night",6,2,2,2,NoneType,NoneType,no rating,40.744615,-73.97305738,FALSE,no info
-157,"Price$249 per night",6,2,2,1,Entire apartment,32 Reviews,Rating 4.5 out of 5,40.76376111,-73.99276312,FALSE,100%
-158,"Price$269 per night",5,2,4,1,Entire apartment,11 Reviews,Rating 5 out of 5,40.79141275,-73.9684031,"true,",100%
-159,"Price$242 per night",4,2,4,1,Entire apartment,1 Review,no rating,40.74999341,-73.97683528,FALSE,90%
-160,"Price$232 per night",8,3,3,2,Entire apartment,15 Reviews,Rating 4.5 out of 5,40.76521226,-73.98722682,FALSE,100%
-161,"Price$235 per night",4,1,1,1,Entire apartment,3 Reviews,Rating 4.5 out of 5,40.74404112,-73.9826293,FALSE,100%
-162,"Price$270 per night",2,studio,1,1,Entire apartment,18 Reviews,Rating 5 out of 5,40.75997088,-73.99923167,FALSE,90%
-163,"Price$263 per night",8,2,3,1,Entire apartment,36 Reviews,Rating 4.5 out of 5,40.72686324,-73.98092332,FALSE,100%
-164,"Price$235 per night",2,1,1,2,Entire apartment,NoneType,no rating,40.73247038,-74.00879591,FALSE,100%
-165,"Price$250 per night",4,2,4,1,Entire serviced apartment,10 Reviews,Rating 5 out of 5,40.79769693,-73.93493101,FALSE,100%
-166,"Price$250 per night",2,studio,1,1,Entire apartment,12 Reviews,Rating 5 out of 5,40.73654627,-74.0022638,FALSE,100%
-167,"Price$239 per night",3,1,2,1,Entire apartment,NoneType,no rating,40.7596952,-73.99725668,FALSE,80%
-168,"Price$240 per night",3,1,1,1,Entire serviced apartment,NoneType,no rating,40.75866922,-73.96349403,FALSE,100%
-169,"Price$250 per night",3,1,2,1,Entire apartment,7 Reviews,Rating 4.5 out of 5,40.75864422,-73.97035235,FALSE,100%
-170,"Price$250 per night",5,1,2,1,Entire apartment,NoneType,no rating,40.76027318,-73.98623386,FALSE,100%
-171,"Price$260 per night",5,2,4,1,Entire apartment,23 Reviews,Rating 4.5 out of 5,40.72189048,-73.98219332,FALSE,90%
-172,"Price$250 per night",6,2,3,2,Entire apartment,5 Reviews,Rating 5 out of 5,40.75473544,-73.96323752,FALSE,100%
-173,"Price$240 per night",4,1,1,1,Entire apartment,27 Reviews,Rating 5 out of 5,40.76283581,-73.97903974,"true,",100%
-174,"Price$248 per night",2,1,1,1,Entire apartment,5 Reviews,Rating 5 out of 5,40.72786392,-74.00500449,FALSE,100%
-175,"Price$250 per night",6,3,0,2,Entire townhouse,34 Reviews,Rating 5 out of 5,40.79736995,-73.93185232,FALSE,100%
-176,"Price$250 per night",5,2,4,2,Entire apartment,8 Reviews,Rating 5 out of 5,40.76586543,-73.98959839,FALSE,91%
-177,"Price$250 per night",2,studio,1,1,Entire apartment,1 Review,no rating,40.76226064,-73.9853739,FALSE,100%
-178,"Price$240 per night",4,2,2,1,Entire apartment,37 Reviews,Rating 5 out of 5,40.71251525,-73.96663995,"true,",100%
-179,"Price$235 per night",7,3,6,1,Entire apartment,17 Reviews,Rating 4 out of 5,40.7999937,-73.9548306,FALSE,100%
-180,"Price$265 per night",3,1,2,1,Entire apartment,16 Reviews,Rating 4.5 out of 5,40.72602198,-74.00115909,FALSE,100%
-181,"Price$245 per night",1,5,6,4,Entire house,127 Reviews,Rating 5 out of 5,40.82931273,-73.94358219,"true,",100%
-182,"Price$260 per night",4,2,2,1,Entire apartment,5 Reviews,Rating 4 out of 5,40.72979623,-73.99838279,FALSE,100%
-183,"Price$250 per night",6,2,2,2,Entire apartment,NoneType,no rating,40.75455145,-73.96474162,FALSE,100%
-184,"Price$240 per night",8,3,5,2,NoneType,NoneType,no rating,40.72873239,-73.98758745,FALSE,no info
-185,"Price$232 per night",2,5,6,2,Entire loft,15 Reviews,Rating 4.5 out of 5,40.73407491,-74.00089293,FALSE,100%
-186,"Price$270 per night",6,2,4,1,Entire apartment,14 Reviews,Rating 4.5 out of 5,40.78285812,-73.98339151,FALSE,100%
-187,"Price$268 per night",4,1,2,1,Entire apartment,51 Reviews,Rating 4.5 out of 5,40.73358115,-74.00701307,FALSE,100%
-188,"Price$258 per night",6,2,4,1,NoneType,NoneType,no rating,40.73604981,-74.00257939,FALSE,no info
-189,"Price$240 per night",6,2,3,1,Private room in apartment,58 Reviews,Rating 5 out of 5,40.76247166,-73.99294184,"true,",100%
-190,"Price$249 per night",2,1,1,1,Entire loft,3 Reviews,Rating 4.5 out of 5,40.72436244,-73.98235373,FALSE,83%
-191,"Price$262 per night",4,4,5,2,Entire apartment,21 Reviews,Rating 4.5 out of 5,40.72603257,-73.98982383,FALSE,100%
-192,"Price$244 per night",5,2,2,1,Entire apartment,8 Reviews,Rating 5 out of 5,40.77941096,-73.98798272,FALSE,100%
-193,"Price$250 per night",5,2,2,2,Entire apartment,NoneType,no rating,40.75587233,-73.96493477,FALSE,100%
-194,"Price$249 per night",6,2,3,1,Entire apartment,70 Reviews,Rating 5 out of 5,40.79903297,-73.96450953,"true,",100%
-195,"Price$267 per night",2,1,1,1,Entire apartment,16 Reviews,Rating 5 out of 5,40.7421635,-73.99672599,"true,",100%
-196,"Price$262 per night",2,1,1,1,Entire apartment,NoneType,no rating,40.74820226,-73.98776221,FALSE,96%
-197,"Price$250 per night",3,studio,2,1,Entire serviced apartment,3 Reviews,Rating 4.5 out of 5,40.7416056,-73.99435367,FALSE,80%
-198,"Price$260 per night",6,2,4,1,Entire apartment,1 Review,no rating,40.74618016,-73.98562714,FALSE,100%
-199,"Price$240 per night",8,3,4,1,Entire loft,7 Reviews,Rating 4.5 out of 5,40.75510479,-73.99201174,FALSE,100%
-200,"Price$240 per night",8,3,4,1,Entire loft,7 Reviews,Rating 4.5 out of 5,40.75510479,-73.99201174,FALSE,100%
-201,"Price$255 per night",2,1,2,1,Entire apartment,39 Reviews,Rating 5 out of 5,40.73949055,-73.9948273,"true,",100%
-202,"Price$255 per night",6,2,4,1,Entire apartment,12 Reviews,Rating 5 out of 5,40.78146967,-73.98314833,FALSE,100%
-203,"Price$235 per night",4,1,4,1,Entire apartment,NoneType,no rating,40.76705148,-73.99127343,"true,",100%
-204,"Price$250 per night",8,3,4,2,Entire condominium,25 Reviews,Rating 5 out of 5,40.71045099,-74.00786611,FALSE,100%
-205,"Price$250 per night",4,1,3,1,Private room in apartment,63 Reviews,Rating 5 out of 5,40.72796451,-73.98178049,"true,",100%
-206,"Price$260 per night",6,2,4,1,Entire apartment,1 Review,no rating,40.74618016,-73.98562714,FALSE,100%
-207,"Price$249 per night",3,studio,2,1,Entire apartment,8 Reviews,Rating 5 out of 5,40.73580941,-73.98918433,FALSE,100%
-208,"Price$249 per night",2,1,1,1,Entire apartment,1 Review,no rating,40.77843864,-73.97872636,FALSE,100%
-209,"Price$250 per night",6,2,3,1,Entire serviced apartment,15 Reviews,Rating 5 out of 5,40.69954301,-73.99355029,"true,",100%
-210,"Price$259 per night",2,1,1,1,Room in hotel,NoneType,no rating,40.76515864,-73.982118,FALSE,95%
-211,"Price$259 per night",2,1,1,1,Room in hotel,NoneType,no rating,40.76490274,-73.9818631,FALSE,95%
-212,"Price$260 per night",3,1,1,2,Entire apartment,89 Reviews,Rating 5 out of 5,40.71372146,-73.99244679,"true,",100%
-213,"Price$235 per night",2,1,1,1,Entire apartment,NoneType,no rating,40.77950903,-73.97764861,FALSE,
-214,"Price$259 per night",9,4,5,1,Entire apartment,11 Reviews,Rating 4.5 out of 5,40.73552789,-73.99744391,FALSE,100%
-215,"Price$244 per night",6,2,3,2,Entire condominium,7 Reviews,Rating 5 out of 5,40.7604174,-73.99592766,FALSE,100%
-216,"Price$235 per night",4,2,2,1,Entire apartment,3 Reviews,Rating 4.5 out of 5,40.73015085,-74.00303701,"true,",92%
-217,"Price$249 per night",6,2,3,1,Entire apartment,70 Reviews,Rating 5 out of 5,40.79903297,-73.96450953,"true,",100%
-218,"Price$245 per night",4,2,2,1,Entire serviced apartment,13 Reviews,Rating 5 out of 5,40.70098218,-73.99507697,"true,",
-219,"Price$269 per night",2,1,1,1,Room in hotel,NoneType,no rating,40.76523802,-73.9815878,FALSE,
-220,"Price$249 per night",8,2,2,1.5,Entire loft,37 Reviews,Rating 5 out of 5,40.81183627,-73.94286581,"true,",
-221,"Price$250 per night",9,3,3,1,Entire apartment,9 Reviews,Rating 5 out of 5,40.74734463,-73.98048542,FALSE,
-222,"Price$250 per night",5,2,2,2,Entire apartment,NoneType,no rating,40.75427024,-73.96449614,FALSE,
-223,"Price$240 per night",6,3,3,1,Entire apartment,NoneType,no rating,40.79825572,-73.94145173,FALSE,
-224,"Price$249 per night",6,2,5,1,Entire apartment,8 Reviews,Rating 4.5 out of 5,40.74383788,-74.00755076,FALSE,
-225,"Price$250 per night",2,1,2,1,Entire apartment,NoneType,no rating,40.75070496,-74.00261208,FALSE,
-226,"Price$259 per night",2,1,1,1,Room in hotel,NoneType,no rating,40.76368653,-73.98326267,FALSE,
-227,"Price$270 per night",4,1,2,1,Entire apartment,3 Reviews,Rating 5 out of 5,40.74714742,-73.97657322,FALSE,
-228,"Price$255 per night",3,1,1,1,Entire apartment,15 Reviews,Rating 5 out of 5,40.7440924,-74.0027501,"true,",
-229,"Price$250 per night",4,1,1,1,Entire apartment,NoneType,no rating,40.79589335,-73.94237552,FALSE,
-230,"Price$269 per night",2,1,1,1,Room in hotel,NoneType,no rating,40.7655136,-73.98318658,FALSE,
-231,"Price$250 per night",6,3,4,1.5,Entire apartment,2 Reviews,no rating,40.77187105,-73.95390675,FALSE,
-232,"Price$250 per night",3,studio,2,1,Entire townhouse,31 Reviews,Rating 5 out of 5,40.73156765,-73.98766443,"true,",
-233,"Price$239 per night",2,1,1,1,Entire apartment,6 Reviews,Rating 5 out of 5,40.76990004,-73.96289281,"true,",
-234,"Price$267 per night",3,1,2,1,Entire apartment,1 Review,no rating,40.74845583,-73.98248294,FALSE,
-235,"Price$250 per night",4,1,2,1,Private room in apartment,75 Reviews,Rating 5 out of 5,40.82035001,-73.95528792,"true,",
-236,"Price$269 per night",8,3,6,1.5,Entire apartment,NoneType,no rating,40.7237998,-73.98216359,FALSE,
-237,"Price$258 per night",3,1,1,1,Entire serviced apartment,NoneType,no rating,40.75359104,-73.97256819,FALSE,
-238,"Price$237 per night",5,2,2,2,Entire apartment,7 Reviews,Rating 4 out of 5,40.77716666,-73.95130601,FALSE,
-239,"Price$245 per night",7,2,2,2,Entire apartment,1 Review,no rating,40.7747602,-73.9894686,FALSE,
-240,"Price$259 per night",3,1,2,1,Entire apartment,42 Reviews,Rating 5 out of 5,40.72161014,-73.98012717,"true,",
-241,"Price$270 per night",2,1,1,1,Entire apartment,NoneType,no rating,40.74330238,-74.00118691,FALSE,
-242,"Price$250 per night",4,1,2,1.5,Entire apartment,11 Reviews,Rating 5 out of 5,40.75887577,-73.99102331,FALSE,
-243,"Price$239 per night",5,1,2,1,Entire apartment,33 Reviews,Rating 5 out of 5,40.76385311,-73.99049713,FALSE,
-244,"Price$255 per night",5,2,2,2,Entire apartment,3 Reviews,Rating 5 out of 5,40.76604638,-73.98991432,FALSE,
-245,"Price$239 per night",2,1,1,1,Entire condominium,18 Reviews,Rating 4 out of 5,40.70735239,-74.00970502,FALSE,
-246,"Price$261 per night",2,1,1,1,Room in boutique hotel,NoneType,no rating,40.74171952,-74.0036924,FALSE,
-247,"Price$250 per night",2,1,1,1,Entire apartment,NoneType,no rating,40.71477374,-73.98575013,FALSE,
-248,"Price$250 per night",1,studio,2,1,Entire apartment,NoneType,no rating,40.7650416,-73.97875575,FALSE,
-249,"Price$250 per night",0,2,5,1,Entire house,73 Reviews,Rating 5 out of 5,40.82395656,-73.94387529,"true,",
-0,"Price$299 per night",6,2,4,2,Entire apartment,128 Reviews,Rating 5 out of 5,40.7612748,-73.97208891,"true,",100%
-1,"Price$299 per night",6,2,2,1,Entire serviced apartment,127 Reviews,Rating 5 out of 5,40.74416904,-73.97178604,FALSE,100%
-2,"Price$298 per night",0,4,6,2,Entire apartment,132 Reviews,Rating 4.5 out of 5,40.7562288,-73.97330135,FALSE,100%
-3,"Price$300 per night",6,2,3,1,Entire townhouse,179 Reviews,Rating 5 out of 5,40.74375856,-74.00386825,"true,",100%
-4,"Price$310 per night",3,5,9,2.5,Entire townhouse,120 Reviews,Rating 5 out of 5,40.80520506,-73.94518515,FALSE,100%
-5,"Price$295 per night",2,1,1,1,Entire apartment,111 Reviews,Rating 5 out of 5,40.73768083,-74.00602545,FALSE,90%
-6,"Price$279 per night",7,2,4,1,Entire apartment,127 Reviews,Rating 4.5 out of 5,40.74638725,-73.98731859,FALSE,100%
-7,"Price$318 per night",4,1,1,1,Entire apartment,120 Reviews,Rating 5 out of 5,40.76205132,-73.9638164,"true,",100%
-8,"Price$299 per night",7,2,4,1,NoneType,NoneType,no rating,40.74484054,-73.9860785,FALSE,no info
-9,"Price$300 per night",6,2,3,1.5,Entire apartment,57 Reviews,Rating 5 out of 5,40.76119778,-73.98886188,"true,",100%
-10,"Price$300 per night",0,4,5,1,Entire loft,74 Reviews,Rating 4.5 out of 5,40.74208198,-73.99348434,FALSE,97%
-11,"Price$295 per night",2,studio,2,1,Entire apartment,72 Reviews,Rating 5 out of 5,40.77273021,-73.96344471,"true,",100%
-12,"Price$280 per night",8,2,3,1,NoneType,NoneType,no rating,40.70938612,-74.00120819,"true,",no info
-13,"Price$300 per night",7,2,3,1,Entire condominium,89 Reviews,Rating 4.5 out of 5,40.7674488,-73.98366153,FALSE,100%
-14,"Price$300 per night",8,3,4,2,Entire apartment,89 Reviews,Rating 4.5 out of 5,40.762307,-73.98820368,FALSE,100%
-15,"Price$323 per night",4,2,2,1,Entire apartment,81 Reviews,Rating 4.5 out of 5,40.77725045,-73.97668025,"true,",100%
-16,"Price$286 per night",8,3,5,2,Entire apartment,50 Reviews,Rating 5 out of 5,40.72753354,-73.97654617,"true,",
-17,"Price$295 per night",6,3,3,1.5,Entire serviced apartment,22 Reviews,Rating 5 out of 5,40.70606263,-74.00540105,FALSE,
-18,"Price$300 per night",8,2,4,2,Entire apartment,51 Reviews,Rating 5 out of 5,40.72347808,-73.99450294,FALSE,
-19,"Price$295 per night",8,4,4,2,Entire apartment,48 Reviews,Rating 4.5 out of 5,40.75359824,-73.97068491,FALSE,
-20,"Price$279 per night",7,3,4,2,Entire apartment,34 Reviews,Rating 4.5 out of 5,40.74164415,-73.99806047,FALSE,
-21,"Price$300 per night",4,1,2,1,Entire apartment,38 Reviews,Rating 5 out of 5,40.74529669,-73.99765838,"true,",
-22,"Price$315 per night",8,4,6,2,Entire apartment,16 Reviews,Rating 4.5 out of 5,40.76429253,-73.98723221,FALSE,
-23,"Price$300 per night",7,2,2,2,Entire apartment,1 Review,no rating,40.77600238,-73.98814853,FALSE,
-24,"Price$301 per night",6,2,4,1,Entire apartment,8 Reviews,Rating 4.5 out of 5,40.74719602,-73.98329915,FALSE,
-25,"Price$300 per night",3,1,1,1,Entire apartment,30 Reviews,Rating 4.5 out of 5,40.74035663,-73.983014,FALSE,
-26,"Price$300 per night",5,2,3,1,Entire apartment,57 Reviews,Rating 5 out of 5,40.76650921,-73.98684185,FALSE,
-27,"Price$299 per night",8,4,4,2,Entire apartment,80 Reviews,Rating 4.5 out of 5,40.78557231,-73.94232583,FALSE,
-28,"Price$310 per night",4,1,2,1,Entire apartment,22 Reviews,Rating 5 out of 5,40.76228241,-73.99747659,"true,",
-29,"Price$305 per night",2,1,1,1,Entire apartment,25 Reviews,Rating 4.5 out of 5,40.71842562,-73.99531677,FALSE,
-30,"Price$305 per night",2,1,1,1,Entire loft,98 Reviews,Rating 5 out of 5,40.74029816,-73.9849804,"true,",
-31,"Price$300 per night",4,1,2,1,Entire condominium,8 Reviews,Rating 5 out of 5,40.77188614,-73.98868472,FALSE,
-32,"Price$300 per night",3,1,2,1,Entire apartment,125 Reviews,Rating 5 out of 5,40.71950608,-73.98449193,"true,",
-33,"Price$300 per night",4,1,2,1,Entire apartment,37 Reviews,Rating 5 out of 5,40.74934456,-74.00287151,FALSE,
-34,"Price$289 per night",6,2,3,2,Entire apartment,76 Reviews,Rating 5 out of 5,40.72827879,-73.98602027,FALSE,
-35,"Price$280 per night",7,2,4,1,Entire apartment,47 Reviews,Rating 3.5 out of 5,40.77586356,-73.97984368,FALSE,
-36,"Price$298 per night",0,3,3,1,Entire apartment,24 Reviews,Rating 4.5 out of 5,40.74527563,-73.97901457,FALSE,
-37,"Price$300 per night",6,2,3,2,Entire apartment,61 Reviews,Rating 5 out of 5,40.7551057,-73.97001851,"true,",
-38,"Price$300 per night",0,3,3,4.5,Entire townhouse,39 Reviews,Rating 4.5 out of 5,40.75556344,-73.96774331,FALSE,
-39,"Price$319 per night",0,4,6,2,Entire condominium,7 Reviews,Rating 5 out of 5,40.72671864,-73.97735526,FALSE,
-40,"Price$300 per night",8,4,3,2,Entire apartment,35 Reviews,Rating 5 out of 5,40.77727999,-73.98159923,FALSE,
-41,"Price$300 per night",5,2,2,1.5,Entire apartment,33 Reviews,Rating 4.5 out of 5,40.77713221,-73.9775754,FALSE,
-42,"Price$300 per night",4,1,2,1,Entire condominium,8 Reviews,Rating 5 out of 5,40.77188614,-73.98868472,FALSE,
-43,"Price$288 per night",6,2,2,1,Entire apartment,64 Reviews,Rating 5 out of 5,40.72571284,-74.00551519,FALSE,
-44,"Price$319 per night",7,3,4,2,Entire apartment,27 Reviews,Rating 5 out of 5,40.77988368,-73.95481938,"true,",
-45,"Price$299 per night",5,2,3,2,Entire apartment,105 Reviews,Rating 4.5 out of 5,40.71952374,-73.98437002,FALSE,
-46,"Price$298 per night",6,3,4,2,Entire apartment,115 Reviews,Rating 5 out of 5,40.72346891,-73.99301624,FALSE,
-47,"Price$313 per night",4,2,2,1,Entire apartment,23 Reviews,Rating 4.5 out of 5,40.75727673,-73.96849272,FALSE,
-48,"Price$299 per night",6,2,3,2,Entire apartment,62 Reviews,Rating 5 out of 5,40.72036466,-73.99633419,"true,",
-49,"Price$300 per night",5,2,4,1,Entire apartment,58 Reviews,Rating 4 out of 5,40.76210465,-73.99354428,FALSE,
-50,"Price$300 per night",4,2,4,2,Entire apartment,57 Reviews,Rating 5 out of 5,40.75930204,-73.99385807,"true,",
-51,"Price$295 per night",8,4,5,2,Entire apartment,16 Reviews,Rating 4.5 out of 5,40.72350625,-73.9835745,"true,",
-52,"Price$300 per night",1,5,6,2,Entire apartment,34 Reviews,Rating 5 out of 5,40.82280388,-73.94567478,"true,",
-53,"Price$320 per night",6,2,3,1,Entire apartment,34 Reviews,Rating 4.5 out of 5,40.72763602,-73.9852703,FALSE,
-54,"Price$285 per night",4,2,3,1,Entire apartment,66 Reviews,Rating 4.5 out of 5,40.71851207,-73.98892346,FALSE,
-55,"Price$314 per night",4,4,9,2,NoneType,80 Reviews,Rating 4.5 out of 5,40.83470877,-73.94288395,FALSE,no info
-56,"Price$300 per night",2,4,5,3.5,Entire condominium,35 Reviews,Rating 5 out of 5,40.80116324,-73.95629906,"true,",
-57,"Price$289 per night",9,3,5,2,Entire townhouse,70 Reviews,Rating 4.5 out of 5,40.83326438,-73.94214522,FALSE,
-58,"Price$280 per night",5,1,2,1,Entire apartment,29 Reviews,Rating 5 out of 5,40.73002422,-73.97941048,FALSE,
-59,"Price$297 per night",6,3,3,1,Entire apartment,39 Reviews,Rating 5 out of 5,40.71499246,-73.98986486,"true,",
-60,"Price$280 per night",6,3,6,2,Entire apartment,11 Reviews,Rating 4.5 out of 5,40.76196411,-73.99084581,FALSE,
-61,"Price$287 per night",4,2,2,1,Entire apartment,32 Reviews,Rating 5 out of 5,40.74283181,-73.99843413,FALSE,
-62,"Price$299 per night",8,3,3,1.5,Entire loft,45 Reviews,Rating 4.5 out of 5,40.74352821,-73.98364359,FALSE,
-63,"Price$318 per night",6,2,2,1,Entire loft,14 Reviews,Rating 4.5 out of 5,40.74492901,-73.98240214,FALSE,
-64,"Price$300 per night",4,2,2,2,Entire apartment,10 Reviews,Rating 5 out of 5,40.80096174,-73.95853699,"true,",
-65,"Price$300 per night",2,1,1,1,Entire apartment,13 Reviews,Rating 5 out of 5,40.71969676,-73.99330537,"true,",
-66,"Price$300 per night",5,2,2,1,Entire apartment,29 Reviews,Rating 4.5 out of 5,40.78429441,-73.94878339,FALSE,
-67,"Price$319 per night",6,2,3,1,Entire loft,86 Reviews,Rating 5 out of 5,40.72568616,-73.99226673,"true,",
-68,"Price$296 per night",4,1,2,1,Entire serviced apartment,10 Reviews,Rating 5 out of 5,40.76578855,-73.989766,"true,",
-69,"Price$299 per night",4,2,2,1,Entire apartment,77 Reviews,Rating 4.5 out of 5,40.70799035,-74.00977273,FALSE,
-70,"Price$280 per night",6,3,4,1,Entire apartment,40 Reviews,Rating 4 out of 5,40.72192528,-73.98161752,FALSE,
-71,"Price$299 per night",2,studio,1,1,Entire serviced apartment,20 Reviews,Rating 5 out of 5,40.70721927,-74.00872821,"true,",
-72,"Price$300 per night",8,3,5,3,Entire townhouse,11 Reviews,Rating 5 out of 5,40.74742241,-73.98065761,FALSE,
-73,"Price$300 per night",7,2,2,2,Entire apartment,4 Reviews,Rating 5 out of 5,40.77537832,-73.98813756,FALSE,
-74,"Price$288 per night",8,3,6,1,Entire loft,29 Reviews,Rating 5 out of 5,40.7249446,-73.99413761,FALSE,
-75,"Price$285 per night",4,2,2,1,Entire apartment,23 Reviews,Rating 5 out of 5,40.73324806,-73.99971186,"true,",
-76,"Price$279 per night",6,3,3,1,Entire apartment,20 Reviews,Rating 5 out of 5,40.79936168,-73.95363465,"true,",
-77,"Price$300 per night",6,2,2,1,Entire apartment,21 Reviews,Rating 4.5 out of 5,40.74911689,-73.9761143,FALSE,
-78,"Price$309 per night",3,1,1,1,Entire apartment,16 Reviews,Rating 5 out of 5,40.73099791,-73.9874321,"true,",
-79,"Price$299 per night",6,2,3,2,Entire serviced apartment,11 Reviews,Rating 4.5 out of 5,40.71953412,-74.00400878,FALSE,
-80,"Price$298 per night",5,2,4,1,Entire apartment,4 Reviews,Rating 4.5 out of 5,40.76377152,-73.98916943,FALSE,
-81,"Price$300 per night",5,3,3,1,Private room in townhouse,16 Reviews,Rating 5 out of 5,40.79092983,-73.96780294,FALSE,
-82,"Price$299 per night",6,2,3,2,Entire serviced apartment,11 Reviews,Rating 4.5 out of 5,40.71953412,-74.00400878,FALSE,
-83,"Price$299 per night",4,2,2,1,Entire apartment,77 Reviews,Rating 4.5 out of 5,40.70799035,-74.00977273,FALSE,
-84,"Price$296 per night",6,2,5,2,Entire apartment,NoneType,no rating,40.79906613,-73.97361505,FALSE,
-85,"Price$300 per night",4,1,2,1,Private room in apartment,39 Reviews,Rating 4.5 out of 5,40.72830151,-74.00069064,FALSE,
-86,"Price$300 per night",8,3,3,2,Entire apartment,37 Reviews,Rating 5 out of 5,40.71820541,-73.98228579,FALSE,
-87,"Price$299 per night",7,3,4,2,Entire apartment,10 Reviews,Rating 5 out of 5,40.72692279,-73.98102048,FALSE,
-88,"Price$285 per night",5,1,3,1,Entire loft,106 Reviews,Rating 4.5 out of 5,40.71975844,-74.00570703,"true,",
-89,"Price$315 per night",4,2,3,1,Entire apartment,21 Reviews,Rating 4.5 out of 5,40.72173686,-73.99481868,FALSE,
-90,"Price$300 per night",4,2,2,2,Entire apartment,5 Reviews,Rating 5 out of 5,40.77316329,-73.94495176,FALSE,
-91,"Price$279 per night",5,2,3,1,Entire apartment,14 Reviews,Rating 4 out of 5,40.72328283,-73.99508232,FALSE,
-92,"Price$289 per night",4,2,2,1,Entire apartment,29 Reviews,Rating 5 out of 5,40.72832487,-73.99916243,"true,",
-93,"Price$295 per night",3,studio,1,1,Entire apartment,75 Reviews,Rating 5 out of 5,40.73457571,-74.00808123,"true,",
-94,"Price$280 per night",8,3,3,2,Entire apartment,2 Reviews,no rating,40.76290906,-73.99305239,FALSE,
-95,"Price$315 per night",7,4,4,2,Entire apartment,10 Reviews,Rating 5 out of 5,40.72507513,-73.97822566,FALSE,
-96,"Price$289 per night",8,3,4,2,Entire apartment,7 Reviews,Rating 4.5 out of 5,40.71775221,-73.98547606,FALSE,
-97,"Price$300 per night",2,1,2,1,Private room in condominium,8 Reviews,Rating 5 out of 5,40.73639289,-73.99318158,FALSE,
-98,"Price$301 per night",2,1,1,1,Private room in apartment,97 Reviews,Rating 4.5 out of 5,40.73175825,-73.99894907,"true,",
-99,"Price$300 per night",0,4,9,4.5,Entire house,1 Review,no rating,40.79424206,-73.93637797,FALSE,
-100,"Price$299 per night",6,2,6,2,Entire apartment,10 Reviews,Rating 5 out of 5,40.75271394,-73.97136129,"true,",
-101,"Price$300 per night",4,2,2,2,NoneType,NoneType,no rating,40.807653,-73.95243531,"true,",no info
-102,"Price$287 per night",4,4,4,2,Entire apartment,12 Reviews,Rating 5 out of 5,40.72597717,-73.9906023,FALSE,
-103,"Price$300 per night",6,2,2,1,Entire apartment,1 Review,no rating,40.72902725,-73.99925285,FALSE,
-104,"Price$288 per night",5,2,3,1,Entire apartment,12 Reviews,Rating 5 out of 5,40.74670222,-73.99334759,FALSE,
-105,"Price$300 per night",2,1,1,1,Entire apartment,32 Reviews,Rating 5 out of 5,40.72914476,-73.98293972,"true,",
-106,"Price$319 per night",9,3,7,1,Entire apartment,6 Reviews,Rating 5 out of 5,40.76279133,-73.97494009,FALSE,
-107,"Price$300 per night",4,1,1,1,Entire serviced apartment,10 Reviews,Rating 5 out of 5,40.75876416,-73.99891817,FALSE,
-108,"Price$300 per night",6,2,3,2,Entire townhouse,25 Reviews,Rating 4.5 out of 5,40.8229556,-73.9454547,"true,",
-109,"Price$300 per night",6,2,2,1,Entire apartment,NoneType,no rating,40.80699787,-73.93976268,"true,",
-110,"Price$300 per night",6,3,3,2,Entire apartment,NoneType,no rating,40.70660003,-74.00730263,FALSE,
-111,"Price$285 per night",0,4,6,4,Entire apartment,12 Reviews,Rating 3.5 out of 5,40.75939223,-73.96162933,FALSE,
-112,"Price$299 per night",7,3,3,1,Entire apartment,18 Reviews,Rating 4 out of 5,40.75966236,-73.96827627,FALSE,
-113,"Price$300 per night",4,1,2,1,Entire apartment,20 Reviews,Rating 5 out of 5,40.7490662,-74.00374074,FALSE,
-114,"Price$320 per night",3,2,2,1,Entire loft,54 Reviews,Rating 5 out of 5,40.72532629,-73.99143129,"true,",
-115,"Price$300 per night",8,3,4,1,Entire apartment,5 Reviews,Rating 5 out of 5,40.76217694,-73.98784754,FALSE,
-116,"Price$290 per night",6,2,2,2,Entire apartment,5 Reviews,Rating 5 out of 5,40.7618265,-73.99180634,"true,",
-117,"Price$290 per night",2,1,1,1,Entire apartment,7 Reviews,Rating 5 out of 5,40.76024143,-73.99286247,FALSE,
-118,"Price$299 per night",6,2,3,1,NoneType,NoneType,no rating,40.72400216,-73.9864874,FALSE,no info
-119,"Price$300 per night",6,2,4,2,Entire serviced apartment,15 Reviews,Rating 5 out of 5,40.73756208,-73.98315398,"true,",
-120,"Price$280",6,3,4,1,Entire apartment,10 Reviews,Rating 5 out of 5,40.81387715,-73.95931706,"true,",
-121,"Price$290",5,2,2,1,Entire apartment,12 Reviews,Rating 5 out of 5,40.8055023,-73.95029917,"true,",
-122,"Price$300",6,3,4,2,Entire condominium,NoneType,no rating,40.70734036,-74.00837264,FALSE,
-123,"Price$299",5,studio,3,1,Entire apartment,35 Reviews,Rating 4.5 out of 5,40.80533247,-73.94963203,FALSE,
-124,"Price$290",4,2,3,1,Entire apartment,NoneType,no rating,40.74655848,-74.00441063,FALSE,
-125,"Price$300",5,2,3,2,Entire place,1 Review,no rating,40.74843679,-73.97694261,"true,",
-126,"Price$320",5,2,4,1,Entire apartment,18 Reviews,Rating 4.5 out of 5,40.76324406,-73.98821018,FALSE,
-127,"Price$295",4,1,2,1,Entire apartment,22 Reviews,Rating 5 out of 5,40.71915371,-73.98573921,FALSE,
-128,"Price$299",4,1,2,2,Entire apartment,5 Reviews,Rating 5 out of 5,40.78723468,-73.9703071,FALSE,
-129,"Price$318",5,2,2,1,Entire condominium,12 Reviews,Rating 5 out of 5,40.7218782,-73.98160225,FALSE,
-130,"Price$298",4,1,3,1,Entire apartment,80 Reviews,Rating 5 out of 5,40.72685141,-73.98638017,FALSE,
-131,"Price$299",4,studio,3,1,Entire loft,6 Reviews,Rating 5 out of 5,40.73138542,-73.98791033,"true,",
-132,"Price$298",8,3,4,2,Entire apartment,16 Reviews,Rating 4 out of 5,40.72581439,-73.98009896,FALSE,
-133,"Price$300",7,3,4,1,Entire apartment,26 Reviews,Rating 4.5 out of 5,40.7223556,-73.98574314,FALSE,
-134,"Price$300 per night",7,3,4,3,Entire loft,10 Reviews,Rating 5 out of 5,40.80568556,-73.94848065,"true,",
-135,"Price$280 per night",0,3,3,2,Entire apartment,4 Reviews,Rating 4.5 out of 5,40.71811739,-73.98692633,FALSE,
-136,"Price$300 per night",4,1,2,1,Entire apartment,4 Reviews,Rating 5 out of 5,40.75138189,-73.98143019,FALSE,
-137,"Price$299 per night",2,1,1,1,Entire apartment,21 Reviews,Rating 5 out of 5,40.74494219,-73.99761889,"true,",
-138,"Price$300 per night",5,1,4,1,Entire apartment,34 Reviews,Rating 5 out of 5,40.81575261,-73.95369861,"true,",
-139,"Price$300 per night",0,3,5,2,Entire townhouse,NoneType,no rating,40.8334064,-73.94153845,FALSE,
-140,"Price$278 per night",7,3,3,1,Entire apartment,5 Reviews,Rating 4 out of 5,40.74362092,-74.00617018,FALSE,
-141,"Price$279 per night",8,2,3,1,Entire apartment,14 Reviews,Rating 5 out of 5,40.74594932,-73.97847025,FALSE,
-142,"Price$295 per night",2,1,1,1,Entire condominium,4 Reviews,Rating 5 out of 5,40.76390169,-73.99083044,FALSE,
-143,"Price$279 per night",2,1,1,1,Entire apartment,22 Reviews,Rating 5 out of 5,40.72865572,-74.00095377,FALSE,
-144,"Price$299 per night",4,1,2,1,Entire townhouse,8 Reviews,Rating 5 out of 5,40.73222211,-73.99574598,FALSE,
-145,"Price$300 per night",4,1,2,1,Entire apartment,8 Reviews,Rating 5 out of 5,40.72169293,-73.99650117,FALSE,
-146,"Price$299 per night",4,2,2,1,Entire townhouse,NoneType,no rating,40.79798366,-73.97266998,FALSE,
-147,"Price$300 per night",6,2,2,1.5,Entire apartment,4 Reviews,Rating 5 out of 5,40.7499013,-73.97230938,FALSE,
-148,"Price$279 per night",5,2,1,1,Entire apartment,8 Reviews,Rating 4 out of 5,40.76126071,-73.99303349,FALSE,
-149,"Price$295 per night",6,2,4,2,Entire home/apt,NoneType,no rating,40.73054827,-73.9892813,FALSE,
-150,"Price$279 per night",5,2,1,1,Entire apartment,8 Reviews,Rating 4 out of 5,40.76126071,-73.99303349,FALSE,
-151,"Price$299 per night",8,3,3,2,Entire apartment,NoneType,no rating,40.71815187,-73.98212783,FALSE,
-152,"Price$300 per night",4,1,1,1,Entire serviced apartment,6 Reviews,Rating 5 out of 5,40.78396932,-73.97657882,FALSE,
-153,"Price$299 per night",3,1,1,1,Entire apartment,16 Reviews,Rating 5 out of 5,40.76772903,-73.98342116,"true,",
-154,"Price$279 per night",2,1,1,1,Room in boutique hotel,3 Reviews,Rating 5 out of 5,40.75499469,-73.9712095,FALSE,
-155,"Price$281 per night",4,1,2,1,Private room in resort,1 Review,no rating,40.75233011,-73.97136575,FALSE,
-156,"Price$300 per night",6,3,3,2,NoneType,3 Reviews,Rating 3.5 out of 5,40.74489709,-73.97416928,FALSE,no info
-157,"Price$300 per night",2,1,2,1,Entire apartment,4 Reviews,Rating 5 out of 5,40.73651218,-73.98733168,FALSE,
-158,"Price$295 per night",3,1,1,1,Entire apartment,1 Review,no rating,40.76254663,-73.95965943,FALSE,
-159,"Price$312 per night",3,1,1,1,Entire serviced apartment,NoneType,no rating,40.75401803,-73.96520034,FALSE,
-160,"Price$295 per night",8,3,3,2,Entire apartment,8 Reviews,Rating 4.5 out of 5,40.76478837,-73.95773925,FALSE,
-161,"Price$279 per night",6,2,2,1,Entire apartment,3 Reviews,Rating 5 out of 5,40.72712485,-74.00158279,FALSE,
-162,"Price$300 per night",4,1,1,1,Entire apartment,2 Reviews,no rating,40.74803203,-73.99630123,FALSE,
-163,"Price$300 per night",8,3,3,2,Entire apartment,NoneType,no rating,40.77741588,-73.95148821,FALSE,
-164,"Price$293 per night",4,1,3,1,Entire apartment,12 Reviews,Rating 5 out of 5,40.75483039,-73.99113359,"true,",
-165,"Price$305 per night",0,3,5,2,Entire apartment,11 Reviews,Rating 4.5 out of 5,40.7470732,-74.00310313,FALSE,
-166,"Price$282 per night",4,1,1,1,Entire serviced apartment,2 Reviews,no rating,40.75248401,-74.00300878,FALSE,
-167,"Price$291 per night",0,5,5,2,Entire apartment,NoneType,no rating,40.71658582,-73.99796189,FALSE,
-168,"Price$300 per night",7,3,6,2,Entire townhouse,1 Review,no rating,40.76030979,-73.99314402,FALSE,
-169,"Price$300 per night",4,1,1,1,Entire apartment,7 Reviews,Rating 5 out of 5,40.78525445,-73.94717231,FALSE,
-170,"Price$279 per night",3,studio,1,1,Entire apartment,9 Reviews,Rating 4.5 out of 5,40.72697166,-73.98509251,FALSE,
-171,"Price$295 per night",2,1,1,1,Entire serviced apartment,NoneType,no rating,40.70865171,-74.00673808,FALSE,
-172,"Price$299 per night",2,1,1,1,Entire apartment,18 Reviews,Rating 5 out of 5,40.72981724,-74.00033795,FALSE,
-173,"Price$290 per night",7,2,2,2,Entire apartment,3 Reviews,Rating 5 out of 5,40.77576458,-73.98882672,FALSE,
-174,"Price$299 per night",4,1,2,1,Entire condominium,NoneType,no rating,40.75147356,-73.97199926,FALSE,
-175,"Price$289",5,1,3,1,Entire condominium,1 Review,no rating,40.7578824,-73.9919842,FALSE,
-176,"Price$299",6,2,3,1,Entire apartment,7 Reviews,Rating 4.5 out of 5,40.75385072,-73.96707565,FALSE,
-177,"Price$300",8,4,4,2,Entire house,16 Reviews,Rating 5 out of 5,40.85394651,-73.93335174,"true,",
-178,"Price$300",2,1,1,1,Entire apartment,1 Review,no rating,40.73693585,-73.98784924,FALSE,
-179,"Price$300",0,3,6,2.5,Entire apartment,2 Reviews,no rating,40.74589907,-73.98105039,FALSE,
-180,"Price$286",0,5,8,2,Entire apartment,9 Reviews,Rating 3.5 out of 5,40.7162353,-73.99643518,FALSE,
-181,"Price$300",5,2,2,1,Entire apartment,16 Reviews,Rating 5 out of 5,40.73002953,-73.9857551,FALSE,
-182,"Price$300 per night",3,1,1,1,Entire apartment,NoneType,no rating,40.82812284,-73.94218788,FALSE,
-183,"Price$299 per night",6,2,3,2,Entire condominium,NoneType,no rating,40.82431106,-73.94290726,FALSE,
-184,"Price$300 per night",4,1,0,1,Entire apartment,NoneType,no rating,40.75496247,-73.96480406,FALSE,
-185,"Price$300 per night",4,4,4,2,Entire apartment,NoneType,no rating,40.79798673,-73.96160847,FALSE,
-186,"Price$285 per night",0,3,4,2,Entire apartment,NoneType,no rating,40.74403132,-73.973216,FALSE,
-187,"Price$299 per night",2,studio,1,1,Entire condominium,NoneType,no rating,40.75366189,-73.97147944,FALSE,
-188,"Price$300",2,4,6,2,Entire loft,27 Reviews,Rating 4.5 out of 5,40.7162654,-74.00792365,FALSE,
-189,"Price$279",3,1,1,1,Room in boutique hotel,1 Review,no rating,40.75524218,-73.97268773,FALSE,
-190,"Price$280",4,1,2,1,Entire serviced apartment,1 Review,no rating,40.79513717,-73.96686984,FALSE,
-191,"Price$280",6,2,2,1,Entire apartment,52 Reviews,Rating 5 out of 5,40.72793597,-73.98528263,"true,",
-192,"Price$300",3,2,2,1,Private room in apartment,2 Reviews,no rating,40.76292177,-73.9812772,FALSE,
-193,"Price$299",2,1,1,1,Entire apartment,NoneType,no rating,40.76738606,-73.99117664,FALSE,
-194,"Price$285",5,3,3,2,Entire apartment,NoneType,no rating,40.7170535,-73.96545169,FALSE,
-195,"Price$300",8,3,5,2,Entire loft,50 Reviews,Rating 5 out of 5,40.73646811,-73.99698594,"true,",
-196,"Price$300",8,3,5,1,Entire apartment,11 Reviews,Rating 5 out of 5,40.75726048,-73.98980996,"true,",
-197,"Price$300",2,1,1,1,Private room in apartment,27 Reviews,Rating 5 out of 5,40.70980721,-74.01166318,"true,",
-198,"Price$299 per night",2,1,1,1,Entire apartment,1 Review,no rating,40.76711925,-73.99196603,FALSE,
-199,"Price$280 per night",2,1,1,1,Entire apartment,9 Reviews,Rating 5 out of 5,40.7183199,-73.99287132,FALSE,
-200,"Price$280 per night",2,2,2,2,Entire apartment,NoneType,no rating,40.77726408,-73.98428812,FALSE,
-201,"Price$300 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.73822294,-73.99346756,FALSE,
-202,"Price$287 per night",4,2,2,1,Entire apartment,NoneType,no rating,40.70797507,-74.00591467,FALSE,
-203,"Price$290 per night",2,studio,1,1,Private room in apartment,NoneType,no rating,40.73255032,-74.00382644,FALSE,
-204,"Price$300 per night",6,2,2,2,Entire apartment,1 Review,no rating,40.76387696,-73.98853611,FALSE,
-205,"Price$300 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.73975093,-73.9949412,FALSE,
-206,"Price$300 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.73819324,-73.99374798,FALSE,
-207,"Price$300 per night",1,1,1,1,Shared room in cabin,NoneType,no rating,40.86315509,-73.92626579,FALSE,
-208,"Price$280 per night",4,1,2,1,NoneType,NoneType,no rating,40.74242182,-73.99571006,FALSE,no info
-209,"Price$295 per night",2,1,1,1,Entire apartment,35 Reviews,Rating 4.5 out of 5,40.74472209,-74.00095292,"true,",
-210,"Price$300 per night",2,1,1,1.5,Private room in condominium,2 Reviews,no rating,40.75269163,-73.97048495,FALSE,
-211,"Price$295 per night",2,1,1,1,NoneType,NoneType,no rating,40.76089485,-73.99996679,FALSE,no info
-212,"Price$299 per night",3,studio,1,1,Entire house,NoneType,no rating,40.73312585,-73.99692162,FALSE,100%
-213,"Price$298 per night",2,1,1,1,Entire apartment,2 Reviews,no rating,40.82663258,-73.94108015,"true,",100%
-0,"Price$349 per night",7,2,3,1.5,Entire condominium,83 Reviews,Rating 5 out of 5,40.74405867,-73.98065857,"true,",100%
-1,"Price$375 per night",4,1,1,1,Entire apartment,55 Reviews,Rating 5 out of 5,40.71557678,-73.99136249,FALSE,100%
-2,"Price$350 per night",0,3,3,2,NoneType,NoneType,no rating,40.71927427,-74.00453489,"true,",no info
-3,"Price$360 per night",8,3,5,3,Entire loft,60 Reviews,Rating 4.5 out of 5,40.74585378,-73.98766005,FALSE,83%
-4,"Price$369 per night",4,4,7,2.5,Entire apartment,59 Reviews,Rating 5 out of 5,40.74893626,-73.98133848,FALSE,100%
-5,"Price$375 per night",8,4,4,2,Entire apartment,54 Reviews,Rating 4.5 out of 5,40.76250463,-73.96040025,FALSE,94%
-6,"Price$339 per night",2,5,7,2,Entire apartment,152 Reviews,Rating 4.5 out of 5,40.74319433,-73.9884218,FALSE,100%
-7,"Price$349 per night",0,4,5,3,Entire townhouse,60 Reviews,Rating 4.5 out of 5,40.7476235,-73.98155714,FALSE,100%
-8,"Price$366 per night",7,3,6,2.5,Entire loft,81 Reviews,Rating 5 out of 5,40.73593076,-73.98854527,FALSE,100%
-9,"Price$350 per night",4,2,2,2,Entire apartment,143 Reviews,Rating 5 out of 5,40.74702665,-74.0045519,"true,",100%
-10,"Price$350 per night",6,4,5,2,Entire house,70 Reviews,Rating 4.5 out of 5,40.75634254,-73.99185591,FALSE,100%
-11,"Price$350 per night",8,3,4,1.5,Entire apartment,169 Reviews,Rating 4.5 out of 5,40.74923488,-73.99375555,FALSE,100%
-12,"Price$360 per night",8,3,6,2.5,Entire townhouse,49 Reviews,Rating 4.5 out of 5,40.7493823,-73.97961087,FALSE,100%
-13,"Price$340 per night",2,1,1,1,Entire condominium,30 Reviews,Rating 5 out of 5,40.78295041,-73.97406943,"true,",100%
-14,"Price$349 per night",7,2,3,2,Entire condominium,42 Reviews,Rating 5 out of 5,40.74534394,-73.97476296,"true,",100%
-15,"Price$375 per night",4,2,3,1.5,Entire apartment,30 Reviews,Rating 5 out of 5,40.78296112,-73.98252308,"true,",83%
-16,"Price$330 per night",8,3,4,2,Entire serviced apartment,62 Reviews,Rating 5 out of 5,40.75792701,-73.9873565,FALSE,100%
-17,"Price$330 per night",6,2,2,2,Entire loft,59 Reviews,Rating 5 out of 5,40.72976817,-73.98841365,FALSE,100%
-18,"Price$375 per night",2,5,6,3,Entire apartment,20 Reviews,Rating 4.5 out of 5,40.75428735,-73.96847565,FALSE,100%
-19,"Price$365 per night",6,2,3,1,Entire apartment,45 Reviews,Rating 5 out of 5,40.74338087,-73.99548737,"true,",100%
-20,"Price$350 per night",6,2,4,2,Entire apartment,89 Reviews,Rating 5 out of 5,40.74247288,-73.97517074,"true,",100%
-21,"Price$350 per night",3,1,2,1,Entire apartment,74 Reviews,Rating 5 out of 5,40.75329655,-73.97162353,"true,",100%
-22,"Price$369 per night",6,2,1,2,Entire serviced apartment,121 Reviews,Rating 5 out of 5,40.74398483,-73.99624427,"true,",100%
-23,"Price$350 per night",8,3,3,1,Entire apartment,23 Reviews,Rating 5 out of 5,40.74481139,-73.9787852,FALSE,100%
-24,"Price$345 per night",2,1,1,1,Entire apartment,110 Reviews,Rating 5 out of 5,40.72681536,-73.98733182,"true,",100%
-25,"Price$350 per night",4,2,2,1,Entire condominium,9 Reviews,Rating 4.5 out of 5,40.72313932,-73.97929114,FALSE,100%
-26,"Price$350 per night",0,3,4,2,Entire apartment,67 Reviews,Rating 4.5 out of 5,40.71751172,-74.01150802,FALSE,100%
-27,"Price$345 per night",4,2,2,1,Entire apartment,69 Reviews,Rating 5 out of 5,40.74997615,-73.99772008,"true,",100%
-28,"Price$375 per night",8,3,4,3,Entire condominium,114 Reviews,Rating 5 out of 5,40.72845577,-73.98987297,"true,",100%
-29,"Price$350 per night",4,2,2,1,Entire loft,14 Reviews,Rating 4.5 out of 5,40.74225992,-73.98286584,FALSE,95%
-30,"Price$349 per night",8,3,5,1,Entire apartment,23 Reviews,Rating 4.5 out of 5,40.76545834,-73.98462224,FALSE,78%
-31,"Price$330 per night",6,2,4,2,NoneType,NoneType,no rating,40.7587807,-73.97068948,FALSE,no info
-32,"Price$375 per night",8,3,4,2,Entire apartment,41 Reviews,Rating 4.5 out of 5,40.72044081,-73.9920966,FALSE,90%
-33,"Price$350 per night",2,1,1,1,Entire apartment,27 Reviews,Rating 5 out of 5,40.70946131,-74.0123546,FALSE,100%
-34,"Price$341 per night",6,3,3,1,Entire apartment,112 Reviews,Rating 5 out of 5,40.72080243,-73.98669653,"true,",100%
-35,"Price$349 per night",6,3,3,2,Entire apartment,58 Reviews,Rating 5 out of 5,40.77836331,-73.97994071,"true,",100%
-36,"Price$349 per night",2,1,1,1,Entire apartment,12 Reviews,Rating 5 out of 5,40.70746931,-74.0066345,"true,",92%
-37,"Price$349 per night",6,2,4,1,Entire apartment,19 Reviews,Rating 4.5 out of 5,40.78209415,-73.97597943,FALSE,100%
-38,"Price$355 per night",6,2,4,2,Entire apartment,7 Reviews,Rating 5 out of 5,40.76397368,-73.98940624,FALSE,91%
-39,"Price$376 per night",8,3,5,2,Entire apartment,25 Reviews,Rating 4 out of 5,40.73994072,-73.99004566,FALSE,100%
-40,"Price$369 per night",6,3,3,2,Entire apartment,27 Reviews,Rating 4.5 out of 5,40.76398101,-73.96580773,FALSE,100%
-41,"Price$350 per night",2,3,8,4,Entire apartment,59 Reviews,Rating 4.5 out of 5,40.82531939,-73.94608119,FALSE,100%
-42,"Price$350 per night",2,3,6,3,Entire apartment,39 Reviews,Rating 4.5 out of 5,40.82535949,-73.94531886,FALSE,80%
-43,"Price$339 per night",6,2,3,2,Entire condominium,28 Reviews,Rating 5 out of 5,40.75315757,-73.97162755,"true,",100%
-44,"Price$350 per night",6,2,2,2,Entire apartment,29 Reviews,Rating 5 out of 5,40.76420313,-73.98925833,FALSE,91%
-45,"Price$350 per night",4,1,1,1,Entire apartment,55 Reviews,Rating 5 out of 5,40.7273128,-74.00472482,"true,",100%
-46,"Price$349 per night",5,1,1,1,Entire condominium,12 Reviews,Rating 5 out of 5,40.77485596,-73.98680414,"true,",100%
-47,"Price$350 per night",0,3,5,3,Entire townhouse,54 Reviews,Rating 4.5 out of 5,40.75912492,-73.96210069,FALSE,100%
-48,"Price$375 per night",2,4,6,2,Entire loft,35 Reviews,Rating 4.5 out of 5,40.71615672,-74.00673333,"true,",100%
-49,"Price$350 per night",7,3,3,2,Entire apartment,11 Reviews,Rating 5 out of 5,40.74341931,-73.9775775,FALSE,100%
-50,"Price$340 per night",8,3,3,2,Entire apartment,76 Reviews,Rating 5 out of 5,40.72454502,-73.98480382,"true,",100%
-51,"Price$375 per night",4,1,1,1.5,Entire serviced apartment,NoneType,no rating,40.76417909,-73.98232725,FALSE,
-52,"Price$355 per night",3,2,2,2,Entire apartment,7 Reviews,Rating 5 out of 5,40.71634468,-73.99378909,FALSE,100%
-53,"Price$359 per night",5,3,3,2,Entire house,41 Reviews,Rating 4.5 out of 5,40.73096337,-74.00319304,FALSE,100%
-54,"Price$345 per night",4,2,2,1,Entire apartment,66 Reviews,Rating 4.5 out of 5,40.71967793,-73.98707517,FALSE,71%
-55,"Price$350 per night",7,2,4,1,Entire apartment,20 Reviews,Rating 4.5 out of 5,40.79055511,-73.96679785,FALSE,100%
-56,"Price$350 per night",6,3,3,1,Entire apartment,9 Reviews,Rating 3.5 out of 5,40.77389306,-73.95943902,FALSE,85%
-57,"Price$350 per night",7,3,3,2,Entire apartment,4 Reviews,Rating 5 out of 5,40.7416434,-73.97977752,FALSE,95%
-58,"Price$349 per night",4,1,2,1,Entire apartment,3 Reviews,Rating 5 out of 5,40.73141997,-74.00412585,FALSE,100%
-59,"Price$350 per night",4,1,1,2,Room in boutique hotel,NoneType,no rating,40.76562129,-73.98232671,FALSE,
-60,"Price$328 per night",5,2,2,1,Entire apartment,37 Reviews,Rating 4.5 out of 5,40.72965057,-74.00396916,FALSE,89%
-61,"Price$350 per night",4,studio,2,1,Private room in resort,NoneType,no rating,40.75145742,-73.9728742,FALSE,
-62,"Price$356 per night",4,5,7,3,Entire townhouse,2 Reviews,no rating,40.76130495,-73.96799681,FALSE,100%
-63,"Price$375 per night",2,1,2,1.5,Entire townhouse,29 Reviews,Rating 5 out of 5,40.73482205,-73.98635323,"true,",100%
-64,"Price$350 per night",5,2,4,1.5,Entire apartment,NoneType,no rating,40.78107653,-73.95438686,FALSE,78%
-65,"Price$348 per night",5,2,3,2,Entire apartment,44 Reviews,Rating 5 out of 5,40.72453547,-73.97931013,"true,",100%
-66,"Price$350 per night",3,studio,1,1,Entire apartment,NoneType,no rating,40.73795392,-74.00965642,FALSE,100%
-67,"Price$339 per night",6,2,3,2,Entire condominium,28 Reviews,Rating 5 out of 5,40.75368453,-73.97317258,"true,",100%
-68,"Price$339 per night",6,2,3,2,Entire condominium,35 Reviews,Rating 5 out of 5,40.75377284,-73.97223486,"true,",100%
-69,"Price$339 per night",8,3,4,2,Entire condominium,2 Reviews,no rating,40.74557698,-73.97106417,FALSE,85%
-70,"Price$349 per night",3,1,1,1.5,Entire apartment,49 Reviews,Rating 5 out of 5,40.74135065,-73.99506834,FALSE,100%
-71,"Price$350 per night",5,2,3,1,Entire apartment,30 Reviews,Rating 5 out of 5,40.75112126,-73.99604941,"true,",100%
-72,"Price$333 per night",6,2,3,2,Entire apartment,9 Reviews,Rating 5 out of 5,40.76254844,-73.99466584,FALSE,100%
-73,"Price$350 per night",2,1,1,1,NoneType,NoneType,no rating,40.73444915,-73.9842302,FALSE,no info
-74,"Price$375 per night",6,2,4,2,Entire apartment,26 Reviews,Rating 4.5 out of 5,40.74278501,-74.00193376,FALSE,100%
-75,"Price$354 per night",6,3,4,1,Entire loft,20 Reviews,Rating 5 out of 5,40.72434027,-73.99098954,"true,",100%
-76,"Price$340 per night",4,2,2,1,Private room in serviced apartment,27 Reviews,Rating 5 out of 5,40.70589676,-74.00604154,FALSE,95%
-77,"Price$350 per night",5,2,3,2,Entire apartment,4 Reviews,Rating 3.5 out of 5,40.77721054,-73.94997381,FALSE,98%
-78,"Price$345 per night",3,1,1,1,Entire apartment,109 Reviews,Rating 4.5 out of 5,40.75060474,-74.00245606,FALSE,90%
-79,"Price$350 per night",4,1,2,1,Entire loft,11 Reviews,Rating 5 out of 5,40.72925609,-73.99968334,"true,",100%
-80,"Price$339 per night",6,2,3,2,Entire condominium,33 Reviews,Rating 5 out of 5,40.75181065,-73.97137144,"true,",100%
-81,"Price$350 per night",8,4,5,3,NoneType,7 Reviews,Rating 5 out of 5,40.74339784,-73.98018022,FALSE,no info
-82,"Price$350 per night",8,3,4,2,Entire apartment,6 Reviews,Rating 5 out of 5,40.71934532,-73.98361094,FALSE,100%
-83,"Price$350 per night",3,1,1,1,Entire apartment,34 Reviews,Rating 5 out of 5,40.77194088,-73.96172385,FALSE,100%
-84,"Price$350 per night",6,3,5,2,Entire apartment,5 Reviews,Rating 5 out of 5,40.74074189,-73.97832943,"true,",100%
-85,"Price$375 per night",4,1,2,1,Entire serviced apartment,NoneType,no rating,40.75204868,-73.97140792,FALSE,83%
-86,"Price$328 per night",3,studio,2,1,Entire apartment,20 Reviews,Rating 5 out of 5,40.74285471,-73.99395293,"true,",100%
-87,"Price$339 per night",8,3,4,2,Entire condominium,2 Reviews,no rating,40.74557698,-73.97106417,FALSE,85%
-88,"Price$344 per night",1,4,2,2,Entire apartment,7 Reviews,Rating 5 out of 5,40.73099598,-73.98478168,FALSE,100%
-89,"Price$340 per night",5,2,3,2,Entire apartment,33 Reviews,Rating 5 out of 5,40.73537378,-74.00208614,"true,",100%
-90,"Price$350 per night",5,2,3,1,Entire apartment,NoneType,no rating,40.74561843,-73.98134325,FALSE,88%
-91,"Price$340 per night",4,1,2,1,Entire apartment,17 Reviews,Rating 4.5 out of 5,40.72794584,-74.00453617,"true,",100%
-92,"Price$375 per night",6,2,3,1,Entire loft,10 Reviews,Rating 4.5 out of 5,40.72801742,-73.99698069,FALSE,100%
-93,"Price$366 per night",2,1,1,1,Entire apartment,4 Reviews,Rating 5 out of 5,40.73089783,-73.98671088,FALSE,100%
-94,"Price$329 per night",2,1,1,1,Entire apartment,27 Reviews,Rating 5 out of 5,40.72519696,-73.98090654,"true,",100%
-95,"Price$350 per night",6,3,3,2,Entire apartment,NoneType,no rating,40.70427876,-74.00707196,FALSE,100%
-96,"Price$345 per night",6,2,3,1,Entire apartment,16 Reviews,Rating 4.5 out of 5,40.76103744,-73.99255059,"true,",100%
-97,"Price$375 per night",0,3,4,4,Entire apartment,4 Reviews,Rating 3.5 out of 5,40.75884286,-73.96182259,FALSE,100%
-98,"Price$350 per night",4,1,2,1,Entire apartment,7 Reviews,Rating 4.5 out of 5,40.73384371,-73.99616255,FALSE,100%
-99,"Price$369 per night",6,3,3,1,Entire apartment,3 Reviews,Rating 5 out of 5,40.77314276,-73.95856345,FALSE,90%
-100,"Price$350 per night",5,3,3,1,Entire apartment,5 Reviews,Rating 5 out of 5,40.73099367,-73.98518955,FALSE,100%
-101,"Price$360 per night",4,1,3,1,Entire apartment,10 Reviews,Rating 4.5 out of 5,40.76136703,-73.99289479,FALSE,100%
-102,"Price$354 per night",4,1,1,1,Entire condominium,8 Reviews,Rating 5 out of 5,40.74882282,-73.97788146,FALSE,100%
-103,"Price$375 per night",6,2,3,1,Entire serviced apartment,16 Reviews,Rating 5 out of 5,40.69995946,-73.99531968,"true,",100%
-104,"Price$329 per night",4,3,3,1,Entire apartment,4 Reviews,Rating 5 out of 5,40.72712097,-74.00065076,FALSE,96%
-105,"Price$350 per night",6,2,0,1,Entire apartment,19 Reviews,Rating 5 out of 5,40.76545563,-73.98782175,FALSE,100%
-106,"Price$360 per night",6,2,3,2,Entire apartment,15 Reviews,Rating 5 out of 5,40.72768148,-73.99917166,FALSE,100%
-107,"Price$375 per night",4,2,3,1,Entire apartment,6 Reviews,Rating 5 out of 5,40.76349424,-73.95968671,FALSE,100%
-108,"Price$375 per night",3,1,1,1,Entire apartment,7 Reviews,Rating 5 out of 5,40.74053607,-74.00040464,FALSE,100%
-109,"Price$370 per night",4,1,2,1,Entire condominium,4 Reviews,Rating 5 out of 5,40.76350228,-73.97676559,FALSE,100%
-110,"Price$339 per night",8,3,5,2,Entire loft,6 Reviews,Rating 4.5 out of 5,40.75942934,-73.96875985,FALSE,100%
-111,"Price$349 per night",5,3,4,1,Entire loft,NoneType,no rating,40.72718096,-74.00088422,"true,",100%
-112,"Price$375 per night",4,1,2,1,Entire apartment,NoneType,no rating,40.77354987,-73.99083963,FALSE,100%
-113,"Price$375 per night",4,1,1,1,Entire apartment,10 Reviews,Rating 4.5 out of 5,40.72651295,-73.99196258,FALSE,
-114,"Price$350 per night",5,2,3,1,Entire apartment,6 Reviews,Rating 5 out of 5,40.71906935,-73.99697895,FALSE,100%
-115,"Price$350 per night",6,2,3,1,Entire apartment,4 Reviews,Rating 5 out of 5,40.73946824,-73.98470456,FALSE,100%
-116,"Price$375 per night",8,4,5,2,Entire apartment,3 Reviews,Rating 5 out of 5,40.73010498,-73.99005537,FALSE,77%
-117,"Price$346 per night",4,2,2,2,Entire apartment,NoneType,no rating,40.73818757,-74.00878549,"true,",100%
-118,"Price$330 per night",6,2,3,1,Entire serviced apartment,NoneType,no rating,40.76127146,-73.97547462,FALSE,100%
-119,"Price$375 per night",4,1,1,1,Entire apartment,NoneType,no rating,40.76253306,-73.98450746,FALSE,100%
-120,"Price$339 per night",6,2,3,2,Entire condominium,13 Reviews,Rating 5 out of 5,40.75305066,-73.97128624,"true,",100%
-121,"Price$350 per night",4,2,2,1.5,Entire apartment,NoneType,no rating,40.72907667,-73.98911894,FALSE,100%
-122,"Price$350 per night",6,3,3,2,Entire apartment,NoneType,no rating,40.76113951,-73.97596373,FALSE,100%
-123,"Price$350 per night",4,1,2,1.5,Private room in condominium,NoneType,no rating,40.76411559,-73.98016674,FALSE,
-124,"Price$329 per night",2,studio,1,1,Room in hotel,NoneType,no rating,40.75906124,-73.98694816,FALSE,100%
-125,"Price$350 per night",4,1,2,1,Entire apartment,12 Reviews,Rating 5 out of 5,40.74322214,-73.98005041,FALSE,100%
-126,"Price$350 per night",6,2,2,1.5,Entire apartment,NoneType,no rating,40.74773569,-73.97354463,FALSE,100%
-127,"Price$365 per night",2,studio,1,1,Room in hotel,NoneType,no rating,40.75829948,-73.98443082,FALSE,100%
-128,"Price$365 per night",2,1,1,1,Entire serviced apartment,NoneType,no rating,40.70755572,-74.0075032,FALSE,100%
-129,"Price$350 per night",4,1,2,1,Entire apartment,6 Reviews,Rating 5 out of 5,40.7282353,-73.99516609,FALSE,100%
-130,"Price$345 per night",4,1,1,1,Entire apartment,NoneType,no rating,40.7287462,-73.98715817,FALSE,100%
-131,"Price$350 per night",6,2,2,1,Entire apartment,3 Reviews,Rating 4.5 out of 5,40.81634114,-73.94343585,FALSE,100%
-132,"Price$365 per night",2,2,2,2,Entire apartment,7 Reviews,Rating 5 out of 5,40.71505442,-73.99199394,"true,",100%
-133,"Price$345 per night",5,1,2,2,Private room in apartment,NoneType,no rating,40.72373708,-73.9951787,FALSE,0%
-134,"Price$331 per night",2,1,1,1,Entire apartment,1 Review,no rating,40.76244833,-73.96004921,FALSE,98%
-135,"Price$331 per night",2,1,1,1,Entire apartment,NoneType,no rating,40.72993145,-74.00250681,FALSE,98%
-136,"Price$330 per night",3,1,1,1,Entire apartment,3 Reviews,Rating 4.5 out of 5,40.73215187,-73.98660431,FALSE,80%
-137,"Price$339 per night",6,2,3,2,Entire condominium,15 Reviews,Rating 5 out of 5,40.75196102,-73.97147791,"true,",100%
-138,"Price$345 per night",2,1,1,1,Entire condominium,NoneType,no rating,40.74221372,-73.99956523,FALSE,100%
-139,"Price$374 per night",7,1,4,2,Entire apartment,31 Reviews,Rating 4.5 out of 5,40.80370396,-73.96803073,FALSE,100%
-140,"Price$339 per night",6,2,3,2,Entire condominium,4 Reviews,Rating 5 out of 5,40.75360579,-73.97201547,"true,",100%
-141,"Price$350 per night",1,1,1,1,Private room in apartment,4 Reviews,Rating 5 out of 5,40.78602999,-73.95015117,FALSE,100%
-142,"Price$350 per night",7,3,6,2,Entire apartment,41 Reviews,Rating 5 out of 5,40.72541598,-73.97986239,"true,",100%
-143,"Price$349 per night",3,studio,2,1,Entire apartment,9 Reviews,Rating 5 out of 5,40.76646412,-73.97912208,FALSE,40%
-144,"Price$345 per night",6,2,3,1,NoneType,4 Reviews,Rating 4 out of 5,40.75263496,-73.97315281,FALSE,no info
-145,"Price$345 per night",5,2,3,2,Entire apartment,1 Review,no rating,40.76626356,-73.98337947,FALSE,97%
-146,"Price$339 per night",6,2,3,2,Entire condominium,3 Reviews,Rating 5 out of 5,40.7521577,-73.97350857,"true,",100%
-147,"Price$352 per night",6,2,4,1,Entire apartment,14 Reviews,Rating 4.5 out of 5,40.72680675,-73.9934587,"true,",100%
-148,"Price$350 per night",4,1,1,1,Entire loft,NoneType,no rating,40.7371053,-74.00878292,FALSE,100%
-149,"Price$329 per night",4,2,2,1,Entire loft,6 Reviews,Rating 4.5 out of 5,40.70523596,-74.01278425,FALSE,
-150,"Price$350 per night",4,2,2,1,Entire apartment,NoneType,no rating,40.7364885,-73.99926907,FALSE,100%
-151,"Price$340 per night",8,3,6,3,Entire townhouse,76 Reviews,Rating 4.5 out of 5,40.76361467,-73.96251479,FALSE,80%
-152,"Price$350 per night",3,1,2,1,Entire apartment,18 Reviews,Rating 5 out of 5,40.72116145,-73.99589528,"true,",100%
-153,"Price$370 per night",2,1,1,1,Room in boutique hotel,NoneType,no rating,40.7060365,-74.00868508,FALSE,100%
-154,"Price$360 per night",2,studio,1,1,Entire apartment,5 Reviews,Rating 5 out of 5,40.75066322,-73.9827782,FALSE,
-155,"Price$349 per night",5,2,3,1,NoneType,NoneType,no rating,40.73065546,-73.9838221,FALSE,no info
-156,"Price$350 per night",4,1,2,1,Entire loft,3 Reviews,Rating 5 out of 5,40.72471857,-73.99924923,FALSE,90%
-157,"Price$350 per night",4,1,2,1,Entire apartment,1 Review,no rating,40.77041725,-73.98539484,FALSE,94%
-158,"Price$329",2,studio,2,1,Entire apartment,7 Reviews,Rating 5 out of 5,40.7467592,-74.00308091,"true,",100%
-159,"Price$350",2,1,1,1,Entire apartment,19 Reviews,Rating 5 out of 5,40.73637481,-73.98618795,"true,",100%
-160,"Price$355",4,2,4,2,Entire apartment,2 Reviews,no rating,40.74813701,-73.97412902,FALSE,
-161,"Price$350",0,1,3,1,Entire serviced apartment,NoneType,no rating,40.74724307,-73.98924245,FALSE,
-162,"Price$350",4,2,3,2,Entire apartment,13 Reviews,Rating 4 out of 5,40.72153394,-73.98940528,FALSE,
-163,"Price$345",5,2,3,2,Entire apartment,1 Review,no rating,40.7655863,-73.98214611,FALSE,
-164,"Price$345",5,2,3,2,Entire apartment,1 Review,no rating,40.7666488,-73.98281189,FALSE,
-165,"Price$360",6,2,3,2,Entire apartment,NoneType,no rating,40.76237067,-73.98675573,FALSE,
-166,"Price$350",6,2,1,1,Entire apartment,9 Reviews,Rating 5 out of 5,40.81061394,-73.95124668,FALSE,
-167,"Price$329",4,1,3,1,Room in boutique hotel,NoneType,no rating,40.75483982,-73.97235082,FALSE,
-168,"Price$345",4,1,2,1,Entire apartment,15 Reviews,Rating 5 out of 5,40.76663472,-73.98069048,FALSE,
-169,"Price$350",5,2,3,1,Entire apartment,14 Reviews,Rating 5 out of 5,40.76043274,-73.95991774,FALSE,
-170,"Price$343",2,1,1,1,Room in hotel,NoneType,no rating,40.76663987,-73.98368461,FALSE,
-171,"Price$350",2,1,1,1.5,Entire apartment,7 Reviews,Rating 5 out of 5,40.74378969,-73.99917577,FALSE,
-172,"Price$350",0,2,6,1,Entire apartment,7 Reviews,Rating 4.5 out of 5,40.80533004,-73.94774427,FALSE,
-173,"Price$350",6,2,3,1,Entire apartment,28 Reviews,Rating 5 out of 5,40.78360008,-73.95093345,FALSE,
-174,"Price$350 per night",6,2,3,2,Entire apartment,NoneType,no rating,40.80629608,-73.95580233,FALSE,
-175,"Price$350 per night",6,2,3,1,Entire apartment,1 Review,no rating,40.74754473,-73.97199191,FALSE,
-176,"Price$350",6,2,3,1,Entire apartment,28 Reviews,Rating 5 out of 5,40.78360008,-73.95093345,FALSE,
-177,"Price$345",4,1,2,1,Entire apartment,15 Reviews,Rating 5 out of 5,40.76663472,-73.98069048,FALSE,
-178,"Price$350",5,2,3,1,Entire apartment,14 Reviews,Rating 5 out of 5,40.76043274,-73.95991774,FALSE,
-179,"Price$329",4,1,3,1,Room in boutique hotel,NoneType,no rating,40.75483982,-73.97235082,FALSE,
-180,"Price$329",2,studio,2,1,Entire apartment,7 Reviews,Rating 5 out of 5,40.7467592,-74.00308091,"true,",
-181,"Price$343",2,1,1,1,Entire serviced apartment,9 Reviews,Rating 2.5 out of 5,40.76616726,-73.98021788,FALSE,
-182,"Price$350",2,1,1,1.5,Entire apartment,7 Reviews,Rating 5 out of 5,40.74378969,-73.99917577,FALSE,
-183,"Price$375",4,1,2,1,Entire apartment,6 Reviews,Rating 5 out of 5,40.76394105,-73.97824665,FALSE,
-184,"Price$349",6,2,5,1,Entire apartment,17 Reviews,Rating 4.5 out of 5,40.77801404,-73.98384923,"true,",
-185,"Price$350",5,2,2,2,Entire apartment,NoneType,no rating,40.79143453,-73.97366109,FALSE,
-186,"Price$360",5,2,2,1,Entire apartment,13 Reviews,Rating 4.5 out of 5,40.75950279,-73.98967096,FALSE,
-187,"Price$375",4,2,3,1,Entire apartment,10 Reviews,Rating 4.5 out of 5,40.72031873,-73.98332285,FALSE,
-188,"Price$372",5,2,2,1,Entire apartment,NoneType,no rating,40.74376592,-73.99904959,FALSE,
-189,"Price$350",4,1,2,1.5,Entire condominium,NoneType,no rating,40.81593732,-73.94494976,FALSE,
-190,"Price$366 per night",6,3,3,2,Entire apartment,NoneType,no rating,40.72904547,-73.98548271,FALSE,
-191,"Price$375 per night",2,1,1,1,Entire apartment,NoneType,no rating,40.75168986,-74.00381586,FALSE,
-192,"Price$350 per night",9,2,4,1,Entire apartment,6 Reviews,Rating 5 out of 5,40.80613394,-73.94722855,FALSE,
-193,"Price$350 per night",5,2,3,1.5,Entire apartment,NoneType,no rating,40.75565205,-73.96339525,FALSE,
-194,"Price$350 per night",9,2,3,1,Entire apartment,9 Reviews,Rating 4.5 out of 5,40.8060361,-73.94603198,FALSE,
-195,"Price$350 per night",4,2,3,2,Entire apartment,1 Review,no rating,40.78493145,-73.94897291,FALSE,
-196,"Price$351 per night",2,1,1,1,Entire serviced apartment,NoneType,no rating,40.75657307,-73.98174657,FALSE,
-197,"Price$341 per night",2,1,1,1,Entire serviced apartment,NoneType,no rating,40.75248373,-73.96513328,FALSE,
-198,"Price$330",2,1,1,1.5,Entire apartment,1 Review,no rating,40.72205297,-74.00120571,FALSE,
-199,"Price$340",2,1,1,1,NoneType,7 Reviews,Rating 5 out of 5,40.73851899,-73.99849403,FALSE,no info
-200,"Price$370",8,3,5,2,Entire apartment,18 Reviews,Rating 4 out of 5,40.76459827,-73.98637016,FALSE,
-201,"Price$351",4,2,2,1,Entire serviced apartment,NoneType,no rating,40.79338482,-73.96653524,FALSE,
-202,"Price$350",6,2,2,2,Entire apartment,NoneType,no rating,40.76302894,-73.98598505,FALSE,
-203,"Price$350",5,2,3,1,Entire apartment,12 Reviews,Rating 4.5 out of 5,40.76670814,-73.98666497,FALSE,
-204,"Price$349",6,2,5,2,Entire apartment,3 Reviews,Rating 4 out of 5,40.7125214,-74.00564603,FALSE,
-205,"Price$350",4,1,2,1,Entire apartment,1 Review,no rating,40.73418884,-74.00142878,FALSE,
-206,"Price$349 per night",5,3,4,1,Entire apartment,7 Reviews,Rating 5 out of 5,40.7454305,-73.9842893,FALSE,
-207,"Price$341 per night",2,1,1,1,Entire serviced apartment,NoneType,no rating,40.75248373,-73.96513328,FALSE,
-208,"Price$330",2,1,1,1.5,Entire apartment,1 Review,no rating,40.72205297,-74.00120571,FALSE,
-209,"Price$333",2,1,2,1.5,Entire apartment,12 Reviews,Rating 5 out of 5,40.74961004,-73.98441541,"true,",
-210,"Price$349",6,2,5,2,Entire apartment,3 Reviews,Rating 4 out of 5,40.7125214,-74.00564603,FALSE,
-211,"Price$335",5,2,2,2,Entire apartment,NoneType,no rating,40.76632936,-73.98144953,FALSE,
-212,"Price$350",4,2,2,1,Entire apartment,NoneType,no rating,40.72817554,-73.98075362,FALSE,
-213,"Price$350",5,2,2,1,Entire apartment,6 Reviews,Rating 5 out of 5,40.72469075,-73.99469763,FALSE,
-214,"Price$350",4,2,2,1,Entire apartment,NoneType,no rating,40.73637582,-73.98088967,FALSE,
-215,Free cancellation,6,2,3,1,Entire apartment,16 Reviews,Rating 4.5 out of 5,40.7670297,-73.98874446,FALSE,
-216,Free cancellation,4,2,2,1,Private room in apartment,2 Reviews,no rating,40.76364469,-73.97763014,"true,",
-217,Free cancellation,4,1,2,2,Entire apartment,9 Reviews,Rating 5 out of 5,40.78692364,-73.97094797,FALSE,
-218,Free cancellation,5,2,2,2,Entire apartment,NoneType,no rating,40.79143453,-73.97366109,FALSE,
-219,Free cancellation,6,3,5,2,Entire apartment,NoneType,no rating,40.73281445,-74.00205312,"true,",
-220,Free cancellation,6,3,4,1,Entire apartment,1 Review,no rating,40.74198235,-73.98342902,FALSE,
-221,Free cancellation,4,1,2,1,Entire serviced apartment,4 Reviews,Rating 5 out of 5,40.75313939,-73.97366647,FALSE,
-222,Free cancellation,6,2,2,2,Entire apartment,NoneType,no rating,40.70965595,-74.00762264,FALSE,
-223,Free cancellation,2,1,1,1,Private room in apartment,NoneType,no rating,40.76567862,-73.97789709,FALSE,
-224,"Price$350 per night",2,1,1,1,Entire loft,1 Review,no rating,40.71331858,-74.00642771,FALSE,
-225,"Price$337 per night",2,1,2,1,Entire apartment,NoneType,no rating,40.75971453,-73.98638846,FALSE,
-226,"Price$350 per night",2,1,1,1,Private room in apartment,9 Reviews,Rating 5 out of 5,40.78093467,-73.95174754,FALSE,
-227,"Price$350 per night",2,1,1,1,Private room in apartment,1 Review,no rating,40.76504105,-73.98856403,FALSE,
-228,"Price$350 per night",3,2,2,1,Entire apartment,NoneType,no rating,40.72045508,-73.99237242,FALSE,
-229,"Price$350 per night",7,3,3,2,Entire apartment,NoneType,no rating,40.73558651,-74.00469953,FALSE,
-230,"Price$350 per night",6,3,4,1.5,Entire place,NoneType,no rating,40.78594982,-73.95333943,FALSE,
-231,"Price$335 per night",2,1,1,1,Entire apartment,1 Review,no rating,40.706898,-74.01613587,FALSE,
-232,"Price$350 per night",4,1,2,1,Entire apartment,NoneType,no rating,40.75180228,-73.97073958,FALSE,
-233,"Price$340",1,1,1,1,Private room in apartment,NoneType,no rating,40.78558487,-73.97703148,FALSE,
-234,"Price$350",2,1,1,1,Entire apartment,NoneType,no rating,40.72100054,-73.99218107,FALSE,
-235,"Price$350",5,2,3,1,Private room in bed and breakfast,3 Reviews,Rating 3.5 out of 5,40.80527289,-73.94578563,FALSE,
-236,"Price$350",2,1,1,1,Private room in apartment,22 Reviews,Rating 4.5 out of 5,40.71775085,-73.98611712,FALSE,
-237,"Price$350",6,1,4,2,Entire bed and breakfast,3 Reviews,Rating 4.5 out of 5,40.80517743,-73.9460526,FALSE,
-238,"Price$350",4,2,2,1.5,Entire apartment,NoneType,no rating,40.76350242,-73.98198913,FALSE,
-239,"Price$350",3,1,2,1,Entire apartment,1 Review,no rating,40.77281853,-73.98798036,FALSE,
-240,"Price$350",4,2,2,1,Entire apartment,NoneType,no rating,40.73637582,-73.98088967,FALSE,
-241,Free cancellation,5,3,3,1,Entire apartment,NoneType,no rating,40.84161692,-73.93625724,FALSE,
-0,"Price$385 per night",6,2,3,2,Entire apartment,81 Reviews,Rating 5 out of 5,40.76285966,-73.99851935,FALSE,100%
-1,"Price$549 per night",5,2,2,2,Entire apartment,115 Reviews,Rating 5 out of 5,40.76534267,-73.97694944,FALSE,80%
-2,"Price$400 per night",0,4,6,2,Entire apartment,114 Reviews,Rating 4.5 out of 5,40.74535792,-73.98896851,FALSE,100%
-3,"Price$529 per night",6,2,5,2,NoneType,NoneType,no rating,40.75606852,-73.98593351,"true,",no info
-4,"Price$500 per night",0,3,4,3,Entire apartment,64 Reviews,Rating 5 out of 5,40.74309229,-73.97722921,"true,",92%
-5,"Price$500 per night",6,3,3,2.5,Entire apartment,100 Reviews,Rating 5 out of 5,40.74338903,-73.99642003,"true,",100%
-6,"Price$400 per night",0,4,7,2,Entire apartment,76 Reviews,Rating 5 out of 5,40.74226902,-73.9793333,"true,",100%
-7,"Price$555 per night",4,2,2,2,NoneType,NoneType,no rating,40.74187996,-73.99729215,"true,",no info
-8,"Price$400 per night",8,3,5,2,Entire apartment,208 Reviews,Rating 5 out of 5,40.73730618,-73.99050775,FALSE,100%
-9,"Price$400 per night",0,4,5,2,NoneType,141 Reviews,Rating 4.5 out of 5,40.71896571,-74.00905322,FALSE,no info
-10,"Price$400 per night",8,4,5,2,Entire house,123 Reviews,Rating 4.5 out of 5,40.76104379,-73.98935662,FALSE,90%
-11,"Price$499 per night",4,2,2,2,Entire apartment,35 Reviews,Rating 4.5 out of 5,40.72569046,-73.99519427,FALSE,92%
-12,"Price$399 per night",7,2,4,2,Entire condominium,36 Reviews,Rating 5 out of 5,40.7607757,-73.99481296,"true,",100%
-13,"Price$550 per night",0,3,5,3.5,Entire loft,37 Reviews,Rating 5 out of 5,40.74393148,-73.98139394,"true,",100%
-14,"Price$450 per night",0,4,5,2,Entire apartment,82 Reviews,Rating 4.5 out of 5,40.74502094,-73.98052651,FALSE,92%
-15,"Price$540 per night",6,3,7,2,Entire apartment,96 Reviews,Rating 5 out of 5,40.73629182,-73.98971635,"true,",100%
-16,"Price$475 per night",0,3,3,2,Entire apartment,51 Reviews,Rating 4.5 out of 5,40.74151796,-73.98169474,FALSE,100%
-17,"Price$553 per night",5,3,5,2.5,Entire condominium,132 Reviews,Rating 5 out of 5,40.72256176,-73.98355026,FALSE,100%
-18,"Price$495 per night",4,2,4,2,Entire condominium,89 Reviews,Rating 5 out of 5,40.79448005,-73.97060406,"true,",100%
-19,"Price$390 per night",7,2,5,2,Entire apartment,87 Reviews,Rating 5 out of 5,40.78852135,-73.96746031,"true,",100%
-20,"Price$500 per night",9,4,5,2,Entire townhouse,24 Reviews,Rating 4.5 out of 5,40.76348197,-73.96601502,FALSE,92%
-21,"Price$500 per night",2,4,4,3,Entire apartment,98 Reviews,Rating 5 out of 5,40.74307714,-73.97709148,"true,",100%
-22,"Price$440 per night",5,2,3,2.5,Entire apartment,70 Reviews,Rating 5 out of 5,40.76931283,-73.96726294,"true,",100%
-23,"Price$400 per night",0,4,7,2,Entire apartment,88 Reviews,Rating 4.5 out of 5,40.74229906,-73.97959994,FALSE,100%
-24,"Price$450 per night",0,3,4,1,Entire apartment,43 Reviews,Rating 4.5 out of 5,40.72064074,-73.99956965,FALSE,100%
-25,"Price$400 per night",8,3,5,2,Entire apartment,39 Reviews,Rating 4.5 out of 5,40.7245892,-73.98935397,FALSE,100%
-26,"Price$410 per night",8,3,4,2,Entire apartment,60 Reviews,Rating 5 out of 5,40.7415998,-73.98065523,"true,",100%
-27,"Price$500 per night",2,4,9,3,Entire apartment,122 Reviews,Rating 5 out of 5,40.77893941,-73.98652636,"true,",80%
-28,"Price$495 per night",0,4,5,2,Entire serviced apartment,20 Reviews,Rating 5 out of 5,40.76122324,-73.99029896,"true,",80%
-29,"Price$485 per night",1,4,5,2,Entire apartment,51 Reviews,Rating 4.5 out of 5,40.76134996,-73.99013329,FALSE,100%
-30,"Price$500 per night",0,3,5,3,Entire apartment,108 Reviews,Rating 4.5 out of 5,40.7157044,-73.99094191,"true,",100%
-31,"Price$450 per night",2,4,6,3,Entire apartment,84 Reviews,Rating 5 out of 5,40.75500761,-73.97061797,"true,",100%
-32,"Price$408 per night",2,3,4,2.5,Entire apartment,121 Reviews,Rating 4.5 out of 5,40.74356186,-73.98176444,FALSE,100%
-33,"Price$399 per night",8,4,4,2.5,Entire loft,13 Reviews,Rating 5 out of 5,40.74587072,-73.99355669,FALSE,100%
-34,"Price$440 per night",8,4,4,1.5,Entire serviced apartment,29 Reviews,Rating 5 out of 5,40.70458002,-74.00754684,FALSE,95%
-35,"Price$399 per night",6,2,5,1,Entire apartment,42 Reviews,Rating 5 out of 5,40.76532255,-73.96150156,"true,",100%
-36,"Price$399 per night",4,1,2,1,Entire apartment,26 Reviews,Rating 5 out of 5,40.75204201,-73.99920683,FALSE,100%
-37,"Price$500 per night",2,4,7,3,Entire apartment,57 Reviews,Rating 5 out of 5,40.75475636,-73.97124664,FALSE,100%
-38,"Price$560 per night",7,2,5,1.5,Entire apartment,83 Reviews,Rating 5 out of 5,40.78689194,-73.97313831,"true,",100%
-39,"Price$525 per night",8,3,6,1,Entire loft,43 Reviews,Rating 4.5 out of 5,40.74109855,-73.99024323,FALSE,90%
-40,"Price$543 per night",7,3,3,2,Entire apartment,40 Reviews,Rating 4.5 out of 5,40.74419943,-73.98748275,FALSE,100%
-41,"Price$449 per night",6,2,3,1,Entire loft,36 Reviews,Rating 4.5 out of 5,40.7216156,-74.00414104,"true,",100%
-42,"Price$500 per night",8,3,4,2,Entire serviced apartment,21 Reviews,Rating 5 out of 5,40.73765074,-73.98454361,"true,",100%
-43,"Price$429",6,2,3,1,Entire apartment,80 Reviews,Rating 5 out of 5,40.71844922,-74.00931766,"true,",100%
-44,"Price$390",4,2,2,2,Entire house,136 Reviews,Rating 4.5 out of 5,40.72184523,-73.98246366,FALSE,92%
-45,"Price$425",7,2,2,2,Entire apartment,56 Reviews,Rating 5 out of 5,40.79085816,-73.96682911,"true,",100%
-46,"Price$473",7,2,4,2,Entire apartment,63 Reviews,Rating 4.5 out of 5,40.74186744,-74.00622491,FALSE,100%
-47,"Price$484",8,3,3,1.5,Entire condominium,52 Reviews,Rating 5 out of 5,40.79563042,-73.95060613,"true,",100%
-48,"Price$450 per night",6,5,8,4,Entire house,47 Reviews,Rating 5 out of 5,40.80276015,-73.94976368,FALSE,100%
-49,"Price$425 per night",4,2,2,1,Entire apartment,90 Reviews,Rating 5 out of 5,40.7498428,-73.99482029,"true,",100%
-50,"Price$440 per night",8,4,4,2,Entire apartment,110 Reviews,Rating 4.5 out of 5,40.73065648,-74.00286946,FALSE,92%
-51,"Price$490 per night",9,5,9,2,Entire condominium,95 Reviews,Rating 4.5 out of 5,40.74790474,-73.98682786,FALSE,100%
-52,"Price$399 per night",5,2,2,2,Entire serviced apartment,19 Reviews,Rating 4.5 out of 5,40.72051904,-74.00364727,FALSE,93%
-53,"Price$450 per night",8,3,3,2,NoneType,NoneType,no rating,40.75053403,-73.97192755,"true,",no info
-54,"Price$399 per night",4,1,3,1,Entire apartment,20 Reviews,Rating 5 out of 5,40.75252714,-73.99803811,FALSE,100%
-55,"Price$399 per night",6,2,3,2,Entire apartment,27 Reviews,Rating 5 out of 5,40.7773514,-73.96222492,"true,",100%
-56,"Price$395 per night",6,2,3,1,Entire apartment,259 Reviews,Rating 4.5 out of 5,40.73836392,-74.00447809,FALSE,100%
-57,"Price$495 per night",0,4,4,4,Entire apartment,36 Reviews,Rating 5 out of 5,40.74842536,-73.97702784,"true,",100%
-58,"Price$560 per night",9,4,6,4,Entire apartment,23 Reviews,Rating 4.5 out of 5,40.73495148,-74.00111516,FALSE,100%
-59,"Price$540 per night",6,3,8,2,Entire apartment,16 Reviews,Rating 4.5 out of 5,40.7359064,-73.98743995,"true,",100%
-60,"Price$399 per night",5,1,2,1,Entire condominium,5 Reviews,Rating 5 out of 5,40.76814842,-73.98662934,"true,",100%
-61,"Price$400 per night",2,1,1,1,Entire loft,30 Reviews,Rating 5 out of 5,40.7405599,-73.99261636,"true,",100%
-62,"Price$560 per night",9,4,6,4,Entire apartment,14 Reviews,Rating 4 out of 5,40.73495748,-73.99996351,FALSE,100%
-63,"Price$489 per night",7,3,5,2,Entire apartment,54 Reviews,Rating 4.5 out of 5,40.76583639,-73.98818201,FALSE,90%
-64,"Price$500 per night",6,3,3,1,Entire apartment,81 Reviews,Rating 5 out of 5,40.73027084,-73.98759367,"true,",100%
-65,"Price$400 per night",3,1,2,1,Entire apartment,31 Reviews,Rating 5 out of 5,40.71933788,-74.00998106,"true,",100%
-66,"Price$401 per night",1,4,6,2,Entire apartment,41 Reviews,Rating 5 out of 5,40.73198611,-73.98522547,"true,",100%
-67,"Price$399 per night",7,3,4,1,Entire apartment,29 Reviews,Rating 4.5 out of 5,40.76474061,-73.99154392,FALSE,
-68,"Price$550 per night",7,3,4,2,Entire loft,22 Reviews,Rating 4.5 out of 5,40.72499362,-73.98867492,FALSE,100%
-69,"Price$395 per night",6,3,5,2,Entire loft,44 Reviews,Rating 4.5 out of 5,40.72591231,-73.99451919,FALSE,100%
-70,"Price$525 per night",4,3,3,1,Entire loft,32 Reviews,Rating 5 out of 5,40.71943787,-73.99395744,"true,",100%
-71,"Price$415 per night",6,2,4,1,Entire apartment,48 Reviews,Rating 4.5 out of 5,40.73578088,-74.00387848,FALSE,92%
-72,"Price$500 per night",4,2,3,2,NoneType,NoneType,no rating,40.7414008,-73.9981482,"true,",no info
-73,"Price$385 per night",8,3,4,1.5,Entire apartment,27 Reviews,Rating 5 out of 5,40.73924771,-73.98084293,"true,",100%
-74,"Price$470 per night",5,2,2,2,Entire serviced apartment,19 Reviews,Rating 5 out of 5,40.73721262,-73.98474796,"true,",100%
-75,"Price$500",2,4,7,3,Entire apartment,57 Reviews,Rating 5 out of 5,40.75475636,-73.97124664,FALSE,100%
-76,"Price$525",2,4,5,2,Entire townhouse,12 Reviews,Rating 5 out of 5,40.82277061,-73.95549807,"true,",100%
-77,"Price$468",2,studio,1,1,Entire apartment,18 Reviews,Rating 4 out of 5,40.80474294,-73.95300348,FALSE,100%
-78,"Price$550",0,4,4,2,Entire apartment,18 Reviews,Rating 4.5 out of 5,40.77631641,-73.95242323,FALSE,50%
-79,"Price$550",5,2,2,2,Entire loft,62 Reviews,Rating 5 out of 5,40.72113118,-74.00478198,"true,",100%
-80,"Price$383",6,1,1,1.5,Entire apartment,158 Reviews,Rating 5 out of 5,40.72735925,-74.00191832,"true,",100%
-81,"Price$450",2,4,7,3,Entire apartment,71 Reviews,Rating 5 out of 5,40.74476869,-73.97579021,FALSE,90%
-82,"Price$400",8,5,5,2,Entire loft,4 Reviews,Rating 5 out of 5,40.74923574,-73.99263109,FALSE,100%
-83,"Price$400",0,5,5,3,Entire apartment,5 Reviews,Rating 5 out of 5,40.70684409,-74.00269269,FALSE,100%
-84,"Price$399 per night",8,3,3,2,Entire apartment,95 Reviews,Rating 4.5 out of 5,40.72054793,-73.98393892,FALSE,100%
-85,"Price$545 per night",2,4,4,2,Entire apartment,6 Reviews,Rating 4.5 out of 5,40.75209755,-73.98449292,FALSE,100%
-86,"Price$500 per night",2,4,7,2,Entire loft,28 Reviews,Rating 5 out of 5,40.74802511,-73.97546056,"true,",100%
-87,"Price$550 per night",6,3,3,2.5,Entire condominium,18 Reviews,Rating 5 out of 5,40.746245,-73.9825495,"true,",100%
-88,"Price$475 per night",5,2,2,1,Entire apartment,95 Reviews,Rating 4.5 out of 5,40.72836952,-73.9863131,FALSE,96%
-89,"Price$395 per night",6,2,3,1,Entire loft,22 Reviews,Rating 5 out of 5,40.74770198,-73.99240016,"true,",100%
-90,"Price$500 per night",6,4,8,1,Entire apartment,37 Reviews,Rating 4.5 out of 5,40.72672274,-73.98673339,FALSE,100%
-91,"Price$400 per night",8,2,4,2,Entire apartment,9 Reviews,Rating 5 out of 5,40.74230716,-73.97830524,FALSE,100%
-92,"Price$400 per night",6,2,3,2,Entire apartment,20 Reviews,Rating 4 out of 5,40.75052641,-73.97094715,FALSE,100%
-93,"Price$400 per night",6,2,3,1,Entire apartment,57 Reviews,Rating 5 out of 5,40.70587318,-74.0153369,FALSE,100%
-94,"Price$550 per night",0,4,4,2,Entire apartment,18 Reviews,Rating 4.5 out of 5,40.77631641,-73.95242323,FALSE,50%
-95,"Price$525 per night",6,2,2,1,Entire apartment,19 Reviews,Rating 5 out of 5,40.74158528,-73.99809589,"true,",100%
-96,"Price$400 per night",2,studio,1,1,NoneType,43 Reviews,Rating 5 out of 5,40.71370666,-73.99354692,"true,",no info
-97,"Price$575 per night",6,4,4,2.5,Entire townhouse,40 Reviews,Rating 5 out of 5,40.80048516,-73.9553312,"true,",100%
-98,"Price$495 per night",6,3,4,1.5,Entire apartment,39 Reviews,Rating 5 out of 5,40.75511934,-73.97155285,FALSE,100%
-99,"Price$400 per night",3,1,1,1,Entire apartment,35 Reviews,Rating 5 out of 5,40.7778593,-73.98066191,"true,",100%
-100,"Price$500 per night",3,1,1,1,Entire apartment,13 Reviews,Rating 4.5 out of 5,40.73364999,-74.00409627,FALSE,78%
-101,"Price$399 per night",8,2,2,1,Entire apartment,8 Reviews,Rating 5 out of 5,40.77232857,-73.9549834,FALSE,100%
-102,"Price$411 per night",2,5,7,3,Entire townhouse,5 Reviews,Rating 5 out of 5,40.76490205,-73.97817544,FALSE,100%
-103,"Price$525 per night",6,2,4,2,Entire loft,12 Reviews,Rating 5 out of 5,40.71316709,-74.00653868,FALSE,100%
-104,"Price$410 per night",0,3,6,2.5,Entire apartment,102 Reviews,Rating 4.5 out of 5,40.823124,-73.94971373,FALSE,100%
-105,"Price$425 per night",4,1,2,1,Entire apartment,18 Reviews,Rating 5 out of 5,40.7329148,-74.00585897,"true,",100%
-106,"Price$475 per night",8,3,4,2,Entire serviced apartment,1 Review,no rating,40.76115196,-73.97690627,FALSE,100%
-107,"Price$460 per night",8,4,4,2,NoneType,NoneType,no rating,40.70447579,-74.00614772,FALSE,no info
-108,"Price$449 per night",4,2,2,1,Entire apartment,6 Reviews,Rating 5 out of 5,40.76419012,-73.97455473,FALSE,100%
-109,"Price$499 per night",6,3,4,2.5,Entire condominium,NoneType,no rating,40.75601997,-73.99533419,FALSE,100%
-110,"Price$400 per night",0,3,4,2.5,Entire loft,6 Reviews,Rating 5 out of 5,40.74522575,-73.9818755,FALSE,84%
-111,"Price$399 per night",7,2,4,1,Entire apartment,17 Reviews,Rating 4.5 out of 5,40.74404733,-73.98591639,FALSE,90%
-112,"Price$429 per night",4,1,2,1,Entire guesthouse,2 Reviews,no rating,40.75326275,-73.97303073,FALSE,100%
-113,"Price$383 per night",2,1,1,1,Entire apartment,33 Reviews,Rating 4.5 out of 5,40.71966188,-74.00984311,FALSE,100%
-114,"Price$399 per night",8,3,5,2,Entire loft,30 Reviews,Rating 4.5 out of 5,40.76627878,-73.98773545,FALSE,100%
-115,"Price$475 per night",8,3,4,2,Entire serviced apartment,1 Review,no rating,40.76305455,-73.97537399,FALSE,100%
-116,"Price$500 per night",4,2,3,2.5,Entire apartment,10 Reviews,Rating 5 out of 5,40.74965779,-73.98450783,FALSE,100%
-117,"Price$479 per night",4,2,2,2,Entire serviced apartment,2 Reviews,no rating,40.76824681,-73.99106767,"true,",94%
-118,"Price$479 per night",4,2,2,2,Entire serviced apartment,2 Reviews,no rating,40.76824681,-73.99106767,"true,",94%
-119,"Price$399 per night",6,2,3,2,Entire serviced apartment,9 Reviews,Rating 4 out of 5,40.7177539,-74.00606648,FALSE,93%
-120,"Price$475 per night",8,3,4,2,Entire serviced apartment,1 Review,no rating,40.76305455,-73.97537399,FALSE,100%
-121,"Price$500 per night",4,2,3,2.5,Entire apartment,10 Reviews,Rating 5 out of 5,40.74965779,-73.98450783,FALSE,100%
-122,"Price$450 per night",4,2,2,1,Entire apartment,6 Reviews,Rating 4.5 out of 5,40.7623748,-73.96374186,FALSE,90%
-123,"Price$395 per night",9,4,5,2.5,Entire townhouse,51 Reviews,Rating 5 out of 5,40.82271888,-73.94502019,"true,",100%
-124,"Price$500 per night",8,4,4,2,Entire apartment,9 Reviews,Rating 5 out of 5,40.74380475,-74.00389592,"true,",100%
-125,"Price$425 per night",6,2,2,2,Entire condominium,3 Reviews,Rating 4.5 out of 5,40.76157052,-73.99882355,FALSE,100%
-126,"Price$480 per night",6,2,6,1,Entire apartment,17 Reviews,Rating 5 out of 5,40.7358258,-73.98811737,"true,",100%
-127,"Price$400 per night",4,2,2,1.5,Entire condominium,3 Reviews,Rating 5 out of 5,40.74894257,-73.98222317,FALSE,100%
-128,"Price$500 per night",6,2,2,2,Private room in resort,1 Review,no rating,40.76351073,-73.97887656,FALSE,100%
-129,"Price$400 per night",4,2,2,2,Entire apartment,14 Reviews,Rating 5 out of 5,40.77511321,-73.99004985,"true,",100%
-130,"Price$425 per night",6,3,4,1,Entire apartment,57 Reviews,Rating 5 out of 5,40.72129859,-73.98559292,FALSE,70%
-131,"Price$509 per night",6,3,3,2,Entire apartment,30 Reviews,Rating 5 out of 5,40.71914679,-73.9826683,FALSE,90%
-132,"Price$535 per night",5,2,2,2,Entire serviced apartment,NoneType,no rating,40.75722171,-73.9647805,FALSE,100%
-133,"Price$449 per night",4,2,2,1,Entire apartment,6 Reviews,Rating 5 out of 5,40.76419012,-73.97455473,FALSE,100%
-134,"Price$399 per night",6,2,3,2,Entire serviced apartment,10 Reviews,Rating 5 out of 5,40.719936,-74.00332112,FALSE,90%
-135,"Price$400 per night",4,2,3,1.5,Entire apartment,14 Reviews,Rating 5 out of 5,40.78241703,-73.98380668,"true,",100%
-136,"Price$535 per night",5,2,2,2,Entire serviced apartment,NoneType,no rating,40.75722171,-73.9647805,FALSE,100%
-137,"Price$395 per night",6,2,3,2,Entire apartment,43 Reviews,Rating 5 out of 5,40.7981572,-73.96189749,FALSE,100%
-138,"Price$500 per night",6,2,3,2,Entire apartment,16 Reviews,Rating 5 out of 5,40.7460941,-74.00384324,FALSE,100%
-139,"Price$425 per night",4,1,2,1,Entire condominium,NoneType,no rating,40.75234232,-73.97289283,FALSE,100%
-140,"Price$500 per night",6,4,9,2,Entire apartment,25 Reviews,Rating 5 out of 5,40.82249253,-73.94478777,"true,",100%
-141,"Price$500 per night",4,2,4,1,Entire apartment,21 Reviews,Rating 5 out of 5,40.7339856,-74.00548934,"true,",100%
-142,"Price$500 per night",6,2,3,2,Entire apartment,NoneType,no rating,40.75171936,-73.97190708,FALSE,100%
-143,"Price$400 per night",2,3,2,2,Entire apartment,3 Reviews,Rating 5 out of 5,40.74301384,-73.99929477,FALSE,100%
-144,"Price$475 per night",6,2,2,2,Entire apartment,17 Reviews,Rating 4.5 out of 5,40.77658888,-73.95407068,FALSE,100%
-145,"Price$400 per night",4,2,2,1,Entire apartment,NoneType,no rating,40.76301422,-73.98907626,FALSE,
-146,"Price$535 per night",2,1,1,1,Entire serviced apartment,NoneType,no rating,40.75615998,-73.98480762,FALSE,80%
-147,"Price$550 per night",6,3,4,2,Entire apartment,23 Reviews,Rating 5 out of 5,40.73371649,-73.99704494,FALSE,100%
-148,"Price$500 per night",2,1,1,1,Room in hotel,NoneType,no rating,40.76406598,-73.97719697,FALSE,
-149,"Price$405 per night",2,1,1,1,Entire serviced apartment,NoneType,no rating,40.75761642,-73.9848633,FALSE,80%
-150,"Price$509 per night",6,2,2,2,Entire apartment,74 Reviews,Rating 4.5 out of 5,40.74149591,-74.00266963,FALSE,86%
-151,"Price$549 per night",8,4,8,2.5,Entire loft,NoneType,no rating,40.71844554,-74.00213958,"true,",100%
-152,"Price$390 per night",8,3,4,2,Entire apartment,3 Reviews,Rating 4.5 out of 5,40.75944246,-73.98991678,FALSE,77%
-153,"Price$509 per night",6,2,2,2,Entire apartment,74 Reviews,Rating 4.5 out of 5,40.74149591,-74.00266963,FALSE,86%
-154,"Price$549 per night",8,4,8,2.5,Entire loft,NoneType,no rating,40.71844554,-74.00213958,"true,",100%
-155,"Price$525 per night",6,2,3,1,Entire loft,54 Reviews,Rating 5 out of 5,40.70461856,-74.00985624,"true,",100%
-156,"Price$400 per night",0,3,4,2.5,Entire loft,6 Reviews,Rating 5 out of 5,40.74522575,-73.9818755,FALSE,84%
-157,"Price$500 per night",2,1,1,1,Room in hotel,NoneType,no rating,40.76406598,-73.97719697,FALSE,
-158,"Price$440 per night",9,2,5,2,Entire apartment,6 Reviews,Rating 5 out of 5,40.75106315,-73.97346028,"true,",100%
-159,"Price$451 per night",3,1,1,1,Entire serviced apartment,NoneType,no rating,40.76551208,-73.97651034,FALSE,100%
-160,"Price$500 per night",2,3,7,3,Entire apartment,4 Reviews,Rating 5 out of 5,40.76229539,-73.96386382,FALSE,92%
-161,"Price$407 per night",2,1,1,1,Entire serviced apartment,NoneType,no rating,40.76459355,-73.97529282,FALSE,100%
-162,"Price$385 per night",3,1,1,1,Entire apartment,43 Reviews,Rating 5 out of 5,40.74031051,-74.00531786,FALSE,100%
-163,"Price$445 per night",4,1,2,1,Entire condominium,9 Reviews,Rating 5 out of 5,40.71085038,-74.01580471,FALSE,100%
-164,"Price$500 per night",8,3,4,1,Entire loft,1 Review,no rating,40.72192008,-74.0095471,FALSE,100%
-165,"Price$495 per night",3,1,1,1.5,Entire condominium,NoneType,no rating,40.74932754,-73.98467072,FALSE,
-166,"Price$575 per night",8,3,5,2,Entire serviced apartment,1 Review,no rating,40.76254633,-73.97461068,FALSE,100%
-167,"Price$450 per night",4,2,3,1,Entire apartment,55 Reviews,Rating 5 out of 5,40.73415224,-73.99814263,FALSE,100%
-168,"Price$420 per night",6,2,3,1,Entire apartment,22 Reviews,Rating 5 out of 5,40.7371682,-74.00460289,FALSE,100%
-169,"Price$500 per night",5,1,1,1,Entire apartment,51 Reviews,Rating 5 out of 5,40.72090712,-73.9847459,"true,",100%
-0,"Price$590 per night",6,2,3,1.5,Entire apartment,78 Reviews,Rating 5 out of 5,40.75082398,-73.98526114,FALSE,87%
-1,"Price$895 per night",6,6,1,3.5,Entire townhouse,63 Reviews,Rating 5 out of 5,40.7423395,-74.00032017,FALSE,95%
-2,"Price$849 per night",6,7,8,3,Entire townhouse,54 Reviews,Rating 5 out of 5,40.73592388,-73.99638197,"true,",100%
-3,"Price$775 per night",2,2,3,2,Entire apartment,30 Reviews,Rating 5 out of 5,40.76203802,-73.98563495,"true,",100%
-4,"Price$549 per night",5,2,2,2,Entire apartment,115 Reviews,Rating 5 out of 5,40.76534267,-73.97694944,FALSE,80%
-5,"Price$650 per night",5,2,3,2,Entire apartment,62 Reviews,Rating 5 out of 5,40.72288995,-73.99740356,FALSE,90%
-6,"Price$800 per night",6,6,1,4.5,Entire townhouse,62 Reviews,Rating 5 out of 5,40.75793057,-73.96116671,"true,",96%
-7,"Price$555 per night",4,2,2,2,Entire apartment,96 Reviews,Rating 5 out of 5,40.74187996,-73.99729215,"true,",100%
-8,"Price$750 per night",5,4,8,4,Entire apartment,16 Reviews,Rating 5 out of 5,40.75704819,-73.98157185,"true,",79%
-9,"Price$850 per night",7,4,4,4.5,Entire townhouse,32 Reviews,Rating 4.5 out of 5,40.72350162,-73.98533801,FALSE,100%
-10,"Price$790 per night",4,2,2,2,Entire apartment,13 Reviews,Rating 5 out of 5,40.76699932,-73.99064131,"true,",90%
-11,"Price$550 per night",0,3,5,3.5,Entire loft,37 Reviews,Rating 5 out of 5,40.74393148,-73.98139394,"true,",100%
-12,"Price$770 per night",5,5,1,3,Entire apartment,7 Reviews,Rating 5 out of 5,40.7608482,-73.99281412,FALSE,67%
-13,"Price$649 per night",0,4,4,2,Entire apartment,36 Reviews,Rating 5 out of 5,40.72484464,-74.00242457,FALSE,100%
-14,"Price$540 per night",6,3,7,2,Entire apartment,96 Reviews,Rating 5 out of 5,40.73629182,-73.98971635,"true,",100%
-15,"Price$600 per night",6,3,3,1,Entire loft,82 Reviews,Rating 4.5 out of 5,40.72003062,-74.00262178,FALSE,100%
-16,"Price$553 per night",5,3,5,2.5,Entire condominium,132 Reviews,Rating 5 out of 5,40.72256176,-73.98355026,FALSE,100%
-17,"Price$575 per night",8,3,3,1,NoneType,NoneType,no rating,40.71943094,-73.99626741,"true,",no info
-18,"Price$690 per night",5,3,3,2,Entire apartment,63 Reviews,Rating 5 out of 5,40.80879374,-73.94126935,"true,",100%
-19,"Price$800 per night",2,5,8,5.5,Entire house,30 Reviews,Rating 5 out of 5,40.80468741,-73.94593633,"true,",100%
-20,"Price$543 per night",7,3,3,2,Entire apartment,40 Reviews,Rating 4.5 out of 5,40.74419943,-73.98748275,FALSE,100%
-21,"Price$800 per night",0,5,5,2.5,Entire loft,5 Reviews,Rating 5 out of 5,40.7216034,-73.99880311,FALSE,
-22,"Price$650 per night",5,3,3,2,Entire serviced apartment,30 Reviews,Rating 4.5 out of 5,40.74378964,-73.97217904,FALSE,80%
-23,"Price$695 per night",5,2,3,2.5,Entire serviced apartment,2 Reviews,no rating,40.75615961,-73.98303553,FALSE,89%
-24,"Price$560 per night",7,2,5,1.5,Entire apartment,83 Reviews,Rating 5 out of 5,40.78689194,-73.97313831,"true,",100%
-25,"Price$650 per night",8,3,4,2,Entire loft,38 Reviews,Rating 4.5 out of 5,40.73987381,-73.98981851,FALSE,100%
-26,"Price$895 per night",6,4,1,2,NoneType,NoneType,no rating,40.773546,-73.95807344,FALSE,no info
-27,"Price$595 per night",8,3,4,1,Entire apartment,38 Reviews,Rating 4.5 out of 5,40.72098538,-73.9996273,FALSE,100%
-28,"Price$599 per night",0,3,5,2,Entire apartment,74 Reviews,Rating 5 out of 5,40.76616061,-73.98916314,FALSE,100%
-29,"Price$600 per night",8,2,4,2,Entire apartment,58 Reviews,Rating 4.5 out of 5,40.73029007,-73.98049494,FALSE,100%
-30,"Price$650 per night",2,2,2,2,NoneType,NoneType,no rating,40.75297584,-73.99378068,FALSE,no info
-31,"Price$720 per night",0,4,4,2,Entire apartment,17 Reviews,Rating 5 out of 5,40.76299999,-73.9864209,"true,",100%
-32,"Price$588 per night",6,2,3,2,Entire apartment,19 Reviews,Rating 5 out of 5,40.75293598,-73.97330446,FALSE,100%
-33,"Price$800 per night",4,1,3,1,Entire apartment,NoneType,no rating,40.83483954,-73.93984521,FALSE,
-34,"Price$850 per night",6,4,4,1,Entire apartment,98 Reviews,Rating 5 out of 5,40.73129314,-73.99943974,"true,",90%
-35,"Price$615 per night",4,2,2,1,Entire condominium,32 Reviews,Rating 5 out of 5,40.76798486,-73.98355867,"true,",100%
-36,"Price$583 per night",6,2,3,2,Entire loft,4 Reviews,Rating 5 out of 5,40.72061214,-74.00539515,FALSE,100%
-37,"Price$680 per night",6,3,3,2,Entire loft,48 Reviews,Rating 5 out of 5,40.72222098,-74.0009014,"true,",100%
-38,"Price$650 per night",4,2,2,2,Entire loft,23 Reviews,Rating 5 out of 5,40.72847162,-73.99301626,"true,",100%
-39,"Price$550 per night",0,4,4,2,Entire apartment,18 Reviews,Rating 4.5 out of 5,40.77631641,-73.95242323,FALSE,50%
-40,"Price$650 per night",6,3,4,2,Entire condominium,65 Reviews,Rating 5 out of 5,40.71555863,-73.99234074,"true,",100%
-41,"Price$550 per night",5,2,2,2,Entire loft,62 Reviews,Rating 5 out of 5,40.72113118,-74.00478198,"true,",100%
-42,"Price$580 per night",8,4,4,2.5,Entire apartment,21 Reviews,Rating 5 out of 5,40.78772412,-73.96958519,FALSE,100%
-43,"Price$600 per night",8,4,6,2,Entire apartment,43 Reviews,Rating 5 out of 5,40.77585044,-73.9556634,"true,",100%
-44,"Price$900 per night",6,3,3,3.5,Entire loft,7 Reviews,Rating 5 out of 5,40.72316713,-74.00791862,FALSE,100%
-45,"Price$745 per night",0,4,4,2,Entire apartment,18 Reviews,Rating 4.5 out of 5,40.76303259,-73.98767459,"true,",100%
-46,"Price$800 per night",5,2,2,2.5,Entire condominium,1 Review,no rating,40.76591474,-73.97885836,FALSE,100%
-47,"Price$600 per night",6,3,3,2.5,Entire loft,7 Reviews,Rating 5 out of 5,40.72345083,-73.99943288,FALSE,100%
-48,"Price$818 per night",3,1,1,1,Entire serviced apartment,NoneType,no rating,40.76334892,-73.97456823,FALSE,100%
-49,"Price$700 per night",5,2,2,2,Entire apartment,22 Reviews,Rating 5 out of 5,40.74880596,-73.99375136,FALSE,100%
-50,"Price$650 per night",0,4,6,4,Entire serviced apartment,5 Reviews,Rating 5 out of 5,40.73679957,-73.98306602,"true,",100%
-51,"Price$560",9,4,6,4,Entire apartment,23 Reviews,Rating 4.5 out of 5,40.73495148,-74.00111516,FALSE,100%
-52,"Price$575",6,4,4,2.5,Entire townhouse,40 Reviews,Rating 5 out of 5,40.80048516,-73.9553312,"true,",100%
-53,"Price$550",7,3,4,2,Entire loft,22 Reviews,Rating 4.5 out of 5,40.72499362,-73.98867492,FALSE,100%
-54,"Price$600 per night",6,2,2,1,Entire apartment,29 Reviews,Rating 4.5 out of 5,40.75602595,-73.99498578,FALSE,100%
-55,"Price$799 per night",3,2,4,1.5,Entire apartment,40 Reviews,Rating 4.5 out of 5,40.76391228,-73.97819699,FALSE,90%
-56,"Price$650 per night",8,3,5,2,Entire apartment,77 Reviews,Rating 5 out of 5,40.74926013,-73.97606523,"true,",100%
-57,"Price$550 per night",5,2,2,2,Entire loft,62 Reviews,Rating 5 out of 5,40.72113118,-74.00478198,"true,",100%
-58,"Price$600 per night",5,2,2,1,Entire apartment,10 Reviews,Rating 4.5 out of 5,40.76444037,-73.98592007,FALSE,100%
-59,"Price$540 per night",6,3,8,2,Entire apartment,16 Reviews,Rating 4.5 out of 5,40.7359064,-73.98743995,"true,",100%
-60,"Price$900 per night",5,3,3,3,Entire condominium,6 Reviews,Rating 5 out of 5,40.73283864,-73.98757961,FALSE,90%
-61,"Price$777 per night",6,4,9,3.5,Entire townhouse,27 Reviews,Rating 4.5 out of 5,40.74684715,-73.97891799,FALSE,70%
-62,"Price$560 per night",9,4,6,4,Entire apartment,14 Reviews,Rating 4 out of 5,40.73495748,-73.99996351,FALSE,100%
-63,"Price$904 per night",1,4,5,1.5,Entire apartment,22 Reviews,Rating 5 out of 5,40.74204849,-73.98750522,FALSE,80%
-64,"Price$900 per night",8,3,4,3.5,Entire condominium,24 Reviews,Rating 5 out of 5,40.76347582,-73.95884454,FALSE,100%
-65,"Price$800 per night",6,5,1,5.5,Entire house,58 Reviews,Rating 5 out of 5,40.69963958,-73.99299404,"true,",100%
-66,"Price$649 per night",2,3,5,3,Entire loft,18 Reviews,Rating 5 out of 5,40.71840947,-73.99752796,FALSE,90%
-67,"Price$625 per night",6,3,4,2.5,Entire house,10 Reviews,Rating 5 out of 5,40.73405272,-74.00788613,FALSE,91%
-68,"Price$585 per night",3,2,2,1,Entire apartment,6 Reviews,Rating 5 out of 5,40.77409274,-73.97853303,"true,",100%
-69,"Price$700 per night",8,2,4,2,Entire apartment,23 Reviews,Rating 5 out of 5,40.73063732,-73.98607626,FALSE,100%
-70,"Price$650 per night",5,2,2,2.5,Entire serviced apartment,12 Reviews,Rating 5 out of 5,40.74635507,-73.98786607,FALSE,88%
-71,"Price$595 per night",5,2,3,2,Entire loft,51 Reviews,Rating 5 out of 5,40.72381236,-73.99684183,FALSE,100%
-72,"Price$550 per night",6,3,4,2,Entire apartment,23 Reviews,Rating 5 out of 5,40.73371649,-73.99704494,FALSE,100%
-73,"Price$635 per night",2,1,1,1,Entire serviced apartment,NoneType,no rating,40.75587948,-73.98529441,FALSE,80%
-74,"Price$599 per night",6,2,3,2,Entire serviced apartment,1 Review,no rating,40.76151141,-73.97893928,FALSE,100%
-75,"Price$800 per night",0,4,5,2,Entire apartment,24 Reviews,Rating 5 out of 5,40.74455551,-73.99267124,FALSE,92%
-76,"Price$643 per night",3,1,1,1,Entire serviced apartment,NoneType,no rating,40.75742945,-73.96572684,FALSE,100%
-77,"Price$549 per night",8,4,8,2.5,Entire loft,NoneType,no rating,40.71844554,-74.00213958,"true,",100%
-78,"Price$590 per night",4,2,2,1,Entire apartment,7 Reviews,Rating 4.5 out of 5,40.73235312,-73.98645815,FALSE,100%
-79,"Price$650 per night",4,2,2,2,Entire apartment,5 Reviews,Rating 5 out of 5,40.76153501,-73.99574015,FALSE,100%
-80,"Price$765 per night",5,2,2,1,Entire serviced apartment,NoneType,no rating,40.75781214,-73.98525101,FALSE,80%
-81,"Price$550 per night",6,3,3,2.5,Entire condominium,18 Reviews,Rating 5 out of 5,40.746245,-73.9825495,"true,",100%
-82,"Price$800 per night",5,1,3,2,Entire loft,13 Reviews,Rating 5 out of 5,40.72090318,-74.00229173,FALSE,100%
-83,"Price$795 per night",7,2,6,2,Entire loft,NoneType,no rating,40.70993523,-74.00705515,FALSE,50%
-84,"Price$699 per night",4,2,2,1,Entire apartment,3 Reviews,Rating 5 out of 5,40.70569628,-74.00819214,"true,",92%
-85,"Price$699 per night",2,4,7,3,Entire loft,14 Reviews,Rating 4.5 out of 5,40.71839349,-73.99834027,FALSE,100%
-86,"Price$695 per night",6,1,2,1,NoneType,NoneType,no rating,40.74882801,-73.99211912,"true,",no info
-87,"Price$874 per night",5,3,4,3,Entire apartment,NoneType,no rating,40.73443741,-73.98471689,FALSE,100%
-88,"Price$739",5,2,2,2,Entire serviced apartment,NoneType,no rating,40.75866937,-73.96403839,FALSE,100%
-89,"Price$575",8,3,5,2,Entire serviced apartment,1 Review,no rating,40.76254633,-73.97461068,FALSE,100%
-90,"Price$795 per night",4,2,2,2,Entire loft,11 Reviews,Rating 5 out of 5,40.72065835,-73.99229426,"true,",100%
-91,"Price$867 per night",4,6,7,4,Entire apartment,NoneType,no rating,40.76272613,-73.98206638,FALSE,70%
-92,"Price$650 per night",4,2,2,2,Entire apartment,1 Review,no rating,40.79559923,-73.96701095,FALSE,100%
-93,"Price$669 per night",5,2,2,1,Entire serviced apartment,NoneType,no rating,40.75779783,-73.9837677,FALSE,80%
-94,"Price$650 per night",0,3,5,2.5,Entire townhouse,1 Review,no rating,40.77141054,-73.95658396,FALSE,100%
-95,"Price$800 per night",4,2,2,2,Entire apartment,19 Reviews,Rating 5 out of 5,40.75082937,-73.9715089,FALSE,100%
-96,"Price$700 per night",1,5,5,2.5,Entire townhouse,3 Reviews,Rating 5 out of 5,40.73151341,-74.00528245,"true,",100%
-97,"Price$555 per night",7,3,4,2,Entire serviced apartment,9 Reviews,Rating 5 out of 5,40.72600612,-73.99088183,"true,",100%
-98,"Price$625",5,2,2,2,Entire serviced apartment,NoneType,no rating,40.7567825,-73.96493574,FALSE,100%
-99,"Price$655",5,2,2,2,Entire serviced apartment,NoneType,no rating,40.70722396,-74.00876509,FALSE,100%
-100,"Price$735",3,1,1,1,NoneType,NoneType,no rating,40.75888671,-73.96346389,FALSE,no info
-101,"Price$649",5,2,3,2,Entire loft,27 Reviews,Rating 5 out of 5,40.72171613,-74.00174853,"true,",100%
-102,"Price$715",5,2,2,2,Entire serviced apartment,NoneType,no rating,40.75712592,-73.96408905,FALSE,100%
-103,"Price$835",2,1,2,1,Room in boutique hotel,NoneType,no rating,40.74162631,-74.0031288,FALSE,
-104,"Price$550",6,3,4,2,Entire apartment,1 Review,no rating,40.7482775,-73.97916948,FALSE,70%
-105,"Price$843",4,2,3,1,Entire apartment,NoneType,no rating,40.74530137,-74.00432833,FALSE,100%
-106,Free cancellation,6,2,2,2,Entire apartment,12 Reviews,Rating 5 out of 5,40.70758483,-74.00409103,"true,",100%
-107,Free cancellation,3,1,1,1,Entire apartment,NoneType,no rating,40.7319851,-73.98832468,FALSE,
-108,"Price$650 per night",6,3,4,2,Entire apartment,NoneType,no rating,40.74629224,-73.9770271,FALSE,100%
-109,"Price$650 per night",6,2,4,2,Entire condominium,1 Review,no rating,40.724127,-73.9809109,FALSE,
-110,"Price$662 per night",2,1,1,1.5,Entire loft,6 Reviews,Rating 5 out of 5,40.72408265,-73.99823185,FALSE,56%
-111,"Price$750 per night",2,1,1,1.5,Entire apartment,9 Reviews,Rating 5 out of 5,40.73031958,-73.98469386,FALSE,100%
-112,"Price$899 per night",3,2,3,2,Entire apartment,6 Reviews,Rating 4.5 out of 5,40.77486396,-73.95296154,FALSE,
-113,"Price$850 per night",2,1,1,1,Entire serviced apartment,5 Reviews,Rating 5 out of 5,40.76031128,-73.97389502,"true,",97%
-114,"Price$549 per night",4,2,2,2,Entire apartment,NoneType,no rating,40.79349633,-73.9677862,FALSE,100%
-115,"Price$618 per night",1,studio,1,1,Entire apartment,15 Reviews,Rating 3.5 out of 5,40.76220275,-73.98933771,FALSE,30%
-116,"Price$650 per night",0,4,7,3.5,Entire townhouse,13 Reviews,Rating 5 out of 5,40.80869476,-73.94205416,FALSE,100%
-117,"Price$800 per night",8,4,5,3.5,NoneType,NoneType,no rating,40.80609428,-73.95258101,FALSE,no info
-118,"Price$550 per night",4,2,2,2,Entire apartment,NoneType,no rating,40.78430263,-73.9574498,FALSE,100%
-119,"Price$645 per night",8,3,4,2,Entire loft,1 Review,no rating,40.74902759,-73.99197871,"true,",100%
-120,"Price$685 per night",2,studio,1,1,Private room in resort,NoneType,no rating,40.75376068,-73.9715451,FALSE,
-121,"Price$725 per night",9,4,5,2,Entire serviced apartment,NoneType,no rating,40.75474804,-73.97107849,FALSE,100%
-122,"Price$724 per night",5,3,3,2,Entire apartment,NoneType,no rating,40.73450645,-74.00575062,FALSE,100%
-123,"Price$599",6,3,4,2,Entire townhouse,22 Reviews,Rating 5 out of 5,40.74442597,-74.00011633,"true,",100%
-124,"Price$749",2,studio,1,1,Private room in resort,8 Reviews,Rating 5 out of 5,40.75175296,-73.97217753,FALSE,100%
-125,"Price$650",4,2,2,1,Entire loft,5 Reviews,Rating 5 out of 5,40.74039127,-74.0035561,FALSE,83%
-126,"Price$549 per night",2,1,1,1,Entire apartment,17 Reviews,Rating 5 out of 5,40.74481072,-74.00148498,"true,",100%
-127,"Price$599 per night",6,3,3,2.5,Entire apartment,5 Reviews,Rating 5 out of 5,40.76234874,-73.96260468,FALSE,100%
-128,"Price$550 per night",8,4,5,2,Entire serviced apartment,6 Reviews,Rating 5 out of 5,40.72468039,-73.9899793,"true,",100%
-129,"Price$713",5,2,2,2,Entire serviced apartment,NoneType,no rating,40.70912122,-74.00672138,FALSE,100%
-130,"Price$650",4,2,2,1,Entire loft,5 Reviews,Rating 5 out of 5,40.74039127,-74.0035561,FALSE,83%
-131,"Price$700",8,4,5,4.5,Entire townhouse,4 Reviews,Rating 3.5 out of 5,40.73267037,-74.00029715,FALSE,83%
-132,"Price$600",8,3,3,2,Entire apartment,3 Reviews,Rating 4.5 out of 5,40.81587995,-73.93984153,FALSE,100%
-133,"Price$695",3,1,1,1,Entire serviced apartment,NoneType,no rating,40.76541814,-73.97620035,FALSE,100%
-134,"Price$929",2,1,1,1,Room in hotel,NoneType,no rating,40.75866042,-73.96392097,FALSE,100%
-135,"Price$700",4,2,2,2.5,Entire condominium,NoneType,no rating,40.76580069,-73.98927759,FALSE,100%
-136,"Price$799",2,studio,1,1,Private room in resort,3 Reviews,Rating 4.5 out of 5,40.7519762,-73.97266406,FALSE,90%
-137,"Price$875",2,1,1,1,Entire serviced apartment,NoneType,no rating,40.70880612,-74.00733256,FALSE,100%
-138,"Price$675",8,2,2,2,Entire apartment,2 Reviews,no rating,40.75524609,-73.99596654,FALSE,100%
-139,"Price$659",4,5,6,2.5,Entire apartment,8 Reviews,Rating 4.5 out of 5,40.76497489,-73.98787496,FALSE,40%
-140,"Price$550",6,3,3,3.5,Entire apartment,NoneType,no rating,40.70420506,-74.00961673,FALSE,
-141,"Price$650",5,4,5,4,Entire serviced apartment,NoneType,no rating,40.73491662,-73.9807885,"true,",100%
-142,"Price$649",4,studio,2,1,Private room in resort,13 Reviews,Rating 4.5 out of 5,40.7535919,-73.97294882,FALSE,100%
-143,"Price$745",4,1,2,1,Private room in resort,8 Reviews,Rating 5 out of 5,40.7533122,-73.97329818,FALSE,100%
-144,"Price$571 per night",2,1,1,1,Entire apartment,NoneType,no rating,40.74939375,-73.97358674,FALSE,98%
-145,"Price$599 per night",6,3,3,1,Entire apartment,NoneType,no rating,40.72256267,-74.00347519,FALSE,93%
-146,"Price$799 per night",2,2,1,1,Entire apartment,5 Reviews,Rating 4.5 out of 5,40.71362269,-74.00650748,FALSE,100%
-147,"Price$587 per night",6,3,3,2,NoneType,30 Reviews,Rating 4.5 out of 5,40.73048668,-74.00114322,"true,",no info
-148,"Price$650 per night",4,2,4,2.5,Entire apartment,NoneType,no rating,40.71756279,-74.01658862,FALSE,100%
-149,"Price$766 per night",2,3,4,1,Entire apartment,NoneType,no rating,40.71951347,-73.99955681,FALSE,100%
-150,"Price$565",5,2,2,2,Entire serviced apartment,1 Review,no rating,40.70832156,-74.00655671,FALSE,100%
-151,"Price$550",4,studio,1,1,Private room in resort,NoneType,no rating,40.76573745,-73.98018069,FALSE,100%
-152,"Price$875",5,2,4,3,Entire apartment,NoneType,no rating,40.76379389,-73.96515493,FALSE,100%
-153,"Price$599",4,1,2,1,Entire loft,2 Reviews,no rating,40.74291635,-73.99968924,FALSE,100%
-154,"Price$550",4,studio,2,1,Private room in resort,NoneType,no rating,40.76427138,-73.98207789,FALSE,100%
-155,"Price$595",5,2,3,1,Entire loft,4 Reviews,Rating 4 out of 5,40.72256361,-73.99914332,FALSE,100%
-156,"Price$899",2,studio,1,1,Private room in resort,1 Review,no rating,40.75362271,-73.97332314,FALSE,90%
-157,"Price$649",6,3,3,1,NoneType,NoneType,no rating,40.7231362,-74.00304637,FALSE,no info
-158,"Price$540",2,1,1,1,Private room in resort,NoneType,no rating,40.75361332,-73.97133189,FALSE,
-159,"Price$575",4,2,2,2,Entire apartment,33 Reviews,Rating 5 out of 5,40.70985201,-73.9692347,"true,",100%
-160,"Price$550 per night",4,studio,2,1,Private room in resort,NoneType,no rating,40.76427138,-73.98207789,FALSE,100%
-161,"Price$599 per night",4,studio,2,1,Private room in resort,2 Reviews,no rating,40.75327301,-73.97174855,FALSE,90%
-162,"Price$650 per night",2,1,1,1,Private room in townhouse,NoneType,no rating,40.80645592,-73.95169593,"true,",100%
-163,"Price$540 per night",2,1,1,1,Private room in resort,NoneType,no rating,40.75361332,-73.97133189,FALSE,
-164,"Price$649 per night",4,1,2,1,Private room in resort,4 Reviews,Rating 5 out of 5,40.75375659,-73.97132098,FALSE,100%
-165,"Price$540 per night",2,1,1,1,Private room in resort,NoneType,no rating,40.75190828,-73.97285036,FALSE,
-166,"Price$600 per night",1,1,1,1,Private room in apartment,NoneType,no rating,40.81680262,-73.95413353,FALSE,0%
-167,"Price$600 per night",4,2,2,2,Entire condominium,NoneType,no rating,40.73605539,-73.9922125,"true,",100%
-168,"Price$570 per night",1,1,1,1,Private room in apartment,NoneType,no rating,40.71918402,-73.99087321,FALSE,
-169,"Price$606 per night",6,2,2,2,Entire apartment,14 Reviews,Rating 5 out of 5,40.72399153,-73.99108588,FALSE,100%
-170,"Price$695 per night",6,studio,0,2,Entire house,NoneType,no rating,40.84642945,-73.93780529,FALSE,100%
-171,"Price$580 per night",4,1,1,1,Private room in condominium,NoneType,no rating,40.85323869,-73.92142917,FALSE,50%
-172,"Price$539 per night",6,2,3,1.5,Entire apartment,9 Reviews,Rating 5 out of 5,40.77417813,-73.95326569,FALSE,100%
-173,"Price$550 per night",1,1,1,1,Shared room in apartment,3 Reviews,Rating 3.5 out of 5,40.73364569,-74.0008145,FALSE,
-174,"Price$750 per night",4,2,2,2,Entire apartment,1 Review,no rating,40.72078642,-73.99493481,FALSE,100%
-175,"Price$550 per night",6,studio,1,1,Entire townhouse,2 Reviews,no rating,40.80594078,-73.94539925,FALSE,100%
-176,"Price$899 per night",2,studio,1,1,Private room in resort,1 Review,no rating,40.75240035,-73.97152649,FALSE,90%
-177,"Price$590 per night",4,1,1,1,Room in hotel,NoneType,no rating,40.76341488,-73.97747736,FALSE,95%
-178,"Price$599 per night",7,3,5,6,Entire apartment,NoneType,no rating,40.76748834,-73.98926296,FALSE,100%
-179,"Price$690 per night",6,2,4,1,Entire apartment,4 Reviews,Rating 4 out of 5,40.75142669,-74.00048299,FALSE,90%
-180,"Price$749 per night",4,1,2,1,Private room in resort,5 Reviews,Rating 4.5 out of 5,40.75362288,-73.97158347,FALSE,100%
-181,"Price$699 per night",3,studio,1,1,Private room in resort,2 Reviews,no rating,40.75302233,-73.97220537,FALSE,90%
-182,"Price$750 per night",7,3,4,2.5,Entire townhouse,3 Reviews,Rating 5 out of 5,40.81023159,-73.94141723,FALSE,100%
-183,"Price$700 per night",6,2,4,2,Room in hotel,NoneType,no rating,40.78242538,-73.94848352,FALSE,96%
-184,"Price$699 per night",2,studio,1,1,Private room in resort,8 Reviews,Rating 5 out of 5,40.75364846,-73.97151468,FALSE,100%
-185,"Price$559 per night",8,3,3,1.5,Entire apartment,14 Reviews,Rating 4.5 out of 5,40.74446014,-73.99023059,FALSE,100%
-186,"Price$899 per night",2,studio,1,1,Private room in resort,2 Reviews,no rating,40.75381036,-73.97124884,FALSE,90%
-187,"Price$650 per night",5,2,2,2,Entire loft,2 Reviews,no rating,40.72383891,-74.00078432,FALSE,90%
-188,"Price$799 per night",4,1,2,1,Private room in resort,1 Review,no rating,40.75227919,-73.97185151,FALSE,90%
-189,"Price$875 per night",4,1,2,1,Room in boutique hotel,NoneType,no rating,40.75663893,-73.97190526,FALSE,100%
-190,"Price$600 per night",2,1,1,1,NoneType,NoneType,no rating,40.76985566,-73.98197192,"true,",no info
-191,"Price$600 per night",4,2,2,2,Entire apartment,NoneType,no rating,40.74476226,-73.99265591,FALSE,94%
-192,"Price$899 per night",4,1,2,1,Private room in resort,1 Review,no rating,40.75162355,-73.97319732,FALSE,90%
-193,"Price$699 per night",6,2,3,2,Entire resort,2 Reviews,no rating,40.75370939,-73.97226281,FALSE,100%
-194,"Price$550 per night",3,1,2,1,NoneType,NoneType,no rating,40.76433107,-73.97692576,"true,",no info
-195,"Price$539 per night",8,2,4,2,Room in boutique hotel,NoneType,no rating,40.75500597,-73.97198286,FALSE,100%
-196,"Price$663 per night",8,3,3,2,Entire apartment,9 Reviews,Rating 4.5 out of 5,40.73360406,-73.99006094,FALSE,100%
-197,"Price$748 per night",5,2,2,2,Entire apartment,NoneType,no rating,40.76019623,-73.99800221,FALSE,85%
-198,"Price$600 per night",0,4,6,4,Entire condominium,NoneType,no rating,40.76500193,-73.95666678,FALSE,
-199,"Price$650 per night",6,3,3,2.5,Entire apartment,NoneType,no rating,40.75923736,-73.98541222,FALSE,100%
-200,"Price$650",8,3,3,2,Entire apartment,NoneType,no rating,40.73227854,-73.98668817,FALSE,100%
-201,"Price$750",4,1,2,1,Entire apartment,16 Reviews,Rating 3 out of 5,40.76477265,-73.98542281,FALSE,
-202,"Price$550",5,2,4,2,Entire apartment,NoneType,no rating,40.7534707,-74.00457144,FALSE,100%
-203,"Price$599",7,2,3,2,Entire apartment,1 Review,no rating,40.7608876,-73.99553726,FALSE,63%
-204,"Price$606",6,2,2,2,Entire apartment,14 Reviews,Rating 5 out of 5,40.72399153,-73.99108588,FALSE,100%
-205,"Price$600",8,3,5,2.5,NoneType,1 Review,no rating,40.7464573,-73.95323801,FALSE,no info
-206,"Price$750",7,3,4,2.5,Entire townhouse,3 Reviews,Rating 5 out of 5,40.81023159,-73.94141723,FALSE,100%
-207,"Price$595",8,3,4,2,Entire loft,1 Review,no rating,40.7480957,-73.99471887,FALSE,
-208,"Price$589",8,3,6,3.5,Entire apartment,6 Reviews,Rating 5 out of 5,40.76955034,-73.959883,FALSE,100%
-209,"Price$675",4,2,2,2,Entire condominium,NoneType,no rating,40.76177099,-73.99426248,FALSE,0%
-210,"Price$600",2,1,1,1,Private room in condominium,NoneType,no rating,40.76985566,-73.98197192,"true,",100%
-211,"Price$809",2,3,6,3,Room in boutique hotel,NoneType,no rating,40.75644992,-73.97110867,FALSE,100%
-212,"Price$699 per night",3,studio,1,1,Private room in resort,3 Reviews,Rating 4 out of 5,40.75293853,-73.97190473,FALSE,100%
-213,"Price$600 per night",2,1,1,1,Private room in apartment,53 Reviews,Rating 4 out of 5,40.71919086,-73.9899186,FALSE,0%
-214,"Price$750 per night",6,3,6,2.5,Entire loft,9 Reviews,Rating 5 out of 5,40.74574435,-73.99632583,FALSE,100%
-215,"Price$600 per night",2,1,2,1,Private room in apartment,NoneType,no rating,40.88666583,-73.91493696,FALSE,
-216,"Price$700 per night",1,1,1,1,NoneType,NoneType,no rating,40.82921192,-73.94191177,FALSE,no info
-217,"Price$748 per night",5,2,3,2,Entire apartment,NoneType,no rating,40.76486718,-73.98237741,FALSE,85%
-218,"Price$750 per night",2,4,6,2,Entire apartment,NoneType,no rating,40.73215553,-73.98809333,FALSE,100%
-219,"Price$600 per night",0,3,8,2.5,Entire house,1 Review,no rating,40.74612771,-73.95342982,FALSE,90%
-220,"Price$750 per night",4,3,3,2,Entire apartment,6 Reviews,Rating 5 out of 5,40.78208091,-73.95508719,FALSE,0%
-221,"Price$800 per night",2,1,1,1,Entire apartment,NoneType,no rating,40.73677972,-74.00565833,FALSE,100%
-222,"Price$550 per night",6,3,5,1.5,Entire apartment,13 Reviews,Rating 4.5 out of 5,40.78023857,-73.97942299,FALSE,100%
-223,"Price$600 per night",6,2,5,2,Entire apartment,6 Reviews,Rating 5 out of 5,40.7869737,-73.96928865,FALSE,
-224,"Price$800 per night",0,5,6,2,Entire apartment,1 Review,no rating,40.72339675,-73.99032064,FALSE,
-225,"Price$550 per night",6,3,5,2,Entire apartment,3 Reviews,Rating 3.5 out of 5,40.76194741,-73.98493541,FALSE,50%
-226,"Price$650 per night",2,1,1,1,Entire loft,NoneType,no rating,40.73169586,-74.00062232,FALSE,100%
-227,"Price$800 per night",6,3,4,2.5,Entire apartment,2 Reviews,no rating,40.80766264,-73.94342481,FALSE,100%
-228,"Price$809 per night",4,2,2,2,Entire serviced apartment,NoneType,no rating,40.70680541,-74.00754423,FALSE,100%
-229,"Price$650 per night",6,2,2,2,Entire apartment,NoneType,no rating,40.76711762,-73.99235491,FALSE,75%
-230,"Price$800 per night",0,5,6,2,Entire apartment,1 Review,no rating,40.72339675,-73.99032064,FALSE,
-231,"Price$600 per night",3,1,1,2,Entire loft,40 Reviews,Rating 5 out of 5,40.74876626,-73.99940455,FALSE,67%
-232,"Price$800 per night",6,4,5,3,Entire loft,2 Reviews,no rating,40.71550085,-74.00754083,FALSE,100%
-233,"Price$700 per night",8,studio,1,0,Private room,NoneType,no rating,40.75015268,-74.00366945,FALSE,90%
-234,"Price$600 per night",3,1,1,1.5,Entire apartment,1 Review,no rating,40.7569891,-73.96577151,FALSE,100%
-235,"Price$650 per night",6,2,2,2,Entire apartment,NoneType,no rating,40.76711762,-73.99235491,FALSE,75%
-236,"Price$748 per night",5,2,2,2,Entire apartment,NoneType,no rating,40.76074684,-73.9989259,FALSE,85%
-237,"Price$550 per night",5,2,3,2,Entire apartment,NoneType,no rating,40.72182613,-73.98381103,FALSE,
-238,"Price$799 per night",4,1,2,1,Private room in resort,2 Reviews,no rating,40.75388131,-73.97307682,FALSE,100%
-239,"Price$748 per night",5,2,2,2,Entire apartment,NoneType,no rating,40.76190212,-73.99896436,FALSE,85%
-240,"Price$600 per night",5,4,5,3,Private room in apartment,1 Review,no rating,40.78845485,-73.95484,FALSE,100%
-241,"Price$800 per night",6,1,1,1,Entire apartment,NoneType,no rating,40.78065411,-73.95202078,FALSE,0%
-242,"Price$575 per night",2,studio,1,1.5,Entire condominium,NoneType,no rating,40.723517,-73.99891683,FALSE,100%
-243,"Price$542 per night",1,1,1,1,Private room in apartment,NoneType,no rating,40.72597968,-73.98673047,FALSE,
-244,"Price$650 per night",6,2,2,1,Entire townhouse,NoneType,no rating,40.72840347,-73.98672704,FALSE,25%
-245,"Price$600 per night",4,2,3,2,Entire apartment,NoneType,no rating,40.75802277,-73.96125085,FALSE,100%
-246,"Price$650",6,3,3,2,Entire apartment,NoneType,no rating,40.74665573,-74.00443204,FALSE,0%
-247,"Price$900",2,6,6,3,Entire apartment,3 Reviews,Rating 4 out of 5,40.73303119,-74.00499543,FALSE,92%
-248,"Price$760 per night",6,2,3,1,Entire loft,1 Review,no rating,40.72177118,-74.00356279,FALSE,100%
-249,"Price$575 per night",2,studio,1,1.5,Entire condominium,NoneType,no rating,40.723517,-73.99891683,FALSE,100%
-250,"Price$550 per night",6,2,2,2.5,Entire apartment,1 Review,no rating,40.72596392,-73.99462956,FALSE,67%
-251,"Price$700 per night",8,3,4,2,Entire apartment,5 Reviews,Rating 5 out of 5,40.76224646,-73.98979736,FALSE,48%
-252,"Price$600 per night",6,3,5,1,Entire loft,8 Reviews,Rating 4 out of 5,40.71094573,-74.0091181,FALSE,100%
-253,"Price$748 per night",5,2,2,2,Entire apartment,NoneType,no rating,40.76074684,-73.9989259,FALSE,85%
-254,"Price$699 per night",5,2,3,2,Entire apartment,NoneType,no rating,40.70627103,-74.00991798,FALSE,
-255,"Price$600 per night",6,3,3,1,Entire apartment,NoneType,no rating,40.79305768,-73.96837416,FALSE,83%
-256,"Price$899 per night",9,4,4,4,Entire apartment,NoneType,no rating,40.72607337,-74.00915581,FALSE,97%
-257,"Price$600 per night",6,3,4,2,Entire apartment,12 Reviews,Rating 3.5 out of 5,40.76624873,-73.98712575,FALSE,
-258,"Price$625 per night",4,2,3,2,Entire apartment,3 Reviews,Rating 5 out of 5,40.76683915,-73.97870132,FALSE,100%
-259,"Price$900 per night",4,1,1,1,Entire serviced apartment,NoneType,no rating,40.75337212,-73.97288822,FALSE,0%
-260,"Price$800 per night",6,3,6,2,Entire loft,3 Reviews,Rating 4.5 out of 5,40.7250588,-73.99772498,FALSE,100%
-261,"Price$600 per night",3,1,1,2,Entire loft,40 Reviews,Rating 5 out of 5,40.74876626,-73.99940455,FALSE,67%
-262,"Price$748 per night",5,2,2,2,Entire apartment,NoneType,no rating,40.7605332,-73.99809078,FALSE,85%
-263,"Price$900 per night",5,3,5,2.5,Entire apartment,NoneType,no rating,40.78466743,-73.98192418,FALSE,100%
-0,"Price$995 per night",0,4,4,5,Entire townhouse,44 Reviews,Rating 5 out of 5,40.73220168,-74.00237486,FALSE,100%
-1,"Price$1,099 per night",8,3,3,2,Entire loft,142 Reviews,Rating 4.5 out of 5,40.7232817,-73.99851702,FALSE,100%
-2,"Price$1,000 per night",4,2,2,1,Entire loft,94 Reviews,Rating 4.5 out of 5,40.74968309,-73.99380794,FALSE,94%
-3,"Price$950 per night",8,4,6,3.5,Entire townhouse,36 Reviews,Rating 5 out of 5,40.72592084,-73.97991172,"true,",100%
-4,"Price$1,295 per night",5,2,2,3,Entire loft,19 Reviews,Rating 5 out of 5,40.72560405,-73.99486772,"true,",100%
-5,"Price$995 per night",4,2,2,2.5,Entire condominium,16 Reviews,Rating 5 out of 5,40.76681633,-73.97942598,"true,",100%
-6,"Price$2,250 per night",8,4,4,3.5,Entire loft,10 Reviews,Rating 5 out of 5,40.72206783,-74.00232008,FALSE,100%
-7,"Price$1,000 per night",6,5,6,3,Entire loft,76 Reviews,Rating 4.5 out of 5,40.73443868,-74.00128928,FALSE,60%
-8,"Price$995 per night",3,1,2,2,Entire loft,6 Reviews,Rating 5 out of 5,40.72390035,-73.99677988,FALSE,100%
-9,"Price$995 per night",8,4,4,3,Entire serviced apartment,88 Reviews,Rating 5 out of 5,40.7565975,-73.98329039,FALSE,100%
-10,"Price$1,000 per night",3,1,1,1,Entire condominium,27 Reviews,Rating 5 out of 5,40.79222217,-73.96445207,FALSE,100%
-11,"Price$1,000 per night",2,4,6,3,Entire townhouse,16 Reviews,Rating 5 out of 5,40.73142807,-74.00338217,"true,",100%
-12,"Price$1,000 per night",4,2,2,2.5,Entire apartment,29 Reviews,Rating 4.5 out of 5,40.73409774,-74.00433824,FALSE,90%
-13,"Price$999 per night",2,4,6,1.5,Entire apartment,23 Reviews,Rating 5 out of 5,40.74381553,-73.99225385,FALSE,92%
-14,"Price$1,072 per night",2,6,6,3,Entire house,28 Reviews,Rating 4.5 out of 5,40.73300982,-74.00268265,FALSE,92%
-15,"Price$999 per night",5,5,8,4,Entire apartment,38 Reviews,Rating 5 out of 5,40.77635077,-73.94812586,"true,",100%
-16,"Price$2,500 per night",0,4,4,2.5,Entire townhouse,14 Reviews,Rating 5 out of 5,40.72667576,-73.98179128,FALSE,100%
-17,"Price$1,000 per night",3,1,1,1,Entire serviced apartment,17 Reviews,Rating 5 out of 5,40.78065076,-73.98252972,FALSE,100%
-18,"Price$1,050 per night",4,2,2,2.5,Entire apartment,9 Reviews,Rating 5 out of 5,40.71734862,-74.00605163,FALSE,90%
-19,"Price$1,050 per night",5,2,2,2,Entire loft,7 Reviews,Rating 5 out of 5,40.72367432,-73.99868288,FALSE,100%
-20,"Price$2,750 per night",8,4,4,3.5,Entire apartment,16 Reviews,Rating 5 out of 5,40.72318045,-74.00223127,FALSE,100%
-21,"Price$1,000 per night",7,4,4,3.5,Entire townhouse,7 Reviews,Rating 5 out of 5,40.73300263,-73.99412598,FALSE,100%
-22,"Price$2,000 per night",0,4,4,2,Entire townhouse,NoneType,no rating,40.76675269,-73.96699554,FALSE,79%
-23,"Price$1,200 per night",2,1,1,1,NoneType,NoneType,no rating,40.80485188,-73.96533556,FALSE,no info
-24,"Price$2,090 per night",6,5,6,2.5,Entire townhouse,9 Reviews,Rating 5 out of 5,40.73563474,-74.00701189,FALSE,90%
-25,"Price$2,177 per night",6,5,6,2.5,Entire townhouse,5 Reviews,Rating 5 out of 5,40.73726065,-74.00084833,FALSE,100%
-26,"Price$950 per night",4,5,7,2,Entire apartment,14 Reviews,Rating 4.5 out of 5,40.75545936,-73.9913625,FALSE,94%
-27,"Price$1,500 per night",5,5,6,2,Entire loft,4 Reviews,Rating 5 out of 5,40.73658235,-73.97930293,FALSE,100%
-28,"Price$1,000 per night",6,2,3,2,Entire condominium,1 Review,no rating,40.77271431,-73.98180426,FALSE,75%
-29,"Price$1,300 per night",2,1,2,1,Entire loft,36 Reviews,Rating 4.5 out of 5,40.75514499,-73.99672204,FALSE,100%
-30,"Price$1,554 per night",2,1,1,1,Room in boutique hotel,NoneType,no rating,40.74215075,-74.00421265,FALSE,
-31,"Price$2,169 per night",3,1,1,1.5,Room in hotel,NoneType,no rating,40.75718434,-73.96484433,FALSE,100%
-32,"Price$1,300 per night",2,5,6,3.5,Entire townhouse,2 Reviews,no rating,40.73928301,-74.00763999,FALSE,100%
-33,"Price$3,000 per night",0,4,4,4.5,Entire townhouse,NoneType,no rating,40.72459848,-74.00296531,FALSE,60%
-34,"Price$996 per night",2,4,5,1.5,Entire apartment,3 Reviews,Rating 4.5 out of 5,40.75101452,-73.99565544,FALSE,90%
-35,"Price$1,739 per night",2,1,1,1.5,Room in hotel,NoneType,no rating,40.7583322,-73.96429119,FALSE,100%
-36,"Price$1,119 per night",2,6,6,2,Entire apartment,1 Review,no rating,40.72286621,-74.00317758,FALSE,100%
-37,"Price$1,150 per night",3,5,7,2,Entire loft,8 Reviews,Rating 5 out of 5,40.75581047,-73.99203004,FALSE,100%
-38,"Price$935 per night",3,1,1,1,Entire serviced apartment,NoneType,no rating,40.76533438,-73.97520951,FALSE,100%
-39,"Price$1,200 per night",0,4,6,2,Entire apartment,20 Reviews,Rating 4.5 out of 5,40.74981444,-73.9969275,FALSE,70%
-40,"Price$3,000 per night",6,6,6,6,Entire townhouse,NoneType,no rating,40.7365156,-73.98617614,FALSE,91%
-41,"Price$955 per night",4,5,8,2,Entire apartment,2 Reviews,Rating 5 out of 5,40.7586254,-73.99126749,FALSE,93%
-42,"Price$1,365 per night",5,2,2,2,Entire serviced apartment,NoneType,no rating,40.70836012,-74.00739092,FALSE,100%
-43,"Price$1,531 per night",8,4,4,2,Entire apartment,NoneType,no rating,40.71545834,-74.00855557,FALSE,
-44,"Price$1,500 per night",5,3,0,2,Entire loft,2 Reviews,no rating,40.73950741,-73.98747225,FALSE,100%
-45,"Price$940 per night",4,1,1,1,Private room in resort,NoneType,no rating,40.75292506,-73.97273415,FALSE,
-46,"Price$929 per night",2,1,1,1,Room in hotel,NoneType,no rating,40.75866042,-73.96392097,FALSE,100%
-47,"Price$1,050 per night",0,4,0,2,Entire apartment,14 Reviews,Rating 4.5 out of 5,40.74905173,-73.99245221,FALSE,90%
-48,"Price$1,200 per night",6,3,3,2.5,Entire townhouse,5 Reviews,Rating 5 out of 5,40.73722453,-74.00263076,FALSE,78%
-49,"Price$1,050 per night",0,4,0,2,Entire apartment,14 Reviews,Rating 4.5 out of 5,40.74905173,-73.99245221,FALSE,90%
-50,"Price$1,100 per night",4,1,2,1,Room in hotel,18 Reviews,Rating 5 out of 5,40.76040282,-73.97410211,"true,",100%
-51,"Price$1,800 per night",5,studio,1,1,Private room in apartment,NoneType,no rating,40.74695801,-73.98643579,FALSE,
-52,"Price$980 per night",4,1,2,1,Entire serviced apartment,NoneType,no rating,40.76342317,-73.97744287,FALSE,53%
-53,"Price$1,000 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.75607162,-73.99331879,FALSE,0%
-54,"Price$1,000 per night",5,2,1,2,Entire loft,1 Review,no rating,40.71403405,-73.99075962,FALSE,100%
-55,"Price$1,900 per night",1,1,1,1.5,Entire loft,1 Review,no rating,40.75743016,-73.99292296,FALSE,50%
-56,"Price$980 per night",2,1,1,1,Entire apartment,NoneType,no rating,40.79143793,-73.94681225,FALSE,
-57,"Price$2,450 per night",7,4,4,3.5,Entire townhouse,6 Reviews,Rating 5 out of 5,40.73983288,-74.00586032,FALSE,100%
-58,"Price$1,490 per night",6,8,8,4,Entire house,3 Reviews,Rating 4.5 out of 5,40.76481145,-73.98844505,"true,",
-59,"Price$1,150 per night",4,2,2,2.5,Entire condominium,4 Reviews,Rating 5 out of 5,40.71972373,-74.00307839,FALSE,
-60,"Price$999 per night",2,6,6,2,Entire apartment,NoneType,no rating,40.72254524,-74.00268877,FALSE,
-61,"Price$1,500 per night",6,studio,2,1,Entire serviced apartment,NoneType,no rating,40.71721963,-74.00293498,FALSE,
-62,"Price$1,100 per night",4,2,2,2,Entire condominium,3 Reviews,Rating 5 out of 5,40.72059628,-74.0033042,FALSE,
-63,"Price$5,000 per night",6,4,7,3.5,Entire townhouse,NoneType,no rating,40.82510713,-73.94960976,FALSE,
-64,"Price$995 per night",6,3,3,2.5,Entire apartment,16 Reviews,Rating 5 out of 5,40.7842982,-73.98262158,"true,",
-65,"Price$936 per night",2,4,5,1.5,Entire apartment,3 Reviews,Rating 5 out of 5,40.74788827,-73.99338867,FALSE,
-66,"Price$1,500 per night",1,studio,1,1,Private room in apartment,NoneType,no rating,40.7220765,-73.98472048,FALSE,
-67,"Price$1,000 per night",6,2,3,1,Entire apartment,5 Reviews,Rating 4.5 out of 5,40.75124646,-74.00038685,FALSE,
-68,"Price$3,000 per night",8,4,4,3.5,Entire townhouse,19 Reviews,Rating 5 out of 5,40.73117937,-73.98884549,FALSE,
-69,"Price$1,250 per night",4,2,3,2.5,Entire house,NoneType,no rating,40.75737111,-73.96631022,FALSE,
-70,"Price$999 per night",2,1,1,1,Entire apartment,NoneType,no rating,40.7549385,-73.99583206,FALSE,
-71,"Price$1,000 per night",0,4,6,1.5,Entire apartment,NoneType,no rating,40.74987938,-73.99230469,FALSE,
-72,"Price$1,500 per night",6,2,3,2,Entire condominium,4 Reviews,Rating 5 out of 5,40.75425079,-73.98312375,FALSE,
-73,"Price$2,000 per night",8,2,3,2,Entire condominium,9 Reviews,Rating 5 out of 5,40.77305923,-73.98637425,FALSE,
-74,"Price$2,900 per night",0,3,5,2,Entire apartment,2 Reviews,no rating,40.73363534,-74.00173778,FALSE,
-75,"Price$995 per night",1,1,1,1,Private room in condominium,NoneType,no rating,40.70413492,-74.01340169,FALSE,
-76,"Price$950 per night",2,4,4,1.5,Entire apartment,3 Reviews,Rating 3.5 out of 5,40.74526134,-73.99492058,FALSE,
-77,"Price$2,000 per night",7,2,2,2.5,Entire condominium,9 Reviews,Rating 5 out of 5,40.77469916,-73.98708301,FALSE,
-78,"Price$1,000 per night",0,studio,1,1,Entire loft,1 Review,no rating,40.8340466,-73.94564974,FALSE,
-79,"Price$1,500 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.71978013,-74.00968488,FALSE,
-80,"Price$950 per night",7,4,4,3.5,Entire townhouse,2 Reviews,no rating,40.73305002,-73.99372598,FALSE,
-81,"Price$999 per night",0,4,5,2,Entire loft,3 Reviews,Rating 5 out of 5,40.74062106,-73.98846478,FALSE,
-82,"Price$1,000 per night",3,1,1,1,Entire apartment,NoneType,no rating,40.74910055,-73.98121163,FALSE,
-83,"Price$2,000 per night",6,2,3,2,Private room in boat,2 Reviews,no rating,40.72824358,-74.01261131,"true,",
-84,"Price$1,215 per night",6,3,3,3,Entire serviced apartment,NoneType,no rating,40.70732863,-74.00815369,FALSE,
-85,"Price$2,500 per night",4,1,3,1,Private room in serviced apartment,NoneType,no rating,40.88670929,-73.91509524,FALSE,
-86,"Price$1,499 per night",6,2,3,2,Private room in resort,2 Reviews,no rating,40.75368364,-73.97358269,FALSE,
-87,"Price$1,150 per night",4,2,2,2.5,Entire condominium,4 Reviews,Rating 5 out of 5,40.71972373,-74.00307839,FALSE,
-88,"Price$999 per night",2,studio,2,1,Room in hotel,NoneType,no rating,40.76501152,-73.98076038,FALSE,
-89,"Price$1,000 per night",0,4,6,5,Entire townhouse,38 Reviews,Rating 4.5 out of 5,40.78155012,-73.95175277,FALSE,
-90,"Price$999 per night",6,2,3,2,Private room in resort,3 Reviews,Rating 5 out of 5,40.75209552,-73.97200034,FALSE,
-91,"Price$1,999 per night",6,2,3,3.5,Entire serviced apartment,1 Review,no rating,40.76110395,-73.97411882,"true,",
-92,"Price$1,300",4,1,2,1,Entire apartment,1 Review,no rating,40.76056744,-73.96294909,FALSE,
-93,"Price$9,999",3,1,1,1,NoneType,NoneType,no rating,40.71814179,-73.99622036,FALSE,no info
-94,"Price$950",5,2,2,3.5,Entire apartment,5 Reviews,Rating 5 out of 5,40.79232584,-73.96429568,FALSE,
-95,"Price$2,000",2,1,1,2,Entire loft,17 Reviews,Rating 5 out of 5,40.71321426,-73.99098526,FALSE,
-96,"Price$1,100",8,4,4,3,NoneType,NoneType,no rating,40.72054334,-73.9856593,FALSE,no info
-97,"Price$1,500",5,3,3,5,Entire apartment,NoneType,no rating,40.72189926,-73.99758596,FALSE,
-98,"Price$950 per night",5,2,2,3.5,Entire apartment,5 Reviews,Rating 5 out of 5,40.79232584,-73.96429568,FALSE,
-99,"Price$3,800 per night",3,6,7,6.5,Entire townhouse,NoneType,no rating,40.80768639,-73.95001937,"true,",
-100,"Price$2,500 per night",2,5,9,3.5,Entire loft,NoneType,no rating,40.72138228,-74.00767056,FALSE,
-101,"Price$1,299 per night",8,2,3,1,Entire loft,NoneType,no rating,40.7652915,-73.98845262,FALSE,
-102,"Price$1,000 per night",1,studio,1,1,Entire apartment,NoneType,no rating,40.73661428,-73.98705896,FALSE,
-103,"Price$999 per night",6,2,3,2,Private room in resort,1 Review,no rating,40.7537338,-73.97271684,FALSE,
-104,"Price$1,860 per night",6,studio,1,1,Private room,NoneType,no rating,40.75081076,-74.00395781,FALSE,
-105,"Price$1,500 per night",1,1,1,1,Shared room in loft,NoneType,no rating,40.75087023,-73.98837918,FALSE,
-106,"Price$1,200 per night",2,5,9,3,Entire loft,NoneType,no rating,40.71400176,-74.00844202,FALSE,
-107,"Price$1,250 per night",6,3,5,3,Entire apartment,NoneType,no rating,40.71991451,-74.0064089,FALSE,
-108,"Price$1,200 per night",2,5,5,5,Private room in bed and breakfast,NoneType,no rating,40.77705856,-73.9778793,FALSE,
-109,"Price$3,010 per night",6,studio,1,3,Private room,NoneType,no rating,40.7491267,-74.00373393,FALSE,
-110,"Price$1,000 per night",2,1,1,1,Private room in apartment,2 Reviews,no rating,40.73563868,-74.00526604,FALSE,
-111,"Price$1,500 per night",6,2,3,2,Entire apartment,NoneType,no rating,40.76074519,-73.99837217,FALSE,
-112,"Price$1,000 per night",3,1,1,1,Entire apartment,4 Reviews,Rating 5 out of 5,40.74725354,-73.99238486,FALSE,
-113,"Price$2,500 per night",6,studio,1,1,Private room,NoneType,no rating,40.749317,-74.00332658,FALSE,
-114,"Price$1,000 per night",5,3,2,2,Entire apartment,2 Reviews,no rating,40.73136923,-74.00450798,FALSE,
-115,"Price$1,000 per night",6,2,2,2,NoneType,NoneType,no rating,40.70607561,-74.00937362,FALSE,no info
-116,"Price$10,000 per night",5,1,1,1,Entire apartment,3 Reviews,Rating 4 out of 5,40.79358557,-73.94109018,FALSE,
-117,"Price$999 per night",2,1,1,1,Private room in apartment,1 Review,no rating,40.84508803,-73.93488578,FALSE,
-118,"Price$2,400 per night",6,studio,1,1,Entire loft,2 Reviews,no rating,40.71883181,-74.0035684,FALSE,
-119,"Price$5,000 per night",4,2,4,2.5,NoneType,NoneType,no rating,40.74772834,-74.00952898,FALSE,no info
-120,"Price$995 per night",3,1,1,1,Entire apartment,NoneType,no rating,40.72886746,-73.98834635,FALSE,
-121,"Price$2,000 per night",6,3,1,3.5,Entire apartment,NoneType,no rating,40.74497561,-73.98866419,FALSE,
-122,"Price$5,000 per night",3,1,2,1,Entire apartment,2 Reviews,no rating,40.72192698,-73.99378692,FALSE,
-123,"Price$1,485 per night",8,3,5,2,Entire loft,2 Reviews,no rating,40.72295184,-73.99786054,FALSE,
-124,"Price$1,000 per night",3,1,1,1,Entire apartment,4 Reviews,Rating 5 out of 5,40.74725354,-73.99238486,FALSE,
-125,"Price$2,900 per night",6,1,1,1,Entire townhouse,NoneType,no rating,40.779777,-73.97598178,FALSE,
-126,"Price$1,000 per night",4,1,2,1,Entire apartment,NoneType,no rating,40.76002725,-73.96969126,FALSE,
-127,"Price$1,150 per night",6,3,4,3.5,Entire apartment,NoneType,no rating,40.71725151,-74.00692824,FALSE,
-128,"Price$1,000 per night",3,studio,1,1,Entire apartment,3 Reviews,Rating 5 out of 5,40.76347312,-73.97800208,FALSE,
-129,"Price$3,000 per night",1,1,,,Private room in apartment,NoneType,no rating,40.80142466,-73.96930608,FALSE,
-130,"Price$2,250 per night",0,5,7,3.5,Entire apartment,NoneType,no rating,40.72605059,-74.00572364,FALSE,
-131,"Price$999 per night",6,2,3,2,Private room in resort,1 Review,no rating,40.7537338,-73.97271684,FALSE,
-132,"Price$10,000 per night",4,1,1,1,Entire apartment,NoneType,no rating,40.77213096,-73.98664664,FALSE,
-133,"Price$1,500 per night",4,2,2,2.5,Entire loft,NoneType,no rating,40.72273497,-74.0104925,FALSE,
-134,"Price$2,000 per night",5,2,3,2.5,Entire condominium,1 Review,no rating,40.72095255,-74.00250074,FALSE,
-135,"Price$1,170 per night",7,3,3,3,Entire apartment,NoneType,no rating,40.74867499,-73.96733935,FALSE,
-136,"Price$1,000 per night",4,2,2,1,Entire apartment,NoneType,no rating,40.75930052,-73.99143458,FALSE,
-137,"Price$1,500 per night",4,2,2,2.5,Entire loft,NoneType,no rating,40.72208001,-74.00217051,FALSE,
-138,"Price$1,000 per night",5,4,4,3,Entire apartment,2 Reviews,no rating,40.78739885,-73.97381317,FALSE,
-139,"Price$1,100 per night",6,3,3,3.5,Entire apartment,NoneType,no rating,40.7514304,-73.9697271,FALSE,
-140,"Price$2,000 per night",2,1,1,1,Private room in apartment,NoneType,no rating,40.76033414,-73.9900389,FALSE,
-141,"Price$1,500 per night",1,studio,1,2,Entire loft,3 Reviews,no rating,40.75600839,-73.98909035,FALSE,
-142,"Price$1,100 per night",7,4,5,3,Entire townhouse,NoneType,no rating,40.7383693,-74.00586017,FALSE,
-143,"Price$1,500 per night",6,3,3,3,Entire loft,2 Reviews,no rating,40.74043036,-73.99276529,FALSE,
-144,"Price$980 per night",1,1,1,1,Private room in apartment,1 Review,no rating,40.80183394,-73.96373425,FALSE,
-145,"Price$999 per night",4,2,2,2.5,Entire apartment,9 Reviews,Rating 5 out of 5,40.73425646,-73.99475881,FALSE,
-146,"Price$1,500 per night",6,1,1,2,Entire loft,14 Reviews,Rating 5 out of 5,40.75130458,-73.98333112,FALSE,
-147,"Price$2,500 per night",3,1,1,2,Entire condominium,4 Reviews,Rating 5 out of 5,40.76454562,-73.97958635,FALSE,
-148,"Price$1,500 per night",6,3,4,4.5,NoneType,NoneType,no rating,40.73658801,-74.00262494,FALSE,no info
-149,"Price$2,000 per night",8,2,3,2.5,Entire condominium,59 Reviews,Rating 5 out of 5,40.77516434,-73.98572615,FALSE,
-150,"Price$1,000 per night",3,1,1,1,Entire condominium,44 Reviews,Rating 5 out of 5,40.77427927,-73.98593766,FALSE,100%
-151,"Price$1,650 per night",5,2,3,2,Entire apartment,13 Reviews,Rating 5 out of 5,40.73881087,-73.99439115,FALSE,91%
-152,"Price$1,000 per night",6,3,4,1.5,Entire loft,44 Reviews,Rating 4.5 out of 5,40.74795158,-73.99170557,FALSE,90%
